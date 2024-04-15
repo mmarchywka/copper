@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: copper.aux
+The style file: plainurl.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=200001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Database file #1: copper.bib
+Warning--I'm ignoring Yu_Liou_Biggins_Copper_Deficiency_Liver_2019's extra "url" field
+--line 2846 of file copper.bib
+Database file #2: mjm_tr.bib
+Database file #3: releases.bib
+Warning--empty year in Yang_Noda_Kato_Elevated_Intestinal_Absorption_
+You've used 29 entries,
+            2760 wiz_defined-function locations,
+            871 strings with 21997 characters,
+and the built_in function-call counts, 16273 in all, are:
+= -- 1698
+> -- 1026
+< -- 4
++ -- 412
+- -- 376
+* -- 1294
+:= -- 2611
+add.period$ -- 116
+call.type$ -- 29
+change.case$ -- 275
+chr.to.int$ -- 0
+cite$ -- 30
+duplicate$ -- 386
+empty$ -- 1085
+format.name$ -- 376
+if$ -- 3746
+int.to.chr$ -- 0
+int.to.str$ -- 29
+missing$ -- 29
+newline$ -- 177
+num.names$ -- 58
+pop$ -- 320
+preamble$ -- 1
+purify$ -- 246
+quote$ -- 0
+skip$ -- 898
+stack$ -- 0
+substring$ -- 307
+swap$ -- 121
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 116
+warning$ -- 1
+while$ -- 68
+width$ -- 31
+write$ -- 403
+(There were 2 warnings)
