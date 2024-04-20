@@ -75,18 +75,6 @@ breaklines=true
 
 
 \newcommand{\mjmtitle}{Utility of Copper Supplementation in Dogs}
-\begin{comment}
-\newcommand{\mjmmakedate}{2024-04-12 }
-\newcommand{\mjmauthor}{Mike J Marchywka }
-\newcommand{\mjmbasename}{\jobname}
-\newcommand{\mjmaddbio}{mjm_tr,releases}
-\newcommand{\mjmversion}{ 0.00 }
-\newcommand{\mjmtrno}{MJM-2024-010}
-\newcommand{\mjmbibday}{12}
-\newcommand{\mjmbibmo}{04}
-\newcommand{\mjmbibyear}{2024}
-\newcommand{\mjmemail}{marchywka@hotmail.com}
-\end{comment}
 
 \input{mycommands.tex}
 
@@ -94,7 +82,7 @@ breaklines=true
 \newcommand{\mjmauthor}{Mike J Marchywka }
 \newcommand{\mjmmakedate}{2024-04-12 }
 \newcommand{\mjmbasename}{\jobname}
-\newcommand{\mjmaddbio}{mjm_tr,releases}
+\newcommand{\mjmaddbio}{mjm_tr,releases,../casesum/casesum}
 %\newcommand{\mjmversion}{0.00}
 %\newcommand{\mjmtrno}{MJM-2024-010}
 %\newcommand{\mjmbibday}{12}
@@ -282,6 +270,122 @@ breaklines=true
 \newcommand{\mjmeqn}[1]{\begin{equation} #1 \end{equation}  } 
 
 
+\newcommand{\mjmhappycu}{
+\begin{figure}[htb] 
+\centering
+\mjmfullplot{happy2seeyou.jpg}
+\caption{  Copper(white) and Zinc(yellow) dosing per day averaged over 
+prior 10 day period as dosing was highly variable due to rotations
+of various nutrients. 
+18046 is 2019-05-30 when the cough was first noted to be gone for a few weeks. 19823 is  2024-04-10 the last date for which data was obtained. The cough stopped prior to the start of the Zinc and gradually increased to a notable background level over most of this interval although notes were incomplete. 
+19531 2023-06-23 notes the start of Cu depletion and chronic cough was noted by late Fall. During this time Zinc greatly exceeded copper dosing.  }
+\end{figure}
+} % mjmhappycu
+
+\newcommand{\mjmtrixiecu}{
+\begin{figure}[htb] 
+\centering
+\mjmfullplot{trixie_cu.jpg}
+\caption{   Trixie copper consumption since arrival. Daily amounts
+( white)) and trailing 10 day average( yellow). Copper started to
+be significant around day 19730 in response to coughing. Day 19807
+marked the end of the copper fast as well as the end of Clavamox
+which was prescribed due to worsening when copper stopped days
+earlier. 
+  }
+\end{figure}
+} % mjmtrixiecu
+
+\newcommand{\mjmrockycu}{
+\begin{figure}[htb] 
+\centering
+\mjmfullplot{rocky_cu.jpg}
+\caption{    Rocky 10 day trailing average copper (white )
+. 
+  }
+\end{figure}
+} % mjmrockycu
+
+\newcommand{\mjmrockyi}{
+\begin{figure}[htb] 
+\centering
+\mjmfullplot{rocky_i.jpg}
+\caption{    Rocky iodine intake daily and with 10 and 30 day trailing averages. Patterns are difficult to discern with the pulsed dosing.  
+  }
+\end{figure}
+} % mjmrockyi
+
+
+
+\newcommand{\mjmmixiecu}{
+\begin{figure}[htb] 
+\centering
+\mjmfullplot{mixie_cu.jpg}
+\caption{    Mixie 10 day trailing average copper (white )
+. 
+  }
+\end{figure}
+} % mjmmixiecu
+
+\newcommand{\mjmbrowniecu}{
+\begin{figure}[htb] 
+\centering
+\mjmfullplot{brownie_cu.jpg}
+\caption{    Brownie 10 day trailing average copper (white )
+. 
+  }
+\end{figure}
+} % mjmrowniecu
+
+
+
+
+\newcommand{\mjmhersheycu}{
+\begin{figure}[htb] 
+\centering
+\mjmfullplot{hershey_cu_i.jpg}
+\caption{    Herhsey 10 day trailing average copper (white )
+and iodine (yellow). 
+  }
+\end{figure}
+} % mjmhersheycu
+
+\newcommand{\mjmhuntcu}{
+
+\begin{table}[H] \centering
+\begin{tabular}{|r|r|c|r|}
+\hline
+\multicolumn{4}{c}{Title}\\
+\hline
+Cu &&& \\
+Zn&&&\\
+Fe&&&\\
+Mo&&&\\
+H/ OH&&&\\
+S and amino acids &&& reduce toxicity \cite{Jensen_Maurice_Influence_Sulfur_Amino_1979}\\
+PO4&&&\\
+Fructose&&&\\
+Tyr&&&\\
+Trp&&&\\
+Pi-complex&&&\\
+Fenton&&&\\
+Ammonia, Amides, N&&&\\
+Citrate&&&\\
+Ascorbate&&&\\
+garlic &&& enhancing bioavailability Cu etc \cite{JSFA:JSFA8113}\\
+Microbial products&&&\\
+phytate&&&\\
+\hline
+\hline
+\end{tabular}
+\caption{ Some entities that may interact with copper}
+%\label{}
+\end{table}
+
+
+} % mjmhuntcu
+
+
 
 
 
@@ -305,6 +409,11 @@ catches onto incomplete or "close but not quite" ideas and reversals
 in recommendations are common. Curious to see how attitudes towards
 copper evolve. It may be worth noting there seems to be a trend
 to get away from copper plumbing lol.  
+Actually looking at the old, unpublished work, "casesum",
+that includes Little Man, most of the text is still
+useful today and has been copied and pasted without attribution
+( since it was a never-published work I authored ).
+
 
 {\bf ToDo : } Known problems: no refs yet, diettables have unit problems for recent
 noun additions
@@ -365,6 +474,7 @@ microbial metabolism.
 Copper has become a concern in dog food over the past few years
 due to the more common
 observation of "copper associated hepatitis"
+\cite{10.1093/tas/txad147}
 \cite{PMC10787350}
 \cite{Center_Richter_Twedt_time_2021}.
 Copper homeostasis is a much larger issue including in human
@@ -372,13 +482,109 @@ health with regard to such unresolved diseases as
 Alzheimer's where the decades of work on amyloid beta
 is becoming more clearly futile. 
 
+Emerging mechanisms such as extracellular veiscles 
+\cite{Bellingham_Guo_Hill_secret_life_2015} suggest
+that uncharacterized mechanisms of metal homeostasis
+exist.
+
+Combined copper and zinc deficiency was observed to
+reduce response to \mjmdisease mRNA vaccines with only
+minimal copper deficiency 
+\cite{Chillon_Demircan_Hackler_Combined_copper_zinc_2023}
+The present work considers copper status in light of
+other nutrients notably amino acids such as Trp
+and Tyr and with zinc being a possible competitor.
+
+In humans lysyl oxidase is sometimes discussed as
+a drug target as its quantity seems to increase in pathological
+situations. 
+This may suggest that additional copper would not likely
+help. 
+
+
+Regulation at transcriptional and translation and post-translational
+levels is confusing. For example, it has been described in
+1998 as \cite{SmithMungo_Kagan_Lysyl_oxidase_Properties_regulation_1998},
+\begin{quote}
+While enzyme activity levels were decreased in the skin of weanling rats
+fed a copper deficient diet, the basal, steady-state levels of LO specific
+mRNA or immunodetectable LO protein were not significantly reduced (Rucker
+et al., 1996). These results suggest both that the biosynthesis of the enzyme
+is not markedly affected by copper deficient diets and that the increasing
+percentage of copper-deficient, catalytically compromised enzyme molecules
+presumed to accumulate during this dietary treatment remain relatively stable.
+Notably, copper-deficient diets significantly reduced cardiac LO activity
+and induced cardiac pathology in male but not in female rats (Werman et
+al., 1995). 
+\end{quote}
+or more to the point from the same year,
+\cite{Rucker_Kosonen_Clegg_Copper_lysyl_oxidase_1998}
+\begin{quote}
+Although nutritional copper status does not influence the accumulation of
+lysyl oxidase as protein or lysyl oxidase steady state messenger RNA concentrations,
+the direct influence of dietary copper on the functional activity of lysyl
+oxidase is clear. The hypothesis is based on the possibility that copper
+efflux and lysyl oxidase secretion from cells may share a common pathway.
+The change in functional activity is most likely the result of posttranslational
+processing of lysyl oxidase.
+\end{quote}
+
+It has been observed to upregulate in the injured
+newborn lung
+\cite{Zhong_Mahoney_Khatun_Lysyl_oxidase_regulation_2022}
+sugesting increased levels may be a response to an insult
+rather than a cause of damage. 
+
+
+
+In 2001, it was observed that bovine lyxyl oxidase had enzymatic
+activity without copper but was less stable
+\cite{Tang_Klinman_Catalytic_Function_2001}
+although details on reactions catalyzed could not have
+been fully explored. 
+
+
+However, metallization may not be complete
+and feedback systems may increase expression to achieve
+an activity level. Note too that "crosslinking" is
+a variable modification and physiological as well as
+pathological crosslinking can occur. 
+While "quantity versus quality" will be the subject of
+another work, its important to remember that increased
+expression of lysyl oxidase genes and more patholoical
+crosslinking could occur in the absence of sufficient copper.
+Mature functional lysyl oxidase contains an unusual 
+ lysine tyrosylquinone (LTQ) which itself is formed in 
+a copper dependent process \cite{PMC2749888}.
+Depence on multiple tyrosines or tryptophans   can
+increase the odss of generating dysfunctional
+enzymes which may be inactive or perform unintended functions 
+when these amino acids are limited. This theme of amino
+acid starvation also appears in concerns about ceruloplasmin
+and more generally with aging. 
+
+Lysyl oxidase  expression has been associated with degenerative
+mitral valve disease in humans\cite{PMC5541772}.
+
 
 Over the  same time however, concerns about diet linked
-DCM in dogs have emerged. 
+DCM in dogs have emerged.  A genetic link is also being
+investgated and a recent GWAS pointed to two genes,
+RNF207 and PRKAA2 as risk factors \cite{PMC10506233}
+ but did not mention copper. 
+However, RNF207 may mediate degradation of ATP7A
+\cite{Zhao_Zeng_Wang_Targeting_2023}
+while PRKAA2 comes up in cuproptosis 
+\cite{10.3389/fcell.2022.996307}.
 
 Its possible the two concerns are related in more copper
 is being absorbed as less is  transported to target organs
 such as the heart.
+This connection between dysregulated copper metabolism and 
+heart disease has been considered recently in humans
+\cite{PMC8838622} in a work that reviews many important
+aspects of copper metabolism. .
+
 
 To help with this apparent conundrum, this work describes
 variable copper supplementation to a group of dogs
@@ -410,6 +616,37 @@ sorting out cause and effect between diet and clinical
 outcomes as fixation on one nutrient at  a time may not
 be productive. 
 
+
+The original motivation for copper was based on notions
+similar to the table below which reflects current
+thinking based on results presented here. 
+
+\begin{table}[H] \centering
+\begin{tabular}{|l|r|l|r|r|r|}
+%\multicolumn{6}{|c|}{Title}\\
+\hline
+Location & site & Effect & time scale & &  \\
+\hline
+Heart & mitochondria & energy production & maybe days && \\ 
+Heart & mitochondria & remodelling  & weeks or months && \\ 
+Heart valves & lysyl oxidase & crosslinking \cite{PMC5541772}  & weeks or months && \\ 
+Trachea & lysyl oxidase & proper crosslinking   & months && \\ 
+Macrophage&  & infection  & days && \\ 
+ceruloplasmin&  & distribution  & days && \\ 
+foreign ligand  & variable  & variable && \\ 
+\hline
+\hline
+\end{tabular}
+\caption{ Some expected benefits of copper that guided the original
+interest and observations although sometimes the goals were lost
+in the details of the diet and outcomes. 
+   }
+\label{tab:causes}
+\end{table}
+
+
+
+
 \section{Cases and Observations}
 
 A series of rescue dogs were fed food and vitamin supplements
@@ -421,34 +658,50 @@ routinely ate toys or yard debris. However, some
 results appear to relate to the vitamin mix and notably
 this includes copper. 
 
+ We tried to set a hard upper limit of
+3mg/kg body weight of supplemental copper per day based on some quoted NOAEL's but the
+original source from  1972 discussed in \cite{NAP9782}.
+
 
 \begin{table}[H] \centering
 \begin{tabular}{|l|r|l|r|r|r|}
 %\multicolumn{6}{|c|}{Title}\\
 \hline
-Dog & \multicolumn{1}{|c|}{Dates} & Condition & weight(lbs) & Cu& Outcomes \\
+Dog & \multicolumn{1}{|c|}{Dates} & Condition & weight(lbs) & Cu(mg/day)& Outcomes \\
 \hline
-Cookie &21-09-10 22-01-21&Resp infection/azithromycin &13.5&&cleared \\
+Cookie &21-09-10 22-01-21&Resp infection/azithromycin &13.5&2&cleared \\
 Happy  &18-09-07 24-04-10&several&13.4 - 17.7&& \\
-Happy  &18-09-07 19-05-30&heartworm/doxycycline&13.4 - 17.2&&cough gone \\
-Happy  &24-03-26 &coughs&15.2 - 15.5&&rare coughing \\
-Brownie  & 21-01-12 23-02-22&pregnant , fibroids &49 - 64&& uneventful  \\
-puppies  &21-03-23 21-06-09&cough&104&&cleared \\
-Trixie  &23-12-16 24-04-10&resp infection/Clavamox&37.6 44.6&&cleared \\
-Rocky  &22-02-05 24-04-10&&4.4 8.3 &&subjective better  \\
-Hershey  &17-04-22 19-08-27&multiple&8.2 9 &&heart failure  \\
+Happy  &18-09-07 19-05-30&heartworm/doxycycline&13.4 - 17.2&2&cough gone \\
+Happy  &24-03-26 &coughs&15.2 - 15.5&2&rare coughing \\
+Brownie  & 21-01-12 23-02-22& &49 - 64&1 variable& pts due to cancer  \\
+Brownie  & 21-01-12 21-02-14&pregnant , fibroids &&1.5-2.5& uneventful  \\
+puppies  &21-03-23 21-06-09&cough&104&4.5&cleared \\
+Trixie  &23-12-16 24-04-10&resp infection/Clavamox&37.6 - 44.6&5&cleared \\
+Rocky  &22-02-05 24-04-10&&4.4 - 8.3 &1&subjective better  \\
+Hershey  &17-04-22 19-08-27&multiple&8.2 -  9 &.2-.6&heart failure  \\
+Hershey  &17-04-22 19-08-27&multiple&8.2 - 9 &2&some improvements  \\
 \hline
 \hline
 \end{tabular}
-\caption{List of dogs most effected by copper supplementation. The puppies were born on 2021-02-14 but only recorded as weaning began. Puppie weight reflects total as they were placed elsewhere and food shares are unknown   }
+\caption{List of dogs most effected by copper supplementation.
+Cu amount given is largest thought to be therapeutic and in case
+of Herhsy amount near death in ().
+ The puppies were born on 2021-02-14 but only recorded as weaning began. Puppie weight reflects total as they were placed elsewhere and food shares are unknown   }
 \label{tab:dogs}
 \end{table}
 
 \subsection{Cookie or Mixie}
+
+\mjmmixiecu
+
 Arrived with diagnosed respiratory infection and azirhtromycin.
 Copper and other nutirents were added and eventually infection
 resolved well.
 \subsection{Brownie and puppies}
+
+\mjmbrowniecu
+
+
 Brownie was determined to be pregnant shortly after arrival
 and her diet may be notable for includsion of both 
 copper and vitamin K. Other conidtions indluce heartworm
@@ -457,6 +710,9 @@ removed 2021-11-15 well after puppies were gone. She was
 unevntful until being doganosed with cancer and killed
 2023-02-22. 
 \subsection{Happy}
+
+\mjmhappycu
+
 Happy arrived heartworm positive coughing to varying degrees.
 She was treaed with a slow kill approach including ivermectin
 and doxycycline as previously described. She later was acting
@@ -464,8 +720,14 @@ sick but appeared to recover well with B vitamin supplements.
 But her coughing never returned to the very low levels
 seen after heart worm recovery until copper doses were increased
 with elimination of any zinc and care with tryptophan.
+As copper was increased due to widespread coughing after Trixie's
+arrival, her cough was noted to decrease.
+
 
 \subsection{Trixie}
+
+\mjmtrixiecu
+
 Trixie began coughing shortly after arrival and was
 very low energy. Many other dogs began to cough or
 hack suggesting that she brought a communicable infectious
@@ -478,6 +740,11 @@ stopped within a few days. Her energy level has improved
 but she still does not run.  
 
 \subsection{Rocky}
+
+\mjmrockycu
+
+\mjmrockyi
+
 Rocky will hopefully be the subject of another work as
 he responded significantly to iodine and sodium benzoate
 which was attributed to, but never lab confirmed, low
@@ -493,6 +760,69 @@ such as feeding ritual.
 
 
 
+\subsection{Hershey}
+
+\mjmhersheycu
+
+
+\begin{table}[H] \centering
+\begin{tabular}{|c|r|p{4in}|}
+%\multicolumn{6}{|c|}{Title}\\
+\hline
+Date & Day number & Comment   \\
+\hline
+2017-09-25 & &developed skin problem, vet prescribed clavamox and miconazole chlorhexidine shampoo Malaseb   \\
+2017-10-13 & & blotches mostly gone yesterday  Barb still notes some  \\
+2017-11-01 & &stumbled down steps did not come up until after PMSNACK restart lipoicacid   \\
+2017-11-13 & &struggles up deck steps but finally made it \\
+2017-12-12 & 17512 & seems to be coughing a lot \\
+2018-03-06 & 17596 & seems to cough less, continue copper \\
+2018-04-19 & 17640 & came up steps on own again cadence sounded good \\
+2018-04-20 & & fur seems thicker except for small area on back behind neck. Still coughing though \\
+2018-04-28 & 17649 &appears alert more flexible and good up steps while still planning although he did stumble the other day  \\
+2018-04-29 & 17650 & seems ok on steps, hair filling in.  \\
+2018-05-29 & 17680 & not coughing much and energetic but refused to eat and diarrhea. Ate small amount indicated around 830AM. He seems ok at noon not coughing much but subdued.    \\
+2018-07-02 & 17714 &lighter and not coughing except when really agitated. Made it up steps good. Could be just weight although not that much lost, something in yard wiped out with spraying, or something like potassium chlorde or the lysine making him worse  \\
+2018-07-15 & 17727 & had rear leg problem, Barb gave rimadyl \\
+2018-09-04 & 17778 &seems to be stumbling more on steps last day or 2 but yesterday later came up good with fish at top ...  \\
+2018-09-19 & 17793 & left rear leg bad had to help up steps still limping in kitchen 5 mintues of so. Gave some b7ngnnc rested ok. Made it up steps after PMSNACK ok although aborted on attempt but it is 95F out.   \\
+2018-10-12 & 17816 &planning and cirling on bottom step then doing good up steps  \\
+2018-11-02 & 17837 & walked up first few steps in the rain and then faster up last few no slipping. Rear left leg may be more useful now.  \\
+2018-11-26 & 17861 & better again on steps walking up but coughing still  \\
+2018-12-04 & 17869 &coughing a lot again try stopping Cu for day or two  \\
+2018-12-17 & 17882 &probably made it up steps on own, saw he was gone then heard barking and clumsy step noise. Seems good still coughing on and off, went around shed today.  \\
+2018-12-27 & 17892 &coughing less and went out to pee, maybe the extra copper yesterday helped quickly  \\
+2019-01-08 & 17904 & seems generally more active maybe coughing less for all the barking with the other 2 BCAA's \\
+2019-03-12 & 17967 & pretty good up steps almost back to recent bests. Coughing like always but darted out the door to deck quite well went around shed etc.  \\
+2019-03-14 & 17969 &leapt up some steps then stumbled near top, went around near side of shed ok and wandered yard for a while  \\
+2019-04-02 & 17988 &good on steps leaping not slipping  \\
+2019-04-26 & 18012 &came up steps without crying on his own.  \\
+2019-05-13 & 18029 & Hershey slower than yesterday more normal  \\
+2019-06-03 & 18050 &Vet found heart failure on X-ray and bladder stones.   \\
+\hline
+\hline
+\end{tabular}
+\caption{ An abbreviated set of note on Herhsey. Increased coughing may have occured due to increased excitability and energy prior to heart remodelling and 
+may have been mistaken as a sign of pathology rather than recovery leading
+to some confusion. 
+   }
+\label{tab:hershey}
+\end{table}
+
+Hershey quickly demonstrated several problems not long after arrival.
+He had problems with his fur, digestion, and coughing while ultimately
+being diagnosed with heart failure and bladder stones.
+During his time here, his diet was varied and he was observed
+for overall eating and bahvior with specific interest in 
+coughing and ability to make it up a short flight of steps
+from the backyard to the deck. Again, the notes were not sufficient
+to fully captures the dynamics of his condition but some representative
+ones have been edited into the above list. Some correspondence with
+copper intake is noted. In the last few days of his life, he
+would pass out and quickly regain consciousness until one day 
+he did not recover presumably due to heart failure. 
+As many features could be rationalized as related to thyroid output,
+his iodine intake was elevated. 
 
 
 \subsection{Miscellaneous Observations}
@@ -508,39 +838,6 @@ some appetite with excessive copper. However, a
 causal link was not eastablished. 
 
 
-\begin{figure}[htb] 
-\centering
-\mjmfullplot{happy2seeyou.jpg}
-\caption{  Copper(white) and Zinc(yellow) dosing per day averaged over 
-prior 10 day period as dosing was highly variable due to rotations
-of various nutrients. 
-18046 is 2019-05-30 when the cough was first noted to be gone for a few weeks. 19823 is  2024-04-10 the last date for which data was obtained. The cough stopped prior to the start of the Zinc and gradually increased to a notable background level over most of this interval although notes were incomplete. 
-19531 2023-06-23 notes the start of Cu depletion and chronic cough was noted by late Fall. During this time Zinc greatly exceeded copper dosing.  }
-\end{figure}
-
-
-\begin{figure}[htb] 
-\centering
-\mjmfullplot{trixie_cu.jpg}
-\caption{   Trixie copper consumption since arrival. Daily amounts
-( white)) and trailing 10 day average( yellow). Copper started to
-be significant around day 19730 in response to coughing. Day 19807
-marked the end of the copper fast as well as the end of Clavamox
-which was prescribed due to worsening when copper stopped days
-earlier. 
-  }
-\end{figure}
-
-
-\begin{figure}[htb] 
-\centering
-\mjmfullplot{hershey_cu_i.jpg}
-\caption{    Herhsey 10 day trailing average copper (white )
-and iodine (yellow). 
-  }
-\end{figure}
-
-
 \section{Discussion }
 
 Several likely benefits of copper suypplementation were observed
@@ -550,6 +847,167 @@ about excessive copper in commercial dog foods.
 Copper use requires uptake and transportation to 
 various targets. Transport out of the liver can be hindered
 for reasons such as ceruloplasmin defects.
+
+Coughing and other subjective signs were often used
+to monitor progress and notes were not always sufficient.
+Coughing as described before can be produced by many
+causes. Here, we were concerned mostly with infection,
+trachea collapse, and heart enlargement. Honking
+related to trachea collapse may be more common when the
+dog is excited. In this case, improving "energy" may
+produce more coughing even though the dog is largely
+healthier but the heart is still large or trachea
+still soft. This is further complicated with additions
+of vitamins that tend to promote alertness as was 
+observed with histidine ( indeed there was some concern
+about aggression when initiating it ). This may not
+have been fully appreciated early on.  
+
+
+While much is not known about cartilage crosslinking,
+turnover, and remodeling some recent results do point
+to unexpected beneficial effects of copper mediated
+cross linking over week time scales \cite{PMID25907046}.
+Copper deficiency has been associated with lung
+development defects in rats \cite{PMC2018314} and airway and arteriole elastin
+were at least partially restored after 60 days of additional copper.
+In poultry,
+infection is known to cause some tracheal symptoms \cite{PMID9835339}
+and  relationship to copper status is considered.
+Copper-garlic may reduce the virulence of some of these for short periods
+even if not completely able to clear a pathogen\cite{PMC4542191}
+and in particular Cu was recently shown to be effective against
+the toxin of one anaerobe  \cite{doi:10.1021/jacs.7b01084} .
+Collapsed trachea in dogs does not appear to be commonly associated
+with copper in the
+literature we found although copper storage disease seems to be an
+active area of investigation\cite{PMC4783930}
+ and copper status does come up
+in other investigations of tracheal damage as highlighted above.
+It is possible that the original motivation
+ is partially correct and that extra copper combined with garlic did
+ allow for better crosslinking to stiffen tracheal cartilage and
+ prevent dynamic collapse and "honking".
+
+B-6 deficiency has been linked to excess copper excretion \cite{PMID7814236}
+possibly making copper a secondary excretion issue
+rather than a primary absorption problem. 
+
+Supplemental copper has been noted to improve
+symptoms in one case report including symptoms such as hearing loss \cite{PMID15902551}
+attributed to defects in cytochrome C oxidase copper loading
+and restore function in mutant yeast \cite{doi:10.1093/hmg/ddu069}
+.Cytochrome C oxidase levels in rat hearts were shown to
+be related to copper deficiency as early as  1998  \cite{Rossi1998}.
+It would be interesting to determine if more problems in dogs
+are related to specific mutations in mitochondrial copper handling.
+We note again that vitamin K could contribute in similar places
+and may be synergistic with copper for connective tissue quality
+as well as in eukaryotic mitochondria \cite{Vos1306}\cite{PMC5022102}
+.
+Remarkably, copper sulfae was shown to protect against
+ETC damage by MPP \cite{RUBIOOSORNIO20171} suggesting
+some activity against toxic insults.
+
+ Age related absorption problems in people
+are known \cite{PMC5133110} and other apparent deficiencies could be a consequence of
+insufficient B-6 alone \cite{PMID7814236}\cite{PMID18564178}\cite{Guilarte1989}.
+% sled dog exercize comment omitted for no good reason to include
+
+Deficiencies are not always correctable by simply eating more of something- for example,
+calcium intake alone may not fix osteoporosis.
+Distribution may be a concern as it is possible to have both
+too much and too little in differing locations due to defects
+not with absorption but rather handling proteins that would transport
+or chaperone copper compounds. The combination
+of the garlic and copper, while sounding like a medieval concoction,
+has been described as synergistic against fungus \cite{PMID16102883}
+and seems plausible for generating perhaps more volatile and diffusable
+copper that could find otherwise inaccessible lysyl
+oxidase and other targets.
+Folklore regarding copper persists and yet clinical trials
+for Cu in arthritis continue to show lack of any benefit
+\cite{10.1371/journal.pone.0071529}
+even as other controlled tests show some effects of Cu on
+processes related to collagen properties
+\cite{PMID6110524}
+Copper dosing with dogs of unknown background may raise some very real cause for
+concern and deficiency has not been considered a
+problem \cite{doi:10.1177/104063870001200201} although suspected years
+earlier in commercial foods \cite{HuberTLa} and
+ low copper is  associated with liver problems related to high fructose( including increased heaptic iron )  \cite{PMID7825519}
+and fat diets in other species \cite{PMC5167165} .
+ Copper storage diseases and in essence "overdose" are
+well known \cite{Fuentealba2003} % this also mentions absorption idiosyncracies
+ and a role in cancer is suspected \cite{PMC5412452}
+.
+% TODO find the other comments for here 
+However, see the comments below about complexed copper actually
+being an active compound similar to other drugs,
+perhaps Pt based for example,  which may kill cancer.
+Copper toxicity has been noted to differ between host cell types
+and may be reducible, at least in  Long Evans Cinnamon rats, with thiamine or lipoic
+acid \cite{ANA:ANA10276}.
+Lysyl oxidase activation, the goal of this therapy, is also associated
+with cancer spread \cite{PMC5399287}\cite{PMC5413586}\cite{PMC5297697}
+. Although it is likely to remodel
+possible tumor locations, its role in growth or  metastases
+in a clinically relevant situation is currently unresolved
+( see for example \cite{PMC3280126}
+ or \cite{PMC5103911} and the survival curve in figure 1).
+Incidence of liver cancer in Wilson's Disease patients is remarkably low
+\cite{PMC4803712} and a discussion of possible treatment effects
+\cite{doi:10.1093/qjmed/hcg114} points out that the copper per
+se rather than removal is likely to help while also mentioning
+differences with iron overload. Indeed, extra copper that prevents
+iron overload may be therapeutic as originally intended.
+
+Two types of excess have been identified as potentially
+important to pathogenesis- mineral and antioxidant.
+Iron overload copper deficiency was identified early on as
+a concern with animals getting high iron diets and generally
+free of parasites in stark contrast to the likely situation over
+evolutionary time scales. A second type emerged on consideration
+of the copper response and cytochrome C oxidase copper loading -
+that of antioxidant overload. ROS have generally gained more acceptance
+as having physiological roles at low concentrations rather than simply
+being a source of damage. Literature related to these experiments
+suggests a very specific role in mitochondrial function.
+The original concern about antioxidant overload was mostly
+confined to vitamin E-K antagonism and it is not
+clear how or if these concerns relate. Coupled with empirical
+deleterious effects of some antioxidant combinations in clinical trials
+( one high profile  example \cite{doi:10.1056/NEJM199605023341802} )
+,
+it is clear that antioxidant excess should be considered
+as a problem with some diets.  The antioxidant paradox
+now seems to be gaining acceptance , for example see \cite{PMC4412352}
+ and \cite{PMC5021979}
+.
+%label cytoc
+%label EK 
+Copper loading
+of cytochrome C oxidase relies on an oxidized
+Cox11 to interact with Cox19 \cite{Bode01072015} and this may be inhibited
+by GSH but is enhanced by GSSG. Redox regulation in the IMS seems to be integral
+to proper copper disposition \cite{IUB:IUB1620} and indeed mitochondrial
+related signaling \cite{PMC5448071} . The latter reference also points
+to tissue specific mitochondrial isoform expression suggesting that maybe
+some related diseases are states rather than traits and hence correctable with
+signaling.
+ Certainly excess antioxidants would be suspicious ( for example reference 24
+\cite{PMC3852343} in \cite{PMC5448071}) .
+However, the enhancement by GSSG suggests that the presence of oxidized antioxidants
+may be beneficial but not in their reduced state.
+We should note that complexed copper is not equivalent
+to copper deficiency as the complex may not be inert.
+However, when an ROS generating complex has been observed it  effects were
+diminished by antioxidants \cite{PMC4223620}.
+This also suggests that copper depletion per se
+may not kill cancer cells as much as copper complexes
+and that concerns about copper supplements and cancer may not
+be significant.
+
 
 
 ver a broad range of genetics, its likely that copper intake
@@ -562,6 +1020,16 @@ in macrophages and other locations, use by lysyl oxidase to
 stiffen trachea and other structural organs, and for
 energy production notably by the heart leading to greater
 volumetric efficiency. 
+As with most other sites, copper in macrophages can be
+considered pathological and attempts may be made
+to limit rather than enhance it.
+For example, targeting mitochondrial copper with
+"rationally" designed metformin dimers 
+\cite{Solier_Muller_Caneque_druggable_copper_signalling_2023}
+even as the other correlates sound pathological
+and its likely the inflammation being reduced would
+be beneficial if some other problem was corrected. 
+
 
 
 
@@ -715,6 +1183,45 @@ sulfate
 Pulmonary hypertension may be controlled by serotonin
 \cite{PMID27927914} and therefore tryptophan intake. 
 
+Copper solubility is pH dependent \cite{10.1093/chemse/bjl010}
+
+Content in drinking water is variable and may be perceived
+by humans depending on factors like pH \cite{Hong_Duncan_Dietrich_Effect_copper_speciation_2010} sugesting it may be perceived by dogs too.
+Interaction with food components such as polyphenols is significant
+and pH dependent 
+\cite{PMC3401972} motivating a larger interest in food interactions
+and in particular rings such as in tyorinse. Speciation gradients
+may be large in the range of possible stomach acid levels.  
+A 2021 study did in fact explore copper speciation in simulated
+gastic juices with food components such as 
+tyrosine and citric acid among others \cite{PMC8441336}.
+
+
+Zinc absorption has been shown to depend on salt type and
+gastric pH 
+\cite{PMID8577018}.
+
+Impact of GI pH on broiler chicks has been studied due to impact
+on nutrition and micrbial populations 
+and Cu-Zn antagonism in the digestive system was also observed
+\cite{Pang_Applegate_Effects_Dietary_Copper_2007}.
+Iron intake in ruminant feed has also been observed to decrease
+copper uptake
+\cite{Clarkson_Paine_Kendall_Evaluation_solubility_2021}.
+In humans, PPI usage has become common. Empirically thate
+may be a tumor protective effect and  there is a suggestion
+that  pH 6 encourages cancer progression
+versus pH 8
+\cite{PMC7085403}
+yet alkaline stomach pH is observed is commonly observed
+in gastric carcinoma
+\cite{10.1007/978-4-431-68246-2_26}.
+Probably the dominant effect on tumors is unrelated to ambient
+pH although increased pH may reduce nutrient
+accumulation by many cells. An absolute apoptosis rate
+at near neutral pH is probably not indicative of the
+overall fitness in the stomach. 
+
 
 \section{Limitations}
 While the other components were mentioned as important,
@@ -789,11 +1296,15 @@ and the latter may not even do anything lol.  A note also
 
 \begin{lstlisting}
 
+diet tables, 
 
 2766  ./run_linc_graph -dt-mo txt/happy2cu.txt 
  2767  texfrag -include xxxtable 
  2768  mv xxxtable /home/documents/latex/proj/copper/keep/monthly.tex
 
+datascope output, 
+
+./run_linc_graph -2dscope Iodine "Happy" "filter=lag20"
 
 
 \end{lstlisting}
@@ -858,6 +1369,9 @@ effectively to treat other dogs.
 
 \input{keep/monthly.tex}
 
+
+\section{Notable Food Components with Copper Interactions}
+\mjmhuntcu
 
 \section{Symbols, Abbreviations and Colloquialisms}
 

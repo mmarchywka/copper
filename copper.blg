@@ -11,46 +11,152 @@ Warning--I'm ignoring Yu_Liou_Biggins_Copper_Deficiency_Liver_2019's extra "url"
 --line 2846 of file copper.bib
 Database file #2: mjm_tr.bib
 Database file #3: releases.bib
+Database file #4: ../casesum/casesum.bib
+Repeated entry---line 3523 of file ../casesum/casesum.bib
+ :  @article{PMC4542191
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5275 of file ../casesum/casesum.bib
+ :  @article{PMID9835339
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5407 of file ../casesum/casesum.bib
+ :  @article{PMID15902551
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5431 of file ../casesum/casesum.bib
+ :  @article{PMC4223620
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5451 of file ../casesum/casesum.bib
+ :  @article{PMC4412352
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5633 of file ../casesum/casesum.bib
+ :  @article{PMC4783930
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5687 of file ../casesum/casesum.bib
+ :  @article{PMID25907046
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5730 of file ../casesum/casesum.bib
+ :  @article{PMID16102883
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 5968 of file ../casesum/casesum.bib
+ :  @article{PMC2018314
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6033 of file ../casesum/casesum.bib
+ :  @article{PMC5399287
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6095 of file ../casesum/casesum.bib
+ :  @article{PMC4803712
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6219 of file ../casesum/casesum.bib
+ :  @article{PMID7814236
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6231 of file ../casesum/casesum.bib
+ :  @article{PMID18564178
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6243 of file ../casesum/casesum.bib
+ :  @article{PMC5133110
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6283 of file ../casesum/casesum.bib
+ :  @article{PMC3852343
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6305 of file ../casesum/casesum.bib
+ :  @article{PMC5448071
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6345 of file ../casesum/casesum.bib
+ :  @article{PMC5021979
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6501 of file ../casesum/casesum.bib
+ :  @article{PMID6110524
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6512 of file ../casesum/casesum.bib
+ :  @article{PMC5167165
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6534 of file ../casesum/casesum.bib
+ :  @article{PMC5297697
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6554 of file ../casesum/casesum.bib
+ :  @article{PMC5412452
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6574 of file ../casesum/casesum.bib
+ :  @article{PMC5413586
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6596 of file ../casesum/casesum.bib
+ :  @article{PMC3280126
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6700 of file ../casesum/casesum.bib
+ :  @article{PMC5103911
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 6754 of file ../casesum/casesum.bib
+ :  @article{PMC5022102
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 7007 of file ../casesum/casesum.bib
+ :  @article{PMID7825519
+ :                      ,
+I'm skipping whatever remains of this entry
+Warning--empty year in HuberTLa
 Warning--empty year in Yang_Noda_Kato_Elevated_Intestinal_Absorption_
-You've used 29 entries,
+You've used 96 entries,
             2760 wiz_defined-function locations,
-            871 strings with 21997 characters,
-and the built_in function-call counts, 16273 in all, are:
-= -- 1698
-> -- 1026
-< -- 4
-+ -- 412
-- -- 376
-* -- 1294
-:= -- 2611
-add.period$ -- 116
-call.type$ -- 29
-change.case$ -- 275
+            1415 strings with 49015 characters,
+and the built_in function-call counts, 54920 in all, are:
+= -- 5744
+> -- 3370
+< -- 11
++ -- 1347
+- -- 1233
+* -- 4384
+:= -- 8700
+add.period$ -- 389
+call.type$ -- 96
+change.case$ -- 902
 chr.to.int$ -- 0
-cite$ -- 30
-duplicate$ -- 386
-empty$ -- 1085
-format.name$ -- 376
-if$ -- 3746
+cite$ -- 98
+duplicate$ -- 1295
+empty$ -- 3799
+format.name$ -- 1233
+if$ -- 12691
 int.to.chr$ -- 0
-int.to.str$ -- 29
-missing$ -- 29
-newline$ -- 177
-num.names$ -- 58
-pop$ -- 320
+int.to.str$ -- 96
+missing$ -- 97
+newline$ -- 583
+num.names$ -- 194
+pop$ -- 1059
 preamble$ -- 1
-purify$ -- 246
+purify$ -- 807
 quote$ -- 0
-skip$ -- 898
+skip$ -- 2921
 stack$ -- 0
-substring$ -- 307
-swap$ -- 121
-text.length$ -- 4
+substring$ -- 1448
+swap$ -- 345
+text.length$ -- 11
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 116
-warning$ -- 1
-while$ -- 68
-width$ -- 31
-write$ -- 403
-(There were 2 warnings)
+type$ -- 382
+warning$ -- 2
+while$ -- 256
+width$ -- 98
+write$ -- 1328
+(There were 26 error messages)

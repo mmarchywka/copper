@@ -2,25 +2,27 @@
 \contentsline {section}{\numberline {}Contents}{2}{section*.1}%
 \tocdepth@restore 
 \contentsline {section}{\numberline {1}Introduction }{3}{section*.2}%
-\contentsline {section}{\numberline {2}Cases and Observations}{3}{section*.3}%
-\contentsline {subsection}{\numberline {2.1}Cookie or Mixie}{3}{section*.4}%
-\contentsline {subsection}{\numberline {2.2}Brownie and puppies}{3}{section*.5}%
-\contentsline {subsection}{\numberline {2.3}Happy}{4}{section*.6}%
-\contentsline {subsection}{\numberline {2.4}Trixie}{4}{section*.7}%
-\contentsline {subsection}{\numberline {2.5}Rocky}{4}{section*.8}%
-\contentsline {subsection}{\numberline {2.6}Miscellaneous Observations}{4}{section*.9}%
-\contentsline {section}{\numberline {3}Discussion }{4}{section*.10}%
-\contentsline {section}{\numberline {4}Limitations}{6}{section*.11}%
-\contentsline {section}{\numberline {5}Conclusions}{7}{section*.12}%
-\contentsline {section}{\numberline {6}Supplemental Information}{7}{section*.13}%
-\contentsline {subsection}{\numberline {6.1}Computer Code}{7}{section*.14}%
-\contentsline {section}{\numberline {7}Bibliography}{7}{section*.15}%
-\contentsline {section}{\numberline {}References}{7}{section*.16}%
-\contentsline {section}{\numberline {}Acknowledgments}{9}{section*.17}%
+\contentsline {section}{\numberline {2}Cases and Observations}{4}{section*.3}%
+\contentsline {subsection}{\numberline {2.1}Cookie or Mixie}{4}{section*.4}%
+\contentsline {subsection}{\numberline {2.2}Brownie and puppies}{4}{section*.5}%
+\contentsline {subsection}{\numberline {2.3}Happy}{5}{section*.6}%
+\contentsline {subsection}{\numberline {2.4}Trixie}{5}{section*.7}%
+\contentsline {subsection}{\numberline {2.5}Rocky}{6}{section*.8}%
+\contentsline {subsection}{\numberline {2.6}Hershey}{9}{section*.9}%
+\contentsline {subsection}{\numberline {2.7}Miscellaneous Observations}{10}{section*.10}%
+\contentsline {section}{\numberline {3}Discussion }{10}{section*.11}%
+\contentsline {section}{\numberline {4}Limitations}{13}{section*.12}%
+\contentsline {section}{\numberline {5}Conclusions}{13}{section*.13}%
+\contentsline {section}{\numberline {6}Supplemental Information}{13}{section*.14}%
+\contentsline {subsection}{\numberline {6.1}Computer Code}{13}{section*.15}%
+\contentsline {section}{\numberline {7}Bibliography}{14}{section*.16}%
+\contentsline {section}{\numberline {}References}{14}{section*.17}%
+\contentsline {section}{\numberline {}Acknowledgments}{19}{section*.18}%
 \appendix 
-\contentsline {section}{\numberline {A} Statement of Conflicts }{10}{section*.18}%
-\contentsline {section}{\numberline {B}About the Authors and Facility}{10}{section*.19}%
-\contentsline {section}{\numberline {C}Background Diet Sumnary}{11}{section*.20}%
-\contentsline {section}{\numberline {D}Symbols, Abbreviations and Colloquialisms}{14}{section*.21}%
-\contentsline {section}{\numberline {E}General caveats and disclaimer }{14}{section*.22}%
-\contentsline {section}{\numberline {F}Citing this as a tech report or white paper }{15}{section*.23}%
+\contentsline {section}{\numberline {A} Statement of Conflicts }{20}{section*.19}%
+\contentsline {section}{\numberline {B}About the Authors and Facility}{20}{section*.20}%
+\contentsline {section}{\numberline {C}Background Diet Sumnary}{21}{section*.21}%
+\contentsline {section}{\numberline {D}Notable Food Components with Copper Interactions}{25}{section*.22}%
+\contentsline {section}{\numberline {E}Symbols, Abbreviations and Colloquialisms}{25}{section*.23}%
+\contentsline {section}{\numberline {F}General caveats and disclaimer }{25}{section*.24}%
+\contentsline {section}{\numberline {G}Citing this as a tech report or white paper }{25}{section*.25}%
