@@ -1,17 +1,17 @@
 322861 May 23 2020 ../casesum/casesum.bib e3f31502ec3535aa4116c6682917678b
-2803 Apr 20 14:26 comment.cut 81bd08367d002fbe050659b520076826
-19453 Apr 20 14:26 copper.aux b42825e80d804b9fd8319f014f659187
-45504 Apr 20 14:25 copper.bbl 37ac687dc8e51dd301968af776467508
-397946 Apr 20 14:25 copper.bib 0ddaf99cd5d1d7d9242ebf72262ad64a
-5475 Apr 20 14:25 copper.blg 4357255b5afe56c5213f48e6bfb8d575
-0 Apr 20 14:28 copper.bundle_checksums d41d8cd98f00b204e9800998ecf8427e
-32156 Apr 20 14:26 copper.fls 4e78d6e611bd85450272062738216d37
-3 Apr 20 14:25 copper.last_page 66a7c1d5cb75ef2542524d888fd32f4a
-54174 Apr 20 14:26 copper.log 56da427adb5c77d893bc1baf4ea56484
-3709 Apr 20 14:26 copper.out 2abb73b484882ff4091418a1307784e6
-698120 Apr 20 14:26 copper.pdf c04cbedd134e81b10fcbacb7f90672ea
-55633 Apr 20 14:21 copper.tex a7d89a285d4f7711eb5848e7be0e4396
-2015 Apr 20 14:26 copper.toc c3413e78c18dd4470f2c23cd60a51ea3
+2711 Apr 21 08:04 comment.cut 4edd72dbd3dc79bddfeca71faaf8d222
+19453 Apr 21 08:04 copper.aux dac2c414c16b61f5302a3e839a6d4383
+45504 Apr 21 08:04 copper.bbl 37ac687dc8e51dd301968af776467508
+397946 Apr 21 08:04 copper.bib 190e02d3f88e8d70105fddf929b6e5eb
+5475 Apr 21 08:04 copper.blg 4357255b5afe56c5213f48e6bfb8d575
+0 Apr 21 11:48 copper.bundle_checksums d41d8cd98f00b204e9800998ecf8427e
+32156 Apr 21 08:04 copper.fls 903c166b3ced70e37dff099c581f26df
+3 Apr 21 08:04 copper.last_page 66a7c1d5cb75ef2542524d888fd32f4a
+54143 Apr 21 08:04 copper.log 427dc25585fb896949a5a8d3bb878d66
+3709 Apr 21 08:04 copper.out 2abb73b484882ff4091418a1307784e6
+699527 Apr 21 08:04 copper.pdf 9b828bbbaa82106af783f62c14a79a87
+56619 Apr 21 11:30 copper.tex f27bc27b1f63a02d7d4d59e857fd7033
+2015 Apr 21 08:04 copper.toc c3413e78c18dd4470f2c23cd60a51ea3
 45970 Apr 18 12:01 /home/documents/latex/bib/mjm_tr.bib e455440cebe55000e46177de11c09ce0
 46905 Oct 31 08:39 /home/documents/latex/bib/releases.bib 6312c37f3f52915692464bb77750d464
 7331 Jan 24 2019 /home/documents/latex/pkg/fltpage.sty 73b3a2493ca297ef0d59d6c1b921684b
@@ -51,4 +51,4 @@
 413 Apr 12 08:46 releases.tex 56213b8bd7e164dd6e668b62f5acf868
 15 May 20 2023 /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map -> pdftex_dl14.map f177baa1c39a3ebd62c3096a43521a0d
 2639651 Mar 16 09:02 /var/lib/texmf/web2c/luatex/lualatex.fmt dc6e497e977effcd6b888a0f2c9952dc
-698120 Apr 20 14:26 copper.pdf c04cbedd134e81b10fcbacb7f90672ea
+699527 Apr 21 08:04 copper.pdf 9b828bbbaa82106af783f62c14a79a87

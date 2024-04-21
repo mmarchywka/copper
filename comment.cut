@@ -72,7 +72,6 @@ Version & Date & Comments  &  \\
 \end{tabular}
 \end{table}
 
-
 Released versions,
 
 build script needs to include empty releases.tex
@@ -85,25 +84,12 @@ Version & Date & URL    \\
 \end{tabular}
 \end{table}
 
-
-
-
-
-% 2020-11-30 keep on same page
-%\input{bibtex2.txt}
-
 \begin{minipage}{\linewidth}
 %\input{bibtex2.txt}
 %\input{bibtex3.txt}
 \mjmshowbib
 \end{minipage}
 
-
-
-
-\begin{comment}
-
-\end{comment}
 \vspace{1cm}
 Supporting files. Note that some dates,sizes, and md5's will change as this is
 rebuilt.
