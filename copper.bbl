@@ -1,4 +1,16 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{100}
+
+\bibitem{Ahn_Ranjit_Premkumar_Mitochondrial_oxidative_stress_impairs_2019}
+Bumsoo Ahn, Rojina Ranjit, Pavithra Premkumar, Gavin Pharaoh, Katarzyna~M.
+  Piekarz, Satoshi Matsuzaki, Dennis~R. Claflin, Kaitlyn Riddle, Jennifer
+  Judge, Shylesh Bhaskaran, Kavithalakshmi~Satara Natarajan, Erika Barboza,
+  Benjamin Wronowski, Michael Kinter, Kenneth~M. Humphries, Timothy~M. Griffin,
+  Willard~M. Freeman, Arlan Richardson, Susan~V. Brooks, and Holly~Van Remmen.
+\newblock Mitochondrial oxidative stress impairs contractile function but
+  paradoxically increases muscle mass via fibre branching.
+\newblock {\em Journal of Cachexia, Sarcopenia and Muscle}, 10, 2019.
+\newblock Available from: \url{http://dx.doi.org/10.1002/jcsm.12375}, \href
+  {http://dx.doi.org/10.1002/jcsm.12375} {\path{doi:10.1002/jcsm.12375}}.
 
 \bibitem{PMID27927914}
 Robert~J Aiello, Patricia-Ann Bourassa, Qing Zhang, Jeffrey Dubins, Daniel~R
@@ -202,6 +214,13 @@ Thilo~Samson Chillon, Kamil Demircan, Julian Hackler, Raban~A. Heller, Peyman
   {http://dx.doi.org/10.1016/j.heliyon.2023.e20919}
   {\path{doi:10.1016/j.heliyon.2023.e20919}}.
 
+\bibitem{Cianciaruso_Jones_Kopple_Histidine_Essential_Amino_1981}
+Bruno Cianciaruso, Michael~R. Jones, and Joel~D. Kopple.
+\newblock Histidine, an essential amino acid for adult dogs.
+\newblock {\em The Journal of Nutrition}, 111, 1981.
+\newblock Available from: \url{http://dx.doi.org/10.1093/jn/111.6.1074}, \href
+  {http://dx.doi.org/10.1093/jn/111.6.1074} {\path{doi:10.1093/jn/111.6.1074}}.
+
 \bibitem{Clarkson_Paine_Kendall_Evaluation_solubility_2021}
 Andrea~H. Clarkson, Stuart~W. Paine, and Nigel~R. Kendall.
 \newblock Evaluation of the solubility of a range of copper sources and the
@@ -230,6 +249,31 @@ Jonathan~D. Cuppett, Susan~E. Duncan, and Andrea~M. Dietrich.
   {\path{arXiv:https://academic.oup.com/chemse/article-pdf/31/7/689/779389/bjl010.pdf}},
   \href {http://dx.doi.org/10.1093/chemse/bjl010}
   {\path{doi:10.1093/chemse/bjl010}}.
+
+\bibitem{Ezer_Saarinen_Katayama_Identification_novel_genetic_2023}
+Sini Ezer, Auli Saarinen, Shintaro Katayama, Masahito Yoshihara, Abdul~Kadir
+  Mukarram, Rasha~Fahad Aljelaify, Fiona Ross, Amitha Raman, Irene Stevens,
+  Oleg Gusev, Danika Bannasch, Jeffrey~J. Schoenebeck, Juha Kere, W.~Glen Pyle,
+  Jonas Donner, Alex~V. Postma, Tosso Leeb, G\"{o}ran Andersson, Marjo~K.
+  Hyt\"{o}nen, Jens H\"{a}ggstr\"{o}m, Maria Wiberg, Jana Friederich, Jenny
+  Eberhard, Magdalena Harakalova, Frank~G. van Steenbeek, Gerhard Wess, Hannes
+  Lohi, Julia~E. Niskanen, AAsa Ohlsson, Ingrid Ljungvall, Michaela
+  Dr\"{o}gem\"{u}ller, Robert~F. Ernst, Dennis Dooijes, Hanneke W.~M. van
+  Deutekom, J.~Peter van Tintelen, Christian J.~B. Snijders~Blok, Marion~van
+  Vugt, Jessica~van Setten, Folkert~W. Asselbergs, Aleksandra~Domanjko
+  PetriUx010d[bad~char vv=269], Milla Salonen, Sruthi Hundi, Matthias
+  H\"{o}rtenhuber, Carsten Daub, C\'{e}sar~L. Araujo, Ileana~B. Quintero, Kaisa
+  Ky\"{o}stil\"{a}, Maria Kaukonen, Meharji Arumilli, Riika Sarviaho, Jenni
+  Puurunen, Sini Sulkama, Sini Karjalainen, Antti Sukura, Pernilla Syrj\"{a},
+  Niina Airas, Henna Pekkarinen, Ilona Kareinen, Hanna-Maaria Javela, Anna
+  Knuuttila, Heli Nordgren, Karoliina Hagner, Tarja P\"{a}\"{a}kk\"{o}nen,
+  Antti Iivanainen, and Kaarel Krjutskov.
+\newblock Identification of novel genetic risk factors of dilated
+  cardiomyopathy: from canine to human.
+\newblock {\em Genome Medicine}, 15, 2023.
+\newblock Available from: \url{http://dx.doi.org/10.1186/s13073-023-01221-3},
+  \href {http://dx.doi.org/10.1186/s13073-023-01221-3}
+  {\path{doi:10.1186/s13073-023-01221-3}}.
 
 \bibitem{PMC4223620}
 M~Fatfat, RA~Merhi, O~Rahal, DA~Stoyanovsky, A~Zaki, H~Haidar, VE~Kagan,
@@ -326,6 +370,15 @@ S~Hekimi, Y~Wang, and A~Noë.
 \newblock Available from:
   \url{http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5021979/}.
 
+\bibitem{Hellman_Kono_Mancini_Mechanisms_Copper_Incorporation_2002}
+Nathan~E. Hellman, Satoshi Kono, Grazia~M. Mancini, A.J. Hoogeboom, G.J.~de
+  Jong, and Jonathan~D. Gitlin.
+\newblock Mechanisms of copper incorporation into human ceruloplasmin.
+\newblock {\em Journal of Biological Chemistry}, 277, 2002.
+\newblock Available from: \url{http://dx.doi.org/10.1074/jbc.m206246200}, \href
+  {http://dx.doi.org/10.1074/jbc.m206246200}
+  {\path{doi:10.1074/jbc.m206246200}}.
+
 \bibitem{PMID8577018}
 L~M Henderson, G~J Brewer, J~B Dressman, S~Z Swidan, D~J DuRoss, C~H Adair, J~L
   Barnett, and R~R Berardi.
@@ -394,6 +447,16 @@ Rui Jiang, Yang Sui, Jingru Hong, Manabu Niimi, Qiaojing Yan, Zhuheng Shi, and
 \newblock Available from: \url{http://dx.doi.org/10.3390/biom13010143}, \href
   {http://dx.doi.org/10.3390/biom13010143} {\path{doi:10.3390/biom13010143}}.
 
+\bibitem{Kim_Turski_Nose_Cardiac_Copper_Deficiency_Activates_2010}
+Byung-Eun Kim, Michelle~L. Turski, Yasuhiro Nose, Michelle Casad, Howard~A.
+  Rockman, and Dennis~J. Thiele.
+\newblock Cardiac copper deficiency activates a systemic signaling mechanism
+  that communicates with the copper acquisition and storage organs.
+\newblock {\em Cell Metabolism}, 11, 2010.
+\newblock Available from: \url{http://dx.doi.org/10.1016/j.cmet.2010.04.003},
+  \href {http://dx.doi.org/10.1016/j.cmet.2010.04.003}
+  {\path{doi:10.1016/j.cmet.2010.04.003}}.
+
 \bibitem{Klevay_contemporaneous_epidemic_2022}
 Leslie~M. Klevay.
 \newblock The contemporaneous epidemic of chronic, copper deficiency.
@@ -445,6 +508,25 @@ Mark~A. Lovell, Chengsong Xie, and William~R. Markesbery.
   {http://dx.doi.org/10.1016/s0006-8993(99)01114-2}
   {\path{doi:10.1016/s0006-8993(99)01114-2}}.
 
+\bibitem{Lukaski_Hall_Marchello_Body_temperature_thyroid_1995}
+Henry~C. Lukaski, Clinton~B. Hall, and Martin~J. Marchello.
+\newblock Body temperature and thyroid hormone metabolism of copper-deficient
+  rats.
+\newblock {\em The Journal of Nutritional Biochemistry}, 6, 1995.
+\newblock Available from: \url{http://dx.doi.org/10.1016/0955-2863(95)00062-5},
+  \href {http://dx.doi.org/10.1016/0955-2863(95)00062-5}
+  {\path{doi:10.1016/0955-2863(95)00062-5}}.
+
+\bibitem{mmarchywka-MJM-2019-001-.1rg}
+M.J. Marchywka.
+\newblock Canine heartworm treated with doxycycline, ivermectin and various
+  supplements.
+\newblock Technical Report MJM-2019-001, not institutionalized , independent,
+  306 Charles Cox , Canton GA 30115, March 2021.
+\newblock May be recycled in appropriate media.
+\newblock Available from:
+  \url{https://www.researchgate.net/publication/350442384_Canine_Heartworm_Treated_with_Doxycycline_Ivermectin_and_Various_Supplements}.
+
 \bibitem{PMID25907046}
 B~Marelli, Nihouannen~D Le, SA~Hacking, S~Tran, J~Li, M~Murshed, CJ~Doillon,
   CE~Ghezzi, YL~Zhang, SN~Nazhat, and JE~Barralet.
@@ -453,6 +535,27 @@ B~Marelli, Nihouannen~D Le, SA~Hacking, S~Tran, J~Li, M~Murshed, CJ~Doillon,
 \newblock {\em Biomaterials}, 54:126--35, 2015.
 \newblock Available from:
   \url{http://www.ncbi.nlm.nih.gov/pubmed/articles/25907046/}.
+
+\bibitem{Masaldan_Clatworthy_Gamell_Copper_accumulation_senescent_2018}
+Shashank Masaldan, Sharnel~A.S. Clatworthy, Cristina Gamell, Zoe~M. Smith,
+  Paul~S. Francis, Delphine Denoyer, Peter~M. Meggyesy, Sharon~La Fontaine, and
+  Michael~A. Cater.
+\newblock Copper accumulation in senescent cells: Interplay between copper
+  transporters and impaired autophagy.
+\newblock {\em Redox Biology}, 16, 2018.
+\newblock Available from: \url{http://dx.doi.org/10.1016/j.redox.2018.03.007},
+  \href {http://dx.doi.org/10.1016/j.redox.2018.03.007}
+  {\path{doi:10.1016/j.redox.2018.03.007}}.
+
+\bibitem{PMID12539966}
+Denis~M Medeiros and Dianne Jennings.
+\newblock Role of copper in mitochondrial biogenesis via interaction with atp
+  synthase and cytochrome c oxidase.
+\newblock {\em Journal of bioenergetics and biomembranes}, pages 389--95, Oct
+  2002.
+\newblock Available from: \url{https://pubmed.ncbi.nlm.nih.gov/12539966/},
+  \href {http://dx.doi.org/10.1023/a:1021206220851}
+  {\path{doi:10.1023/a:1021206220851}}.
 
 \bibitem{Mold_OuroGnao_Wieckowski_Copper_prevents_amyloid_upbeta1_2013}
 Matthew Mold, Larissa Ouro-Gnao, Beata~M Wieckowski, and Christopher Exley.
@@ -558,6 +661,18 @@ Gilbert~S. Omenn, Gary~E. Goodman, Mark~D. Thornquist, John Balmes, Mark~R.
   {http://dx.doi.org/10.1056/NEJM199605023341802}
   {\path{doi:10.1056/NEJM199605023341802}}.
 
+\bibitem{PMC9552398}
+Dan~G. ONeill, Janine~Pheng Khoo, Dave~C. Brodbelt, David~B. Church, Camilla
+  Pegram, and Rebecca~F. Geddes.
+\newblock Frequency, breed predispositions and other demographic risk factors
+  for diagnosis of hypothyroidism in dogs under primary veterinary care in the
+  uk.
+\newblock {\em Canine Medicine and Genetics}, 10 2022.
+\newblock Available from:
+  \url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9552398/}, \href
+  {http://dx.doi.org/10.1186/s40575-022-00123-8}
+  {\path{doi:10.1186/s40575-022-00123-8}}.
+
 \bibitem{Pang_Applegate_Effects_Dietary_Copper_2007}
 Y.~Pang and T.J. Applegate.
 \newblock Effects of dietary copper supplementation and copper source on
@@ -566,6 +681,16 @@ Y.~Pang and T.J. Applegate.
 \newblock {\em Poultry Science}, 86, 2007.
 \newblock Available from: \url{http://dx.doi.org/10.1093/ps/86.3.531}, \href
   {http://dx.doi.org/10.1093/ps/86.3.531} {\path{doi:10.1093/ps/86.3.531}}.
+
+\bibitem{PMID11849228}
+Tony Peled, Efrat Landau, Eugenia Prus, Abraham~J Treves, Arnon Nagler, and
+  Eitan Fibach.
+\newblock Cellular copper content modulates differentiation and self-renewal in
+  cultures of cord blood-derived cd34+ cells.
+\newblock {\em British journal of haematology}, pages 655--61, Mar 2002.
+\newblock Available from: \url{https://pubmed.ncbi.nlm.nih.gov/11849228/},
+  \href {http://dx.doi.org/10.1046/j.0007-1048.2001.03316.x}
+  {\path{doi:10.1046/j.0007-1048.2001.03316.x}}.
 
 \bibitem{PMC3401972}
 Katharina~F. Pirker, Maria~Camilla Baratto, Riccardo Basosi, and Bernard~A.
@@ -757,6 +882,27 @@ Huber TL, Laflamme DP, Medleau L, Comer KM, and Rakich PM.
 \newblock {\em Journal of the American Veterinary Medical Association}, 199.
 \newblock Available from: \url{http://europepmc.org/abstract/med/1659568}.
 
+\bibitem{PMC11042178}
+Lissa Ventura-Antunes, Alex Nackenoff, Wilber Romero-Fernandez, Allison~M
+  Bosworth, Alex Prusky, Emmeline Wang, Cristian Carvajal-Tapia, Alena Shostak,
+  Hannah Harmsen, Bret Mobley, Jose Maldonado, Elena Solopova, J~Caleb Snider,
+  W~David Merryman, Ethan~S Lippmann, and Matthew Schrag.
+\newblock Arteriolar degeneration and stiffness in cerebral amyloid angiopathy
+  are linked to beta-amyloid deposition and lysyl oxidase., 04 2024.
+\newblock Available from: \url{https://pubmed.ncbi.nlm.nih.gov/38659767/},
+  \href {http://dx.doi.org/10.1101/2024.03.08.583563}
+  {\path{doi:10.1101/2024.03.08.583563}}.
+
+\bibitem{PMC5824686}
+Katherine~E Vest, Amanda~L Paskavitz, Joseph~B Lee, and Teresita
+  Padilla-Benavides.
+\newblock Dynamic changes in copper homeostasis and post-transcriptional
+  regulation of atp7a during myogenic differentiation.
+\newblock {\em Metallomics : integrated biometal science}, pages 309--322, Feb
+  2018.
+\newblock Available from: \url{https://pubmed.ncbi.nlm.nih.gov/29333545/},
+  \href {http://dx.doi.org/10.1039/c7mt00324b} {\path{doi:10.1039/c7mt00324b}}.
+
 \bibitem{PMID36583241}
 Birgitte Villadsen, Camilla Thygesen, Manuela Grebing, Stefan~J Kempf, Marie~B
   Sandberg, Pia Jensen, Stefanie~H Kolstrup, Helle~H Nielsen, Martin~R Larsen,
@@ -924,5 +1070,16 @@ Ying Zhong, Rose~C. Mahoney, Zehedina Khatun, Howard~H. Chen, Christopher~T.
 \newblock Available from: \url{http://dx.doi.org/10.1152/ajplung.00158.2021},
   \href {http://dx.doi.org/10.1152/ajplung.00158.2021}
   {\path{doi:10.1152/ajplung.00158.2021}}.
+
+\bibitem{PMC9469499}
+Weidong Zhu, Chunying Wang, Jianping Wu, Shuqiu Chen, Weipu Mao, Yu~Chen, and
+  Ming Chen.
+\newblock Dietary copper intake and the prevalence of kidney stones among adult
+  in the united states: A propensity score matching study.
+\newblock {\em Frontiers in Public Health}, 08 2022.
+\newblock Available from:
+  \url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9469499/}, \href
+  {http://dx.doi.org/10.3389/fpubh.2022.973887}
+  {\path{doi:10.3389/fpubh.2022.973887}}.
 
 \end{thebibliography}

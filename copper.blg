@@ -9,6 +9,8 @@ Reallocated glb_str_end (elt_size=4) to 20 items from 10.
 Database file #1: copper.bib
 Warning--I'm ignoring Yu_Liou_Biggins_Copper_Deficiency_Liver_2019's extra "url" field
 --line 2846 of file copper.bib
+Warning--entry type for "PMC11042178" isn't style-file defined
+--line 6239 of file copper.bib
 Database file #2: mjm_tr.bib
 Database file #3: releases.bib
 Database file #4: ../casesum/casesum.bib
@@ -118,45 +120,45 @@ Repeated entry---line 7007 of file ../casesum/casesum.bib
 I'm skipping whatever remains of this entry
 Warning--empty year in HuberTLa
 Warning--empty year in Yang_Noda_Kato_Elevated_Intestinal_Absorption_
-You've used 96 entries,
+You've used 110 entries,
             2760 wiz_defined-function locations,
-            1415 strings with 49015 characters,
-and the built_in function-call counts, 54920 in all, are:
-= -- 5744
-> -- 3370
-< -- 11
-+ -- 1347
-- -- 1233
-* -- 4384
-:= -- 8700
-add.period$ -- 389
-call.type$ -- 96
-change.case$ -- 902
+            1527 strings with 58108 characters,
+and the built_in function-call counts, 64790 in all, are:
+= -- 6700
+> -- 4181
+< -- 15
++ -- 1669
+- -- 1541
+* -- 5250
+:= -- 10327
+add.period$ -- 445
+call.type$ -- 110
+change.case$ -- 1098
 chr.to.int$ -- 0
-cite$ -- 98
-duplicate$ -- 1295
-empty$ -- 3799
-format.name$ -- 1233
-if$ -- 12691
+cite$ -- 112
+duplicate$ -- 1489
+empty$ -- 4331
+format.name$ -- 1541
+if$ -- 14847
 int.to.chr$ -- 0
-int.to.str$ -- 96
-missing$ -- 97
-newline$ -- 583
-num.names$ -- 194
-pop$ -- 1059
+int.to.str$ -- 110
+missing$ -- 109
+newline$ -- 667
+num.names$ -- 222
+pop$ -- 1286
 preamble$ -- 1
-purify$ -- 807
+purify$ -- 989
 quote$ -- 0
-skip$ -- 2921
+skip$ -- 3363
 stack$ -- 0
-substring$ -- 1448
-swap$ -- 345
-text.length$ -- 11
+substring$ -- 1596
+swap$ -- 412
+text.length$ -- 15
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 382
+type$ -- 438
 warning$ -- 2
-while$ -- 256
-width$ -- 98
-write$ -- 1328
+while$ -- 290
+width$ -- 113
+write$ -- 1521
 (There were 26 error messages)
