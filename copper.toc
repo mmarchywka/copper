@@ -1,29 +1,41 @@
 \tocdepth@munge 
 \contentsline {section}{\numberline {}Contents}{2}{section*.1}%
 \tocdepth@restore 
-\contentsline {section}{\numberline {1}Introduction }{3}{section*.2}%
-\contentsline {section}{\numberline {2} Motivation }{3}{section*.3}%
-\contentsline {section}{\numberline {3}Cases and Observations}{5}{section*.4}%
-\contentsline {subsection}{\numberline {3.1}Cookie or Mixie}{6}{section*.5}%
-\contentsline {subsection}{\numberline {3.2}Brownie and puppies}{6}{section*.6}%
-\contentsline {subsection}{\numberline {3.3}Happy}{6}{section*.7}%
-\contentsline {subsection}{\numberline {3.4}Trixie}{7}{section*.8}%
-\contentsline {subsection}{\numberline {3.5}Rocky}{7}{section*.9}%
-\contentsline {subsection}{\numberline {3.6}Hershey}{10}{section*.10}%
-\contentsline {subsection}{\numberline {3.7}Miscellaneous Observations}{11}{section*.11}%
-\contentsline {section}{\numberline {4}Discussion }{11}{section*.12}%
-\contentsline {section}{\numberline {5}Limitations}{14}{section*.13}%
-\contentsline {section}{\numberline {6}Conclusions}{14}{section*.14}%
-\contentsline {section}{\numberline {7}Supplemental Information}{14}{section*.15}%
-\contentsline {subsection}{\numberline {7.1}Computer Code}{14}{section*.16}%
-\contentsline {section}{\numberline {8}Bibliography}{15}{section*.17}%
-\contentsline {section}{\numberline {}References}{15}{section*.18}%
-\contentsline {section}{\numberline {}Acknowledgments}{21}{section*.19}%
+\contentsline {section}{\numberline {1}Introduction }{4}{section*.2}%
+\contentsline {section}{\numberline {2} Diseases of Interest }{5}{section*.3}%
+\contentsline {subsection}{\numberline {2.1} Collapsed Trachea }{6}{section*.4}%
+\contentsline {subsection}{\numberline {2.2} DCM/HCM}{6}{section*.5}%
+\contentsline {subsection}{\numberline {2.3} Infection }{6}{section*.6}%
+\contentsline {subsection}{\numberline {2.4} Thyroid }{7}{section*.7}%
+\contentsline {subsection}{\numberline {2.5} AD, PD, ALS, Arthritis }{7}{section*.8}%
+\contentsline {subsection}{\numberline {2.6} Cancer }{7}{section*.9}%
+\contentsline {section}{\numberline {3} Functions of Interest }{8}{section*.10}%
+\contentsline {subsection}{\numberline {3.1} Cytochrome C Oxidase }{8}{section*.11}%
+\contentsline {subsection}{\numberline {3.2} Lysyl Oxidase }{8}{section*.12}%
+\contentsline {subsection}{\numberline {3.3} Ceruloplasmin }{9}{section*.13}%
+\contentsline {subsection}{\numberline {3.4} Macrophage et al }{9}{section*.14}%
+\contentsline {subsection}{\numberline {3.5} Ligandss- histidine and garlic etc }{9}{section*.15}%
+\contentsline {section}{\numberline {4}Cases and Observations}{9}{section*.16}%
+\contentsline {subsection}{\numberline {4.1}Cookie or Mixie}{10}{section*.17}%
+\contentsline {subsection}{\numberline {4.2}Brownie and puppies}{10}{section*.18}%
+\contentsline {subsection}{\numberline {4.3}Happy}{11}{section*.19}%
+\contentsline {subsection}{\numberline {4.4}Trixie}{11}{section*.20}%
+\contentsline {subsection}{\numberline {4.5}Rocky}{12}{section*.21}%
+\contentsline {subsection}{\numberline {4.6}Hershey}{14}{section*.22}%
+\contentsline {subsection}{\numberline {4.7}Miscellaneous Observations}{15}{section*.23}%
+\contentsline {section}{\numberline {5}Discussion }{15}{section*.24}%
+\contentsline {section}{\numberline {6}Limitations}{17}{section*.25}%
+\contentsline {section}{\numberline {7}Conclusions}{17}{section*.26}%
+\contentsline {section}{\numberline {8}Supplemental Information}{17}{section*.27}%
+\contentsline {subsection}{\numberline {8.1}Computer Code}{17}{section*.28}%
+\contentsline {section}{\numberline {9}Bibliography}{18}{section*.29}%
+\contentsline {section}{\numberline {}References}{18}{section*.30}%
+\contentsline {section}{\numberline {}Acknowledgments}{25}{section*.31}%
 \appendix 
-\contentsline {section}{\numberline {A} Statement of Conflicts }{22}{section*.20}%
-\contentsline {section}{\numberline {B}About the Authors and Facility}{22}{section*.21}%
-\contentsline {section}{\numberline {C}Background Diet Sumnary}{23}{section*.22}%
-\contentsline {section}{\numberline {D}Notable Food Components with Copper Interactions}{27}{section*.23}%
-\contentsline {section}{\numberline {E}Symbols, Abbreviations and Colloquialisms}{27}{section*.24}%
-\contentsline {section}{\numberline {F}General caveats and disclaimer }{27}{section*.25}%
-\contentsline {section}{\numberline {G}Citing this as a tech report or white paper }{27}{section*.26}%
+\contentsline {section}{\numberline {A} Statement of Conflicts }{26}{section*.32}%
+\contentsline {section}{\numberline {B}About the Authors and Facility}{26}{section*.33}%
+\contentsline {section}{\numberline {C}Background Diet Sumnary}{27}{section*.34}%
+\contentsline {section}{\numberline {D}Notable Food Components with Copper Interactions}{31}{section*.35}%
+\contentsline {section}{\numberline {E}Symbols, Abbreviations and Colloquialisms}{31}{section*.36}%
+\contentsline {section}{\numberline {F}General caveats and disclaimer }{31}{section*.37}%
+\contentsline {section}{\numberline {G}Citing this as a tech report or white paper }{31}{section*.38}%

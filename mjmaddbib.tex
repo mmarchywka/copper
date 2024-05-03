@@ -78,6 +78,7 @@ this program.  If not, see <http://www.gnu.org/licenses/>.
 \mjmaddbib{filename}{\jobname}
 \mjmaddbib{run-date}{\today}
 }
+% modify toobib and change this from "x-bib" to something like bibtex or mjm- whatever 
 \newcommand{\mjmbibmunge}[1] {x-bib-#1}
 
 \newcommand{\mjmaddbib}[2]
@@ -87,7 +88,9 @@ this program.  If not, see <http://www.gnu.org/licenses/>.
 
     #1 =\{#2\} }
 %\edef\mjmbiboneentry{\unexpanded\expandafter{\mjmbiboneentry,}
-\edef\mjmbiboneentry{\unexpanded\expandafter{\mjmbiboneentry,\linebreak}
+% this works but gives warning and linebreak is removed.
+%\edef\mjmbiboneentry{\unexpanded\expandafter{\mjmbiboneentry,\linebreak}
+\edef\mjmbiboneentry{\unexpanded\expandafter{\mjmbiboneentry, }
 #1 =\{#2\}
 }
 
