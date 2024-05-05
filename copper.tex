@@ -237,6 +237,7 @@ breaklines=true
 %\newcommand{\mjmreffig}[1]{Fig. \ref{#1}}
 \newcommand{\mjmreffig}[1]{Fig. \ref{fig:#1}}
 \newcommand{\mjmreftab}[1]{Table  \ref{tab:#1}}
+\newcommand{\mjmrefapp}[1]{Appendix  \ref{appendix:#1}}
 
 
 %cp yyy2.pdf ~/d/latex/keep/pp20171124biotin.pdf
@@ -338,6 +339,16 @@ earlier.
 } % mjmrowniecu
 
 
+\newcommand{\mjmanniecu}{
+\begin{figure}[htb] 
+\centering
+\mjmfullplot{annie_cu.jpg}
+\caption{    Annie  
+  }
+\end{figure}
+} % mjmannieycu
+
+
 
 
 \newcommand{\mjmhersheycu}{
@@ -431,6 +442,13 @@ mitochondria \cite{PMID12539966}.
 a cause of various problems but it may in fact also be a signal.
 ROS signalling is well known by now but specifically
 it may help get sufficient copper to the mitochondria.
+
+Copper is essential for many growth processes and can activate
+receptor tyrosine kinases without a ligand making it
+a target for cancer \cite{PMC6537018}.
+
+
+
 Copper loading
 of cytochrome C oxidase relies on an oxidized
 Cox11 to interact with Cox19 \cite{Bode01072015} and this may be inhibited
@@ -517,6 +535,78 @@ hormone levels and body temeprature \cite{Lukaski_Hall_Marchello_Body_temperatur
 
 } % mjmthy 
 \newcommand{\mjmmisc}{
+
+Deficiency seems to effect prefernetially proteins involved
+in neuronal projection and diabetes and iron handling
+\cite{PMID36583241}.
+
+Rats fed a copper deficient diet shows neurological symptoms
+by 7 weeks and had reduced tyrosine hydroxylase and
+SOD activity ZZ
+\cite{Morgan_ODell_EFFECT_COPPER_DEFICIENCY_1977}.
+
+A 2017 study explored the effects of copper and vitamin C
+as well as other molecules such as
+clioquninol on abeta and in vitro neurons suggesting
+abeta could be cleaved by copper in the presence of oxygen
+as well as an anti-oxidant such as vitamin C although
+restoration of neuronal functioning was only partial
+\cite{C7SC01787A}.
+Interestingly, copper-ascorbate oxidation of tryptophan may be
+suppressed by Trp chelation of copper at high trp concentrations
+\cite{PMID27406076}
+suggesting reduced amounts may give copper more ability to damage
+an already low supply.
+This is interesting in terms of a utrient interaction hypothesis
+on copper toxicity.
+And in fact as early as 2012 it was determined that
+tryptophan intake could reduce copper toxicity at least in carp
+\cite{Hoseini_Hosseini_Soudagar_Dietary_tryptophan_changes_serum_2012}.
+
+
+Some precednce for metal modulated toxicity existed back to 1999
+when work with cultured neurons showed a dose dependent
+reduction in abeta toxicity with Zn \cite{Lovell_Xie_Markesbery_Protection_against_amyloid_beta_1999}.
+By 2005 toxicity of amyloid beta and the metals zinc, iron, and
+copper was investigated under conditions that created more toxicity
+with iron and zinc but not copper while amyloid beta reduced metal
+toxicity in rats
+\cite{Bishop_Robinson_Amyloid_Paradox_AmyloidupbetaMetal_2004}.
+In 2021, Ni was found in important amounts in a commercial
+abeta40 preparation
+\cite{Benoit_Maier_nickel_chelator_dimethylglyoxime_2021}
+and was found to mediate dityrosine crosslinks
+\cite{Berntsson_Vosough_Svantesson_Residue_specific_binding_2023}
+similar to the dityrosine crosslinks induced by copper
+found in 2004
+\cite{Atwood_Perry_Zeng_Copper_Mediates_Dityrosine_Cross_2004}.
+
+A 2013 work found in vitro physiological conditions
+caused copper to prevent fibril formation
+\cite{Mold_OuroGnao_Wieckowski_Copper_prevents_amyloid_upbeta1_2013}.
+
+
+One work in  2022 addressed
+AD as a consequence of copper deficnecy because
+\cite{Klevay_contemporaneous_epidemic_2022}
+\begin{quote}
+It is hypothesised that copper deficiency is a plausible cause of Alzheimer's
+disease(Reference Klevay84). Patients are thinner than normal; weight loss
+precedes dementia and is associated with greater dementia and neurobehavioural
+symptoms. Nutritional compromise contributes to morbidity. Cytochrome oxidase
+depends on copper for activity; at least fourteen publications reveal decreased
+activity in brain of Alzheimer's patients. Brain copper and caeruloplasmin
+also are decreased. This hypothesis is the only one that explains why Alzheimer's
+disease occurs earlier and is more common in Down's syndrome. Superoxide
+dismutase (SOD1) depends on copper for activity; its gene is on chromosome
+21. This enzyme is elevated in Down's syndrome (trisomy 21) and is decreased
+in people with monosomy. It seems likely that people with Down's syndrome
+have a higher than average requirement for dietary copper because copper
+is incorporated into superoxide dismutase and is unavailable for other uses.
+Thus, Alzheimer's disease fulfills the first two of Golden's criteria (above)
+for deficiency.
+
+\end{quote}
 
 
 Folklore regarding copper persists and yet clinical trials
@@ -617,6 +707,32 @@ We note again that vitamin K could contribute in similar places
 and may be synergistic with copper for connective tissue quality
 as well as in eukaryotic mitochondria \cite{Vos1306}\cite{PMC5022102}
 .
+
+Two types of excess have been identified as potentially
+important to pathogenesis- mineral and antioxidant.
+Iron overload copper deficiency was identified early on as
+a concern with animals getting high iron diets and generally
+free of parasites in stark contrast to the likely situation over
+evolutionary time scales. A second type emerged on consideration
+of the copper response and cytochrome C oxidase copper loading -
+that of antioxidant overload. ROS have generally gained more acceptance
+as having physiological roles at low concentrations rather than simply
+being a source of damage. Literature related to these experiments
+suggests a very specific role in mitochondrial function.
+The original concern about antioxidant overload was mostly
+confined to vitamin E-K antagonism and it is not
+clear how or if these concerns relate. Coupled with empirical
+deleterious effects of some antioxidant combinations in clinical trials
+( one high profile  example \cite{doi:10.1056/NEJM199605023341802} )
+,
+it is clear that antioxidant excess should be considered
+as a problem with some diets.  The antioxidant paradox
+now seems to be gaining acceptance , for example see \cite{PMC4412352}
+ and \cite{PMC5021979}
+.
+%label cytoc
+%label EK 
+
 
 } % mjmcox 
 \newcommand{\mjmlox}{
@@ -846,42 +962,127 @@ ZZ\tableofcontents
 
 
 \section{Introduction  }
-
-Copper in dog food has become a concern  over the past few years
-due to increasingly frequent  
+Copper is  currently not a popular nutrient to supplement
+in human or dog diets. However,  known and expected functions
+make it an ideal candidate for supplementation in 
+many situations.  The question of dietary deficiency or excess
+has been a topic of controversy for many years and likely
+copper intake alone does not determine how much can be used
+beneficially. 
+ Deficiency   in commercial dog foods was    suspected years
+earlier  \cite{HuberTLa}
+while works as early as 2000 sugegst supplementation
+would be unhelpful\cite{doi:10.1177/104063870001200201}.
+Excessive intake  has become a  concern due to increasingly frequent  
 observation of "copper associated hepatitis"
 \cite{10.1093/tas/txad147}
 \cite{PMC10787350}
 \cite{Center_Richter_Twedt_time_2021}.
-Copper dosing of  dogs of unknown background may raise some very 
-real cause for
-concern 
-as a variety of copper handling genetic diseases are common
-\cite{PMC6531654}
-
-
-. Deficiency has not been considered a
-problem by some authors circa 2000  \cite{doi:10.1177/104063870001200201}.
-
-
-One study provided a histogram of Cu content (ppm dry weight )
+Yet, a series of copper deficient liver patients 
+were notable for
+"steatohepatitis, iron overload, malnutrition, and recurrent infections. "
+\cite{Yu_Liou_Biggins_Copper_Deficiency_Liver_2019} .
+Low copper status is  associated with liver problems 
+related to high fructose \cite{PMID7825519}. 
+Cppper handling genetic diseases  are well known in dogs 
+\cite{PMC6531654} and some concern may be warranted.
+One study provided a histogram of liver Cu content (ppm dry weight )
 for a few hundred dogs but did not conlucde there was a particular
 cutoff level for health vs disease
 \cite{Thornburg_Rottinghaus_McGowan_Hepatic_Copper_Concentrations_1990}.
+A recent work comparing mineral content in groups of commericial
+dog foods found some patterns and advised against high copper
+foods  
+\cite{KUx0119badchar_Biel_Witkowicz_Mineral_heavy_metal_2023}.
+Some noisy association between intake and hepatic copper
+content was shown in a small study
+\cite{Fieten_HooijerNouwens_Biourge_Association_Dietary_Copper_2012},
 
- Deficiency however wss  suspected years
-earlier in commercial foods \cite{HuberTLa} and
- low copper is  associated with liver problems related to 
-high fructose( including increased heaptic iron )  \cite{PMID7825519}
+The dietary and genetic factors that influence copper 
+distribution  and health outcomes are complex and probably not fully known. 
+While genetics are highly variable in dogs, some other factors
+include many dietary components and signalling stimuli. 
+Senescent cells may accumulate copper in the absence
+of autophagy
+\cite{Masaldan_Clatworthy_Gamell_Copper_accumulation_senescent_2018}.
+Copper elevation may commit cells to differentiation 
+i cord-blood derived cells \cite{PMID11849228}
+and it may be regulat4ed during myogenic differntiation
+\cite{PMC5824686} rasiing the ossibility that accumulation
+is due to confused signalling. 
+In particular, ceruloplasmin is an acute phase protein 
+and blood levels may be associated with pathological conditions
+\cite{PMID15668644} bit a protective role is generally recognized.
+As a major transporter of copper out of the liver, 
+that sugests distrrbution out of the  liver is 
+enhanced with certain stresses. 
+
+Dietary components can impact uptake and distribution in many
+ways. 
+
+At least one source of confusion may be the interaction
+of copper nutrition with many other nutrients.
 and high fat diets in other species \cite{PMC5167165}.
+Dietary cholesterol appears to distrurb copper homeostasis 
+with atherosclerosis thought to involve copper dysregulation
+\cite{PMID33661473}.
+Fructose also inhibits relative copper absorption
+\cite{ODell_Fructose_mineral_metabolism_1993}.
+Zinc is a known inhibitor of cuppoer uptake
+and cases of zinc induced copper deficiency in humans
+are known\cite{PMC7495772}.
+While concerns exist about copper content in dog foods, a
+recent survey of some zinc content shous many foods 
+contain amount above recommended maxima and few are
+low or deficient \cite{PMC8066201}.
+Age related absorption problems in people
+are known \cite{PMC5133110} and other apparent deficiencies 
+could be a consequence of
+insufficient B-6 alone \cite{PMID7814236}.
+Interestinly, B-6 is added to penicillamine treatment of
+Wilson's disease to avoid neurological effects
+\cite{PMC3526418}.
+\mjmtol{
+Since paradoxes are a concern here, its worth noting that pyridoxine
+is an inhibitor of PLP and high dosese result in functional B-6
+deficiency \cite{Vrolijk_Opperhuizen_Jansen_vitamin_paradox_2017}.
+}
+% sled dog exercize comment omitted for no good reason to include
+Body stores of copper increases with excess tyrisone in the diet
+of rats
+\cite{Yang_Noda_Kato_Elevated_Intestinal_Absorption_}.
+Some reports show specific issues when combinted with vitamin C.
+A small trial with copper sulfate indicated kidney problems
+result 
+\cite{Jiang_Sui_Hong_Combined_Administration_2023}
+although alternatives with copper gluconate 
+did not ( check doeses too, sulfate dose - ). 
+
+The blood leveels of ceruloplasmin may correlate well
+with copper blood levels but it can vary in quality too. 
+A chain  of W and Y  are thought important
+for enzyme preservation  with ceruloplasmin containing a chain of
+two tyrosines \cite{Tian_Jones_Solomon_Role_Tyrosine_2020}.
+As iron accumulation is related to AD, there is a question about
+the quality of the circulating ceruloplasmin.  If there is high-infidelity
+translation due to W and Y depletion, there is also the question of
+how feedback mechanisms control the overall amount.
+First is has to metalize right which requires 6 coppers and
+6 histidines and then survive with the 2 tyrosines. 
+If any components are deficient quantity or quality may suffer. 
+Ceruloplasmin KO mice gained weight and showed increased
+scatter in weight with lipid dysregulation only partially corrected
+wth exogenous replacement
+\cite{Raia_Conti_Zanardi_Ceruloplasmin_Deficient_Mice_Show_2023}
+sugesting tight control may matter. 
 
 
-However, popular beliefs often turn out to be wrong and
-there is good reason to believe that is the case with
-copper. 
+
 This work describes inclusion of copper into a set
 of supplements for dogs with different conditions and unknown genetics 
 showing generally beneficial results with added copper.
+This result is in contrast to some of the popular expactations
+cited above.
 A descrepancy between expectations and outcome 
 of this type seems to be common in medicine
 and biology so understanding the causes of that
@@ -889,6 +1090,10 @@ in this partciular case may help optimize
 dog supplements and avoid delays in understanding the
 limitations of data and theory  to design 
 therapeutic interventions.  
+Interpretation of the copper literature is limited by 
+unqestioned assumptions and logidcal fallacies 
+that are quite common.  Some types of problems
+are listed in  \mjmrefapp{errors}
 A recent example may be the identification of amyloid
 beta as a nominally protective substance
 \cite{Yu_Wu_Amyloid_upbeta_double_2021}
@@ -928,23 +1133,9 @@ true, the coppper literature may illustrate some common
 fallacies and errors common to biology related
 literature and likely other genres involving complicated
 systems. 
-
-
-
-Dietary cholesterol appears to distrurb copper homeostasis 
-with atherosclerosis thought to involve copper dysregulation
-\cite{PMID33661473}.
-
 However copper intake issues are resolved, the complexity of
 copper handling may make it a good topic to understand larger
 issues in system identification. 
-
-While some association between intake and hepatic copper
-content was shown in a small study
-\cite{Fieten_HooijerNouwens_Biourge_Association_Dietary_Copper_2012},
-factors other than intake may effect local copper
-concentrations in nominally normal genetics. 
-
 
 
 In fact, as substantiated later, it would make sense
@@ -961,27 +1152,57 @@ inputs with struggling cardiac specific uptake as
 has been suggested for other nutrients such as tryptophan
 and biotin.  Note this work also suggests copper deficiency
 as an issue for cardiac hypertrophy in animals.
-Copper uptake may depend on anions such as chloride
+\mjmtol{Copper uptake may depend on anions such as chloride
 at least in some animals
 \cite{Handy_Musonda_Phillips_Mechanisms_Gastrointestinal_Copper_2000}
 ,suggesting GI chloride per se rather than pH may be an  issue.
-A series of copper deficient liver patients were notable for
-"steatohepatitis, iron overload, malnutrition, and recurrent infections. "
-\cite{Yu_Liou_Biggins_Copper_Deficiency_Liver_2019} .
-Its interesting that iron overload occurs along with general malnutrition
-and sepcific copper deficiency.
+}
+
+
+By 2022,  work focusing on moving copper into the cell considered
+many aspects of copper misallocation and devised a copper specific
+shuttle peptide to deliver Cu from abeta  \cite{D2SC02593K}.
 
 
 
+Content in drinking water is variable and may be perceived
+by humans depending on factors like pH \cite{Hong_Duncan_Dietrich_Effect_copper_speciation_2010} sugesting it may be perceived by dogs too.
+Interaction with food components such as polyphenols is significant
+and pH dependent 
+\cite{PMC3401972} motivating a larger interest in food interactions
+and in particular rings such as in tyorinse. Speciation gradients
+may be large in the range of possible stomach acid levels.  
+A 2021 study did in fact explore copper speciation in simulated
+gastic juices with food components such as 
+tyrosine and citric acid among others \cite{PMC8441336}.
 
-However, senescent cells may accumulate copper in the absence
-of autophagy
-\cite{Masaldan_Clatworthy_Gamell_Copper_accumulation_senescent_2018}.
-Copper elevation may commit cells to differentiation 
-i cord-blood derived cells \cite{PMID11849228}
-and it may be regulat4ed during myogenic differntiation
-\cite{PMC5824686} rasiing the ossibility that accumulation
-is due to confused signalling. 
+Copper solubility is pH dependent \cite{10.1093/chemse/bjl010}
+Zinc absorption has been shown to depend on salt type and
+gastric pH 
+\cite{PMID8577018}.
+
+Impact of GI pH on broiler chicks has been studied due to impact
+on nutrition and micrbial populations 
+and Cu-Zn antagonism in the digestive system was also observed
+\cite{Pang_Applegate_Effects_Dietary_Copper_2007}.
+Iron intake in ruminant feed has also been observed to decrease
+copper uptake
+\cite{Clarkson_Paine_Kendall_Evaluation_solubility_2021}.
+In humans, PPI usage has become common. Empirically thate
+may be a tumor protective effect and  there is a suggestion
+that  pH 6 encourages cancer progression
+versus pH 8
+\cite{PMC7085403}
+yet alkaline stomach pH is observed is commonly observed
+in gastric carcinoma
+\cite{10.1007/978-4-431-68246-2_26}.
+Probably the dominant effect on tumors is unrelated to ambient
+pH although increased pH may reduce nutrient
+accumulation by many cells. An absolute apoptosis rate
+at near neutral pH is probably not indicative of the
+overall fitness in the stomach. 
+
+
 
 
 However, the empirical data and known theory or
@@ -1003,26 +1224,13 @@ that uncharacterized mechanisms of metal homeostasis
 exist.
 
 
-
-
-The analysis errors that confuse the problem with the
-solution may be catagorized in a number of way but
-consider the following possibilities,  
-
-\newcommand{\myitem}[2]{\item {\bf #1 : } #2 \par}
-\begin{enumerate}
-\myitem{supply v demand}{ An excess quantity is not inherently due to either supply or demand }
-\myitem{false dichotomy}{ good and evil  }
-\myitem{non-monotonic curves }{ \mjmquote{ show me a monotonic dose response curve and I'll show you a fool } }
-\myitem{hidden interaction }{ The observed result requires some interaction partners  }
-\myitem{X is a Y   }{ Role confusion leads to more untested assumptions.  }
-\myitem{irnores empirical obervations  }{ Theory based on incomplete system topology needs to be consistent with empirical observations  }
-\myitem{irnores empirical obervations  }{ Theory based on incomplete system topology needs to be consistent with empirical observations  }
-\myitem{other state variables }{ Hidden variables include a limting nutrient that is needed to beneficially use the entity under test.   }
-\myitem{regulatory landscape }{ As life is generally robust control systems have evolved but may have non-obvious failure modes. }
-\myitem{trying harder  }{ If a prefered response is frustrated in attaining a survival relevant goal, there may be signals to try a less orderly response more vigorously. The disorganized response can be suppressed by enabling the effective one.  }
-\myitem{narrow corridor }{  Given host-other evolution, you could expect dose response curves with many features but more likely a tight tolerance means that the approach is missing something more robust.  }
-\end{enumerate}
+A 2016 study in mice suggested adding copper to water was
+worse than adding it to food and supplementation at 6,15, and 30 ppm
+with increases in soluble abeta and decreased growth rate and
+GSH/SOD activity
+\cite{Wu_Han_Gong_effect_copper_2016}.
+With a high dose of about 100 micrgograms/day ( from CuSO4) and
+a body weight of about 30grams, the dose was about 3.3mg/kg.
 
 
 Interestingly, 3 amino acids, the ringed "WHY" trinity
@@ -1288,6 +1496,7 @@ Rocky  &22-02-05 24-04-10&&4.4 - 8.3 &1&.37&subjective better  \\
 Hershey  &17-04-22 19-08-27&multiple&8.2 -  9 &.2-.6&.1& heart failure  \\
 Hershey  &17-04-22 19-08-27&multiple&8.2 - 9 &2&.52& transient improvements  \\
 LittleMan  &2016&multiple& &&.8 & honking stopped  \\
+Annie  &2022-09-21 &acts old &7.74- 9.9  &2 & .5 & active again  \\
 \hline
 \hline
 \end{tabular}
@@ -1373,6 +1582,14 @@ His overall activity increased but that may be due to social factors
 such as feeding ritual. 
 
 
+\subsection{Annie}
+
+\mjmanniecu
+
+Lost vigor suddently regained on a few days of 2mg cu. 
+Panting up hill at park but quite active again. 
+Started special copper snack on 2024-05-01 ( 19844)
+and normal by 2024-05-05 ( 10948 ).
 
 \subsection{Hershey}
 
@@ -1481,6 +1698,9 @@ noted. Ideally the filtering would be a lagging average
 weighted to some suspected biological parameters but
 even uniform moving average was useful.   
 
+Pulmonary hypertension may be controlled by serotonin
+\cite{PMID27927914} and therefore tryptophan intake. 
+
 Reconciliation with various concerns and failures
 felies on the complex interaction with other dietary componets
 which may be important over a large range of genetis. 
@@ -1531,212 +1751,12 @@ possibly making copper a secondary excretion issue
 rather than a primary absorption problem. 
 
 %%%%%%%%%%%%%%
- Age related absorption problems in people
-are known \cite{PMC5133110} and other apparent deficiencies could be a consequence of
-insufficient B-6 alone \cite{PMID7814236}\cite{PMID18564178}\cite{Guilarte1989}.
-% sled dog exercize comment omitted for no good reason to include
-
-Deficiencies are not always correctable by simply eating more of something- for example,
-calcium intake alone may not fix osteoporosis.
-Distribution may be a concern as it is possible to have both
-too much and too little in differing locations due to defects
-not with absorption but rather handling proteins that would transport
-or chaperone copper compounds. 
-
 %%%%%%%%%%%%%% cutoff
-
-
-Two types of excess have been identified as potentially
-important to pathogenesis- mineral and antioxidant.
-Iron overload copper deficiency was identified early on as
-a concern with animals getting high iron diets and generally
-free of parasites in stark contrast to the likely situation over
-evolutionary time scales. A second type emerged on consideration
-of the copper response and cytochrome C oxidase copper loading -
-that of antioxidant overload. ROS have generally gained more acceptance
-as having physiological roles at low concentrations rather than simply
-being a source of damage. Literature related to these experiments
-suggests a very specific role in mitochondrial function.
-The original concern about antioxidant overload was mostly
-confined to vitamin E-K antagonism and it is not
-clear how or if these concerns relate. Coupled with empirical
-deleterious effects of some antioxidant combinations in clinical trials
-( one high profile  example \cite{doi:10.1056/NEJM199605023341802} )
-,
-it is clear that antioxidant excess should be considered
-as a problem with some diets.  The antioxidant paradox
-now seems to be gaining acceptance , for example see \cite{PMC4412352}
- and \cite{PMC5021979}
-.
-%label cytoc
-%label EK 
-
-
 
 ver a broad range of genetics, its likely that copper intake
 can be raised as long as other nutirents are also given
 to handle the copper beneficially.
 Candidate nutrients include tryrosine and tryptophan.
-
-
-
-
-Some precednce for metal modulated toxicity existed back to 1999
-when work with cultured neurons showed a dose dependent
-reduction in abeta toxicity with Zn \cite{Lovell_Xie_Markesbery_Protection_against_amyloid_beta_1999}.
-By 2005 toxicity of amyloid beta and the metals zinc, iron, and
-copper was investigated under conditions that created more toxicity
-with iron and zinc but not copper while amyloid beta reduced metal
-toxicity in rats
-\cite{Bishop_Robinson_Amyloid_Paradox_AmyloidupbetaMetal_2004}.
-In 2021, Ni was found in important amounts in a commercial
-abeta40 preparation
-\cite{Benoit_Maier_nickel_chelator_dimethylglyoxime_2021}
-and was found to mediate dityrosine crosslinks
-\cite{Berntsson_Vosough_Svantesson_Residue_specific_binding_2023}
-similar to the dityrosine crosslinks induced by copper
-found in 2004
-\cite{Atwood_Perry_Zeng_Copper_Mediates_Dityrosine_Cross_2004}.
-
-A 2013 work found in vitro physiological conditions
-caused copper to prevent fibril formation
-\cite{Mold_OuroGnao_Wieckowski_Copper_prevents_amyloid_upbeta1_2013}.
-
-Copper is essential for many growth processes and can activate
-receptor tyrosine kinases without a ligand making it
-a target for cancer \cite{PMC6537018}.
-
-Rats fed a copper deficient diet shows neurological symptoms
-by 7 weeks and had reduced tyrosine hydroxylase and
-SOD activity ZZ
-\cite{Morgan_ODell_EFFECT_COPPER_DEFICIENCY_1977}.
-
-
- 
-
-A 2017 study explored the effects of copper and vitamin C
-as well as other molecules such as
-clioquninol on abeta and in vitro neurons suggesting
-abeta could be cleaved by copper in the presence of oxygen
-as well as an anti-oxidant such as vitamin C although
-restoration of neuronal functioning was only partial
-\cite{C7SC01787A}.
-Interestingly, copper-ascorbate oxidation of tryptophan may be
-suppressed by Trp chelation of copper at high trp concentrations
-\cite{PMID27406076}
-suggesting reduced amounts may give copper more ability to damage
-an already low supply.
-This is interesting in terms of a utrient interaction hypothesis
-on copper toxicity.
-And in fact as early as 2012 it was determined that
-tryptophan intake could reduce copper toxicity at least in carp
-\cite{Hoseini_Hosseini_Soudagar_Dietary_tryptophan_changes_serum_2012}.
-
-Body stores of copper increases with excess tyrisone in the diet
-of rats
-\cite{Yang_Noda_Kato_Elevated_Intestinal_Absorption_}.
-
-By 2022,  work focusing on moving copper into the cell considered
-many aspects of copper misallocation and devised a copper specific
-shuttle peptide \cite{D2SC02593K}.
-Recognition that the cells need copper is important .
-
-A 2016 study in mice suggested adding copper to water was
-worse than adding it to food and supplementation at 6,15, and 30 ppm
-with increases in soluble abeta and decreased growth rate and
-GSH/SOD activity
-\cite{Wu_Han_Gong_effect_copper_2016}.
-With a high dose of about 100 micrgograms/day ( from CuSO4) and
-a body weight of about 30grams, the dose was about 3.3mg/kg.
-
-
-One work in  2022 addressed
-AD as a consequence of copper deficnecy because
-\cite{Klevay_contemporaneous_epidemic_2022}
-\begin{quote}
-It is hypothesised that copper deficiency is a plausible cause of Alzheimer's
-disease(Reference Klevay84). Patients are thinner than normal; weight loss
-precedes dementia and is associated with greater dementia and neurobehavioural
-symptoms. Nutritional compromise contributes to morbidity. Cytochrome oxidase
-depends on copper for activity; at least fourteen publications reveal decreased
-activity in brain of Alzheimer's patients. Brain copper and caeruloplasmin
-also are decreased. This hypothesis is the only one that explains why Alzheimer's
-disease occurs earlier and is more common in Down's syndrome. Superoxide
-dismutase (SOD1) depends on copper for activity; its gene is on chromosome
-21. This enzyme is elevated in Down's syndrome (trisomy 21) and is decreased
-in people with monosomy. It seems likely that people with Down's syndrome
-have a higher than average requirement for dietary copper because copper
-is incorporated into superoxide dismutase and is unavailable for other uses.
-Thus, Alzheimer's disease fulfills the first two of Golden's criteria (above)
-for deficiency.
-
-\end{quote}
-
-A chain  of W and Y  are thought important
-for enzyme preservation  with ceruloplasmin containing a chain of
-two tyrosines \cite{Tian_Jones_Solomon_Role_Tyrosine_2020}.
-As iron accumulation is related to AD, there is a question about
-the quality of the circulating ceruloplasmin.  If there is high-infidelity
-translation due to W and Y depletion, there is also the question of
-how feedback mechanisms control the overall amount.
-First is has to metalize right which requires 6 coppers and
-6 histidines and then survive with the 2 tyrosines. 
-If any components are deficient quantity or quality may suffer. 
-Ceruloplasmin KO mice gained weight and showed increased
-scatter in weight with lipid dysregulation only partially corrected
-wth exogenous replacement
-\cite{Raia_Conti_Zanardi_Ceruloplasmin_Deficient_Mice_Show_2023}.
-
-Deficiency seems to effect prefernetially proteins involved
-in neuronal projection and diabetes and iron handling
-\cite{PMID36583241}.
-
-Combined with vitamin C literature is confusing. It may be bad
-\cite{Jiang_Sui_Hong_Combined_Administration_2023}
-although alternatives with copper gluconate instead of
-sulfate 
-
-Pulmonary hypertension may be controlled by serotonin
-\cite{PMID27927914} and therefore tryptophan intake. 
-
-Copper solubility is pH dependent \cite{10.1093/chemse/bjl010}
-
-Content in drinking water is variable and may be perceived
-by humans depending on factors like pH \cite{Hong_Duncan_Dietrich_Effect_copper_speciation_2010} sugesting it may be perceived by dogs too.
-Interaction with food components such as polyphenols is significant
-and pH dependent 
-\cite{PMC3401972} motivating a larger interest in food interactions
-and in particular rings such as in tyorinse. Speciation gradients
-may be large in the range of possible stomach acid levels.  
-A 2021 study did in fact explore copper speciation in simulated
-gastic juices with food components such as 
-tyrosine and citric acid among others \cite{PMC8441336}.
-
-
-Zinc absorption has been shown to depend on salt type and
-gastric pH 
-\cite{PMID8577018}.
-
-Impact of GI pH on broiler chicks has been studied due to impact
-on nutrition and micrbial populations 
-and Cu-Zn antagonism in the digestive system was also observed
-\cite{Pang_Applegate_Effects_Dietary_Copper_2007}.
-Iron intake in ruminant feed has also been observed to decrease
-copper uptake
-\cite{Clarkson_Paine_Kendall_Evaluation_solubility_2021}.
-In humans, PPI usage has become common. Empirically thate
-may be a tumor protective effect and  there is a suggestion
-that  pH 6 encourages cancer progression
-versus pH 8
-\cite{PMC7085403}
-yet alkaline stomach pH is observed is commonly observed
-in gastric carcinoma
-\cite{10.1007/978-4-431-68246-2_26}.
-Probably the dominant effect on tumors is unrelated to ambient
-pH although increased pH may reduce nutrient
-accumulation by many cells. An absolute apoptosis rate
-at near neutral pH is probably not indicative of the
-overall fitness in the stomach. 
 
 
 \section{Limitations}
@@ -1880,6 +1900,34 @@ effectively to treat other dogs.
 \end{figure}
 
 \end{comment}
+
+
+
+\section{Some Common Logical Fallacies and Misdirections}
+\label{appendix:errors}
+
+The analysis errors that confuse the problem with the
+solution may be catagorized in a number of way but
+consider the following possibilities,  
+
+\newcommand{\myitem}[2]{\item {\bf #1 : } #2 \par}
+\begin{enumerate}
+\myitem{supply v demand}{ An excess quantity is not inherently due to either supply or demand }
+\myitem{false dichotomy}{ good and evil  }
+\myitem{non-monotonic curves }{ \mjmquote{ show me a monotonic dose response curve and I'll show you a fool } }
+\myitem{hidden interaction }{ The observed result requires some interaction partners  }
+\myitem{X is a Y   }{ Role confusion leads to more untested assumptions.  }
+\myitem{irnores empirical obervations  }{ Theory based on incomplete system topology needs to be consistent with empirical observations  }
+\myitem{irnores empirical obervations  }{ Theory based on incomplete system topology needs to be consistent with empirical observations  }
+\myitem{other state variables }{ Hidden variables include a limting nutrient that is needed to beneficially use the entity under test.   }
+\myitem{regulatory landscape }{ As life is generally robust control systems have evolved but may have non-obvious failure modes. }
+\myitem{trying harder  }{ If a prefered response is frustrated in attaining a survival relevant goal, there may be signals to try a less orderly response more vigorously. The disorganized response can be suppressed by enabling the effective one.  }
+\myitem{narrow corridor }{  Given host-other evolution, you could expect dose response curves with many features but more likely a tight tolerance means that the approach is missing something more robust.  }
+\end{enumerate}
+
+
+
+
 
 \section{Background Diet Sumnary}
 

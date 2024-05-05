@@ -10,7 +10,7 @@ Database file #1: copper.bib
 Warning--I'm ignoring Yu_Liou_Biggins_Copper_Deficiency_Liver_2019's extra "url" field
 --line 2846 of file copper.bib
 Warning--entry type for "PMC11042178" isn't style-file defined
---line 6786 of file copper.bib
+--line 6968 of file copper.bib
 Database file #2: mjm_tr.bib
 Database file #3: releases.bib
 Database file #4: potusebib.bib
@@ -72,10 +72,6 @@ Repeated entry---line 6219 of file ../casesum/casesum.bib
  :  @article{PMID7814236
  :                      ,
 I'm skipping whatever remains of this entry
-Repeated entry---line 6231 of file ../casesum/casesum.bib
- :  @article{PMID18564178
- :                       ,
-I'm skipping whatever remains of this entry
 Repeated entry---line 6243 of file ../casesum/casesum.bib
  :  @article{PMC5133110
  :                     ,
@@ -130,45 +126,45 @@ Repeated entry---line 7007 of file ../casesum/casesum.bib
 I'm skipping whatever remains of this entry
 Warning--empty year in HuberTLa
 Warning--empty year in Yang_Noda_Kato_Elevated_Intestinal_Absorption_
-You've used 128 entries,
+You've used 133 entries,
             2760 wiz_defined-function locations,
-            1662 strings with 65771 characters,
-and the built_in function-call counts, 73890 in all, are:
-= -- 7703
-> -- 4642
-< -- 20
-+ -- 1854
-- -- 1705
-* -- 5897
-:= -- 11735
-add.period$ -- 519
-call.type$ -- 128
-change.case$ -- 1234
+            1698 strings with 68295 characters,
+and the built_in function-call counts, 76535 in all, are:
+= -- 7994
+> -- 4772
+< -- 23
++ -- 1906
+- -- 1751
+* -- 6073
+:= -- 12128
+add.period$ -- 539
+call.type$ -- 133
+change.case$ -- 1272
 chr.to.int$ -- 0
-cite$ -- 130
-duplicate$ -- 1737
-empty$ -- 5012
-format.name$ -- 1705
-if$ -- 17030
+cite$ -- 135
+duplicate$ -- 1825
+empty$ -- 5203
+format.name$ -- 1751
+if$ -- 17680
 int.to.chr$ -- 0
-int.to.str$ -- 128
-missing$ -- 125
-newline$ -- 777
-num.names$ -- 258
-pop$ -- 1452
+int.to.str$ -- 133
+missing$ -- 130
+newline$ -- 807
+num.names$ -- 268
+pop$ -- 1504
 preamble$ -- 1
-purify$ -- 1107
+purify$ -- 1140
 quote$ -- 0
-skip$ -- 3930
+skip$ -- 4111
 stack$ -- 0
-substring$ -- 1803
-swap$ -- 487
-text.length$ -- 20
+substring$ -- 1847
+swap$ -- 529
+text.length$ -- 23
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 510
+type$ -- 530
 warning$ -- 2
-while$ -- 335
-width$ -- 131
-write$ -- 1773
-(There were 28 error messages)
+while$ -- 347
+width$ -- 136
+write$ -- 1842
+(There were 27 error messages)

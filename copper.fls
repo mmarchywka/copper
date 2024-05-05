@@ -418,7 +418,6 @@ INPUT /home/marchywka/.texlive2019/texmf-var/luatex-cache/generic-dev/fonts/otl/
 INPUT ./copper.toc
 INPUT ./copper.toc
 OUTPUT copper.toc
-INPUT /home/marchywka/.texlive2019/texmf-var/luatex-cache/generic-dev/fonts/otl/lmroman10-italic.luc
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmmi9.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm
@@ -448,6 +447,9 @@ INPUT ./keep/rocky_cu.jpg
 INPUT ./keep/rocky_i.jpg
 INPUT ./keep/rocky_i.jpg
 INPUT ./keep/rocky_i.jpg
+INPUT ./keep/annie_cu.jpg
+INPUT ./keep/annie_cu.jpg
+INPUT ./keep/annie_cu.jpg
 INPUT ./keep/hershey_cu_i.jpg
 INPUT ./keep/hershey_cu_i.jpg
 INPUT ./keep/hershey_cu_i.jpg
@@ -462,6 +464,7 @@ INPUT ./comment.cut
 OUTPUT comment.cut
 INPUT ./comment.cut
 INPUT ./comment.cut
+INPUT /home/marchywka/.texlive2019/texmf-var/luatex-cache/generic-dev/fonts/otl/lmroman10-italic.luc
 INPUT ./keep/monthly.tex
 INPUT ./keep/monthly.tex
 INPUT /home/documents/latex/share/includes/disclaimer-gaslight.tex

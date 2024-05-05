@@ -19,6 +19,34 @@ effectively to treat other dogs.
 
 \end{comment}
 
+
+
+\section{Some Common Logical Fallacies and Misdirections}
+\label{appendix:errors}
+
+The analysis errors that confuse the problem with the
+solution may be catagorized in a number of way but
+consider the following possibilities,
+
+\newcommand{\myitem}[2]{\item {\bf #1 : } #2 \par}
+\begin{enumerate}
+\myitem{supply v demand}{ An excess quantity is not inherently due to either supply or demand }
+\myitem{false dichotomy}{ good and evil  }
+\myitem{non-monotonic curves }{ \mjmquote{ show me a monotonic dose response curve and I'll show you a fool } }
+\myitem{hidden interaction }{ The observed result requires some interaction partners  }
+\myitem{X is a Y   }{ Role confusion leads to more untested assumptions.  }
+\myitem{irnores empirical obervations  }{ Theory based on incomplete system topology needs to be consistent with empirical observations  }
+\myitem{irnores empirical obervations  }{ Theory based on incomplete system topology needs to be consistent with empirical observations  }
+\myitem{other state variables }{ Hidden variables include a limting nutrient that is needed to beneficially use the entity under test.   }
+\myitem{regulatory landscape }{ As life is generally robust control systems have evolved but may have non-obvious failure modes. }
+\myitem{trying harder  }{ If a prefered response is frustrated in attaining a survival relevant goal, there may be signals to try a less orderly response more vigorously. The disorganized response can be suppressed by enabling the effective one.  }
+\myitem{narrow corridor }{  Given host-other evolution, you could expect dose response curves with many features but more likely a tight tolerance means that the approach is missing something more robust.  }
+\end{enumerate}
+
+
+
+
+
 \section{Background Diet Sumnary}
 
 \input{keep/monthly.tex}

@@ -82,14 +82,6 @@ Carme Ballester-Servera, Judith Alonso, Manel Tauron, Noemi Rotllan, Cristina
   \href {http://dx.doi.org/10.1016/j.arteri.2024.01.003}
   {\path{doi:10.1016/j.arteri.2024.01.003}}.
 
-\bibitem{PMID18564178}
-F~Baumgart and I~Rodriguez-Crespo.
-\newblock D-amino acids in the brain: the biochemistry of brain serine
-  racemase.
-\newblock {\em The FEBS journal}, 275(14):3538--45, 2008.
-\newblock Available from:
-  \url{http://www.ncbi.nlm.nih.gov/pubmed/articles/18564178/}.
-
 \bibitem{Bellingham_Guo_Hill_secret_life_2015}
 Shayne~A. Bellingham, Belinda Guo, and Andrew~F. Hill.
 \newblock The secret life of extracellular vesicles in metal homeostasis and
@@ -259,6 +251,15 @@ Jonathan~D. Cuppett, Susan~E. Duncan, and Andrea~M. Dietrich.
   \href {http://dx.doi.org/10.1093/chemse/bjl010}
   {\path{doi:10.1093/chemse/bjl010}}.
 
+\bibitem{PMC3526418}
+Qin-Yun Dong and Zhi-Ying Wu.
+\newblock Advance in the pathogenesis and treatment of wilson disease.
+\newblock {\em Translational Neurodegeneration}, page~23, 11 2012.
+\newblock Available from:
+  \url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3526418/}, \href
+  {http://dx.doi.org/10.1186/2047-9158-1-23}
+  {\path{doi:10.1186/2047-9158-1-23}}.
+
 \bibitem{PMID26085547}
 Andrew Duncan, Calum Yacoubian, Neil Watson, and Ian Morrison.
 \newblock The risk of copper deficiency in patients prescribed zinc
@@ -349,14 +350,14 @@ Alok Ghosh, Prachi~P. Trivedi, Shrishiv~A. Timbalia, Aaron~T. Griffin,
   {\path{arXiv:/oup/backfile/content\_public/journal/hmg/23/13/10.1093/hmg/ddu069/2/ddu069.pdf}},
   \href {http://dx.doi.org/10.1093/hmg/ddu069} {\path{doi:10.1093/hmg/ddu069}}.
 
-\bibitem{Guilarte1989}
-Tomas~R. Guilarte.
-\newblock Regional changes in the concentrations of glutamate, glycine,
-  taurine, and gaba in the vitamin b-6 deficient developing rat brain:
-  Association with neonatal seizures.
-\newblock {\em Neurochemical Research}, 14(9):889--897, 1989.
-\newblock Available from: \url{http://dx.doi.org/10.1007/BF00964820}, \href
-  {http://dx.doi.org/10.1007/BF00964820} {\path{doi:10.1007/BF00964820}}.
+\bibitem{PMID15668644}
+Natalia Giurgea, Mihaela~Ioana Constantinescu, Ramona Stanciu, Soimita Suciu,
+  and Adriana Muresan.
+\newblock Ceruloplasmin - acute-phase reactant or endogenous antioxidant? the
+  case of cardiovascular disease.
+\newblock {\em Medical science monitor : international medical journal of
+  experimental and clinical research}, pages RA48--51, Feb 2005.
+\newblock Available from: \url{https://pubmed.ncbi.nlm.nih.gov/15668644/}.
 
 \bibitem{Handy_Musonda_Phillips_Mechanisms_Gastrointestinal_Copper_2000}
 R.~D. Handy, M.~M. Musonda, C.~Phillips, and S.~J. Falla.
@@ -549,6 +550,17 @@ Meena Kumari and Kalpana Platel.
 \newblock JSFA-16-2048.R1.
 \newblock Available from: \url{http://dx.doi.org/10.1002/jsfa.8113}, \href
   {http://dx.doi.org/10.1002/jsfa.8113} {\path{doi:10.1002/jsfa.8113}}.
+
+\bibitem{KUx0119badchar_Biel_Witkowicz_Mineral_heavy_metal_2023}
+Jagoda KUx0119[bad char vv=281]piUx0144[bad char~vv=324]ska Pacelik, Wioletta
+  Biel, Robert Witkowicz, and Cezary PodsiadUx0142[bad~char vv=322]o.
+\newblock Mineral and heavy metal content in dry dog foods with different main
+  animal components.
+\newblock {\em Scientific Reports}, 13, 04 2023.
+\newblock Available from:
+  \url{https://www.nature.com/articles/s41598-023-33224-w}, \href
+  {http://dx.doi.org/10.1038/s41598-023-33224-w}
+  {\path{doi:10.1038/s41598-023-33224-w}}.
 
 \bibitem{PMID33661473}
 Hualin Li, Lijun Zhao, Tao Wang, and Y~James~Kang.
@@ -745,6 +757,14 @@ Yasuhiro Nose and Dennis~J Thiele.
   \href {http://dx.doi.org/10.1007/s12263-010-0202-x}
   {\path{doi:10.1007/s12263-010-0202-x}}.
 
+\bibitem{ODell_Fructose_mineral_metabolism_1993}
+BL~O'Dell.
+\newblock Fructose and mineral metabolism.
+\newblock {\em The American Journal of Clinical Nutrition}, 58, 1993.
+\newblock Available from: \url{http://dx.doi.org/10.1093/ajcn/58.5.771s}, \href
+  {http://dx.doi.org/10.1093/ajcn/58.5.771s}
+  {\path{doi:10.1093/ajcn/58.5.771s}}.
+
 \bibitem{PMC2018314}
 BL~O'Dell, KH~Kilburn, WN~McKenzie, and RJ~Thurston.
 \newblock The lung of the copper-deficient rat. a model for developmental
@@ -817,6 +837,15 @@ Tony Peled, Efrat Landau, Eugenia Prus, Abraham~J Treves, Arnon Nagler, and
 \newblock Available from: \url{https://pubmed.ncbi.nlm.nih.gov/11849228/},
   \href {http://dx.doi.org/10.1046/j.0007-1048.2001.03316.x}
   {\path{doi:10.1046/j.0007-1048.2001.03316.x}}.
+
+\bibitem{PMC8066201}
+Ana~Margarida Pereira, Margarida~G. Maia, Antnio~Mira Fonseca, and Ana~Jordo
+  Cabrita.
+\newblock Zinc in dog nutrition, health and disease: A review.
+\newblock {\em Animals : an Open Access Journal from MDPI}, 04 2021.
+\newblock Available from:
+  \url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8066201/}, \href
+  {http://dx.doi.org/10.3390/ani11040978} {\path{doi:10.3390/ani11040978}}.
 
 \bibitem{PMC3401972}
 Katharina~F. Pirker, Maria~Camilla Baratto, Riccardo Basosi, and Bernard~A.
@@ -1082,6 +1111,25 @@ Melissa Vos, Giovanni Esposito, Janaka~N. Edirisinghe, Sven Vilain, Dominik~M.
   {\path{arXiv:http://science.sciencemag.org/content/336/6086/1306.full.pdf}},
   \href {http://dx.doi.org/10.1126/science.1218632}
   {\path{doi:10.1126/science.1218632}}.
+
+\bibitem{Vrolijk_Opperhuizen_Jansen_vitamin_paradox_2017}
+Misha~F. Vrolijk, Antoon Opperhuizen, Eug\`{e}ne~H.J.M. Jansen, Geja~J.
+  Hageman, Aalt Bast, and Guido~R.M.M. Haenen.
+\newblock The vitamin b6 paradox: Supplementation with high concentrations of
+  pyridoxine leads to decreased vitamin b6 function.
+\newblock {\em Toxicology in Vitro}, 44, 2017.
+\newblock Available from: \url{http://dx.doi.org/10.1016/j.tiv.2017.07.009},
+  \href {http://dx.doi.org/10.1016/j.tiv.2017.07.009}
+  {\path{doi:10.1016/j.tiv.2017.07.009}}.
+
+\bibitem{PMC7495772}
+Ahsan Wahab, Kamran Mushtaq, Samuel~G. Borak, and Naresh Bellam.
+\newblock Zincinduced copper deficiency, sideroblastic anemia, and neutropenia:
+  A perplexing facet of zinc excess.
+\newblock {\em Clinical Case Reports}, pages 1666--71, 05 2020.
+\newblock Available from:
+  \url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7495772/}, \href
+  {http://dx.doi.org/10.1002/ccr3.2987} {\path{doi:10.1002/ccr3.2987}}.
 
 \bibitem{doi:10.1093/qjmed/hcg114}
 J.M. Walshe, E.~Waldenström, V.~Sams, H.~Nordlinder, and K.~Westermark.
