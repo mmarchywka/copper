@@ -43,6 +43,16 @@ LauraA Amundson, BrentN Kirn, ErikJ Swensson, AllisonA Millican, and GeorgeC
   \url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10787350/}, \href
   {http://dx.doi.org/10.1093/tas/txad147} {\path{doi:10.1093/tas/txad147}}.
 
+\bibitem{ARREDONDO_MARTINEZ_NUNEZ_Inhibition_iron_2006}
+MIGUEL ARREDONDO, RONNY MART\'{I}NEZ, MARCO~T N\'{U}\~{N}EZ, MANUEL RUZ, and
+  MANUEL OLIVARES.
+\newblock Inhibition of iron and copper uptake by iron, copper and zinc.
+\newblock {\em Biological Research}, 39, 2006.
+\newblock Available from:
+  \url{http://dx.doi.org/10.4067/s0716-97602006000100011}, \href
+  {http://dx.doi.org/10.4067/s0716-97602006000100011}
+  {\path{doi:10.4067/s0716-97602006000100011}}.
+
 \bibitem{Ata_Bradshaw_Zinc_Supplementation_induced_Copper_2024}
 Anooshah Ata and Anthony Bradshaw.
 \newblock Zinc supplementation-induced copper deficiency myeloneuropathy:
@@ -186,6 +196,13 @@ Paul~T. Bremer, Sabine Pellett, James~P. Carolan, William~H. Tepp, Lisa~M.
   {\path{arXiv:http://dx.doi.org/10.1021/jacs.7b01084}}, \href
   {http://dx.doi.org/10.1021/jacs.7b01084} {\path{doi:10.1021/jacs.7b01084}}.
 
+\bibitem{Brewer_Risks_Copper_2010}
+George~J. Brewer.
+\newblock Risks of copper and iron toxicity during aging in humans.
+\newblock {\em Chemical Research in Toxicology}, 23, 02 2010.
+\newblock Available from: \url{http://dx.doi.org/10.1021/tx900338d}, \href
+  {http://dx.doi.org/10.1021/tx900338d} {\path{doi:10.1021/tx900338d}}.
+
 \bibitem{Center_Richter_Twedt_time_2021}
 Sharon~A. Center, Keith~P. Richter, David~C. Twedt, Joseph~J. Wakshlag,
   Penny~J. Watson, and Cynthia R.~L. Webster.
@@ -203,6 +220,15 @@ ML~Channa, FJ~Burger, JB~Ubbink, and SG~Reinach.
 \newblock {\em vitaminologie et de nutrition}, 64(3):204--11, 1994.
 \newblock Available from:
   \url{http://www.ncbi.nlm.nih.gov/pubmed/articles/7814236/}.
+
+\bibitem{Chen_Min_Wang_Copper_homeostasis_cuproptosis_2022}
+Liyun Chen, Junxia Min, and Fudi Wang.
+\newblock Copper homeostasis and cuproptosis in health and disease.
+\newblock {\em Signal Transduction and Targeted Therapy}, 7, 11 2022.
+\newblock Available from:
+  \url{https://www.nature.com/articles/s41392-022-01229-y}, \href
+  {http://dx.doi.org/10.1038/s41392-022-01229-y}
+  {\path{doi:10.1038/s41392-022-01229-y}}.
 
 \bibitem{Chillon_Demircan_Hackler_Combined_copper_zinc_2023}
 Thilo~Samson Chillon, Kamil Demircan, Julian Hackler, Raban~A. Heller, Peyman
@@ -359,15 +385,21 @@ Natalia Giurgea, Mihaela~Ioana Constantinescu, Ramona Stanciu, Soimita Suciu,
   experimental and clinical research}, pages RA48--51, Feb 2005.
 \newblock Available from: \url{https://pubmed.ncbi.nlm.nih.gov/15668644/}.
 
-\bibitem{Handy_Musonda_Phillips_Mechanisms_Gastrointestinal_Copper_2000}
-R.~D. Handy, M.~M. Musonda, C.~Phillips, and S.~J. Falla.
-\newblock Mechanisms of gastrointestinal copper absorption in the african
-  walking catfish: Copper dose-effects and a novel anion-dependent pathway in
-  the intestine.
-\newblock {\em Journal of Experimental Biology}, 203, 08 2000.
-\newblock Available from: \url{http://dx.doi.org/10.1242/jeb.203.15.2365},
-  \href {http://dx.doi.org/10.1242/jeb.203.15.2365}
-  {\path{doi:10.1242/jeb.203.15.2365}}.
+\bibitem{Ha_Doguer_Collins_Consumption_high_2017}
+Jung-Heun Ha, Caglar Doguer, and James~F. Collins.
+\newblock Consumption of a high-iron diet disrupts homeostatic regulation of
+  intestinal copper absorption in adolescent mice.
+\newblock {\em American Journal of Physiology-Gastrointestinal and Liver
+  Physiology}, 313, 10 2017.
+\newblock Available from: \url{http://dx.doi.org/10.1152/ajpgi.00169.2017},
+  \href {http://dx.doi.org/10.1152/ajpgi.00169.2017}
+  {\path{doi:10.1152/ajpgi.00169.2017}}.
+
+\bibitem{Hamza_Gitlin_Hepatic_Copper_Transport_2013}
+Iqbal Hamza and Jonathan~D Gitlin.
+\newblock Hepatic copper transport.
+\newblock {\em Landes Bioscience}, 2013.
+\newblock Available from: \url{https://www.ncbi.nlm.nih.gov/books/NBK6381/}.
 
 \bibitem{PMID6110524}
 ED~Harris, JK~Rayton, JE~Balthrop, RA~DiSilvestro, and M~Garcia-de Quevedo.
@@ -391,6 +423,15 @@ Linda~J. Harvey and Harry~J. McArdle.
 \newblock Available from: \url{http://dx.doi.org/10.1017/s0007114508006806},
   \href {http://dx.doi.org/10.1017/s0007114508006806}
   {\path{doi:10.1017/s0007114508006806}}.
+
+\bibitem{PMC6365104}
+Nesrin~M. Hasan and Svetlana Lutsenko.
+\newblock Regulation of copper transporters in human cells.
+\newblock {\em Current topics in membranes}, pages 137--61, 2012.
+\newblock Available from:
+  \url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6365104/}, \href
+  {http://dx.doi.org/10.1016/B978-0-12-394390-3.00006-9}
+  {\path{doi:10.1016/B978-0-12-394390-3.00006-9}}.
 
 \bibitem{IUB:IUB1620}
 Yuta Hatori, Sachiye Inouye, and Reiko Akagi.
@@ -458,16 +499,6 @@ James~W. Hilton, Kai Kysenius, Jeffrey~R. Liddell, Stephen~W. Mercer, Bence
   \url{https://www.nature.com/articles/s41598-024-55832-w}, \href
   {http://dx.doi.org/10.1038/s41598-024-55832-w}
   {\path{doi:10.1038/s41598-024-55832-w}}.
-
-\bibitem{Hong_Duncan_Dietrich_Effect_copper_speciation_2010}
-Jae~Hee Hong, Susan~E. Duncan, and Andrea~M. Dietrich.
-\newblock Effect of copper speciation at different ph on temporal sensory
-  attributes of copper.
-\newblock {\em Food Quality and Preference}, 21, 2010.
-\newblock Available from:
-  \url{http://dx.doi.org/10.1016/j.foodqual.2009.08.010}, \href
-  {http://dx.doi.org/10.1016/j.foodqual.2009.08.010}
-  {\path{doi:10.1016/j.foodqual.2009.08.010}}.
 
 \bibitem{PMID15902551}
 R~Horvath, P~Freisinger, R~Rubio, T~Merl, R~Bax, JA~Mayr, Shawan,
@@ -562,6 +593,16 @@ Jagoda KUx0119[bad char vv=281]piUx0144[bad char~vv=324]ska Pacelik, Wioletta
   {http://dx.doi.org/10.1038/s41598-023-33224-w}
   {\path{doi:10.1038/s41598-023-33224-w}}.
 
+\bibitem{Lee_Ha_Collins_Dietary_Iron_Intake_2021}
+Jennifer~K. Lee, Jung-Heun Ha, and James~F. Collins.
+\newblock Dietary iron intake in excess of requirements impairs intestinal
+  copper absorption in sprague dawley rat dams, causing copper deficiency in
+  suckling pups.
+\newblock {\em Biomedicines}, 9, 2021.
+\newblock Available from: \url{http://dx.doi.org/10.3390/biomedicines9040338},
+  \href {http://dx.doi.org/10.3390/biomedicines9040338}
+  {\path{doi:10.3390/biomedicines9040338}}.
+
 \bibitem{PMID33661473}
 Hualin Li, Lijun Zhao, Tao Wang, and Y~James~Kang.
 \newblock Dietary cholesterol supplements disturb copper homeostasis in
@@ -615,6 +656,42 @@ Henry~C. Lukaski, Clinton~B. Hall, and Martin~J. Marchello.
   \href {http://dx.doi.org/10.1016/0955-2863(95)00062-5}
   {\path{doi:10.1016/0955-2863(95)00062-5}}.
 
+\bibitem{marchywka-MJM-2021-015-0.50-rg}
+Mike~J Marchywka.
+\newblock The paradox paradigm: When could amino acid supplements be
+  beneficial?
+\newblock techreport MJM-2021-015, not institutionalized, independent, 306
+  Charles Cox , Canton GA 30115, 12 2021.
+\newblock Available from:
+  \url{https://www.researchgate.net/publication/357250784_The_Paradox_Paradigm_When_Could_Amino_Acid_Supplements_Be_Beneficial}.
+
+\bibitem{mmarchywka-MJM-2021-007-.1-table-rg}
+Mike~J Marchywka.
+\newblock Update to covid-19 age distribution notes.
+\newblock Technical Report MJM-2021-007, not institutionalized , independent,
+  306 Charles Cox , Canton GA 30115, 8 2021.
+\newblock Version .1, may change signficantly if less than 1.00.
+\newblock Available from:
+  \url{https://www.researchgate.net/publication/353946686_Draft_table_comparing_expectations_to_recent_results_with_covid-19}.
+
+\bibitem{marchywka-MJM-2022-009-0.50rg}
+Mike~J Marchywka.
+\newblock Happy again : Possible canine riboflavin deficiency.
+\newblock techreport MJM-2022-009, not institutionalized, independent, 306
+  Charles Cox , Canton GA 30115, 3 2022.
+\newblock Available from:
+  \url{https://www.researchgate.net/publication/359504498_Happy_Again_Possible_Canine_Riboflavin_Deficiency}.
+
+\bibitem{marchywka-MJM-2022-010-0.80}
+Mike~J Marchywka.
+\newblock Vitamin d: Towards a conflict resolving hypothesis.
+\newblock techreport MJM-2022-010, not institutionalized, independent, 306
+  Charles Cox , Canton GA 30115, 7 2022.
+\newblock Available from:
+  \url{https://www.researchgate.net/publication/362303875_Vitamin_D_Towards_A_Conflict_Resolving_Hypothesis},
+  \href {http://dx.doi.org/10.5281/zenodo.6922402}
+  {\path{doi:10.5281/zenodo.6922402}}.
+
 \bibitem{mmarchywka-MJM-2019-001-.1li}
 M.J. Marchywka.
 \newblock Canine heartworm treated with doxycycline, ivermectin and various
@@ -634,6 +711,15 @@ M.J. Marchywka.
 \newblock May be recycled in appropriate media.
 \newblock Available from:
   \url{https://www.researchgate.net/publication/350442384_Canine_Heartworm_Treated_with_Doxycycline_Ivermectin_and_Various_Supplements}.
+
+\bibitem{mmarchywka-MJM-2020-004-.012rg}
+M.J. Marchywka.
+\newblock Muqed: a multi-use quantitative event diary for dog diet analysis.
+\newblock Technical Report MJM-2020-004, not institutionalized , independent,
+  306 Charles Cox , Canton GA 30115, April 2021.
+\newblock May be recycled in appropriate media.
+\newblock Available from:
+  \url{https://www.researchgate.net/publication/350636753_MUQED_a_Multi-Use_Quantitative_Event_Diary_For_Dog_Diet_Analysis}.
 
 \bibitem{mmarchywka-MJM-2021-003-v0.50rg}
 M.J. Marchywka.
@@ -1065,6 +1151,17 @@ Huber TL, Laflamme DP, Medleau L, Comer KM, and Rakich PM.
 \newblock Comparison of procedures for assessing adequacy of dog foods.
 \newblock {\em Journal of the American Veterinary Medical Association}, 199.
 \newblock Available from: \url{http://europepmc.org/abstract/med/1659568}.
+
+\bibitem{TURNBULL2021104897}
+Duncan Turnbull, Maia~M. Jack, Pragati~S. Coder, Catherine~A. Picut, and
+  Joseph~V. Rodricks.
+\newblock Extended one-generation reproductive toxicity (eogrt) study of
+  benzoic acid in sprague dawley rats.
+\newblock {\em Regulatory Toxicology and Pharmacology}, 122:104897, 2021.
+\newblock Available from:
+  \url{https://www.sciencedirect.com/science/article/pii/S0273230021000374},
+  \href {http://dx.doi.org/https://doi.org/10.1016/j.yrtph.2021.104897}
+  {\path{doi:https://doi.org/10.1016/j.yrtph.2021.104897}}.
 
 \bibitem{PMC11042178}
 Lissa Ventura-Antunes, Alex Nackenoff, Wilber Romero-Fernandez, Allison~M

@@ -10,34 +10,34 @@
 \contentsline {subsection}{\numberline {2.5} AD, PD, ALS, Arthritis }{7}{section*.8}%
 \contentsline {subsection}{\numberline {2.6} Cancer }{8}{section*.9}%
 \contentsline {section}{\numberline {3} Functions of Interest }{8}{section*.10}%
-\contentsline {subsection}{\numberline {3.1} Cytochrome C Oxidase }{8}{section*.11}%
+\contentsline {subsection}{\numberline {3.1} Cytochrome C Oxidase }{9}{section*.11}%
 \contentsline {subsection}{\numberline {3.2} Lysyl Oxidase }{9}{section*.12}%
-\contentsline {subsection}{\numberline {3.3} Ceruloplasmin }{9}{section*.13}%
+\contentsline {subsection}{\numberline {3.3} Ceruloplasmin }{10}{section*.13}%
 \contentsline {subsection}{\numberline {3.4} Macrophage et al }{10}{section*.14}%
 \contentsline {subsection}{\numberline {3.5} Ligandss- histidine and garlic etc }{10}{section*.15}%
-\contentsline {section}{\numberline {4}Cases and Observations}{10}{section*.16}%
-\contentsline {subsection}{\numberline {4.1}Cookie or Mixie}{11}{section*.17}%
-\contentsline {subsection}{\numberline {4.2}Brownie and puppies}{11}{section*.18}%
-\contentsline {subsection}{\numberline {4.3}Happy}{11}{section*.19}%
-\contentsline {subsection}{\numberline {4.4}Trixie}{12}{section*.20}%
-\contentsline {subsection}{\numberline {4.5}Rocky}{12}{section*.21}%
-\contentsline {subsection}{\numberline {4.6}Annie}{13}{section*.22}%
+\contentsline {section}{\numberline {4}Cases and Observations}{11}{section*.16}%
+\contentsline {subsection}{\numberline {4.1}Cookie or Mixie}{12}{section*.17}%
+\contentsline {subsection}{\numberline {4.2}Brownie and puppies}{12}{section*.18}%
+\contentsline {subsection}{\numberline {4.3}Happy}{13}{section*.19}%
+\contentsline {subsection}{\numberline {4.4}Trixie}{14}{section*.20}%
+\contentsline {subsection}{\numberline {4.5}Rocky}{14}{section*.21}%
+\contentsline {subsection}{\numberline {4.6}Annie}{15}{section*.22}%
 \contentsline {subsection}{\numberline {4.7}Hershey}{16}{section*.23}%
-\contentsline {subsection}{\numberline {4.8}Miscellaneous Observations}{17}{section*.24}%
-\contentsline {section}{\numberline {5}Discussion }{17}{section*.25}%
-\contentsline {section}{\numberline {6}Limitations}{17}{section*.26}%
-\contentsline {section}{\numberline {7}Conclusions}{18}{section*.27}%
-\contentsline {section}{\numberline {8}Supplemental Information}{18}{section*.28}%
-\contentsline {subsection}{\numberline {8.1}Computer Code}{18}{section*.29}%
-\contentsline {section}{\numberline {9}Bibliography}{18}{section*.30}%
-\contentsline {section}{\numberline {}References}{18}{section*.31}%
-\contentsline {section}{\numberline {}Acknowledgments}{26}{section*.32}%
+\contentsline {subsection}{\numberline {4.8}Miscellaneous Observations}{18}{section*.24}%
+\contentsline {section}{\numberline {5}Discussion }{18}{section*.25}%
+\contentsline {section}{\numberline {6}Limitations}{18}{section*.26}%
+\contentsline {section}{\numberline {7}Conclusions}{19}{section*.27}%
+\contentsline {section}{\numberline {8}Supplemental Information}{19}{section*.28}%
+\contentsline {subsection}{\numberline {8.1}Computer Code}{19}{section*.29}%
+\contentsline {section}{\numberline {9}Bibliography}{19}{section*.30}%
+\contentsline {section}{\numberline {}References}{19}{section*.31}%
+\contentsline {section}{\numberline {}Acknowledgments}{27}{section*.32}%
 \appendix 
-\contentsline {section}{\numberline {A} Statement of Conflicts }{27}{section*.33}%
-\contentsline {section}{\numberline {B}About the Authors and Facility}{27}{section*.34}%
-\contentsline {section}{\numberline {C}Some Common Logical Fallacies and Misdirections}{27}{section*.35}%
-\contentsline {section}{\numberline {D}Background Diet Sumnary}{28}{section*.36}%
-\contentsline {section}{\numberline {E}Notable Food Components with Copper Interactions}{32}{section*.37}%
-\contentsline {section}{\numberline {F}Symbols, Abbreviations and Colloquialisms}{32}{section*.38}%
-\contentsline {section}{\numberline {G}General caveats and disclaimer }{32}{section*.39}%
-\contentsline {section}{\numberline {H}Citing this as a tech report or white paper }{32}{section*.40}%
+\contentsline {section}{\numberline {A} Statement of Conflicts }{28}{section*.33}%
+\contentsline {section}{\numberline {B}About the Authors and Facility}{28}{section*.34}%
+\contentsline {section}{\numberline {C}Some Common Logical Fallacies and Misdirections}{28}{section*.35}%
+\contentsline {section}{\numberline {D}Background Diet Sumnary}{29}{section*.36}%
+\contentsline {section}{\numberline {E}Notable Food Components with Copper Interactions}{33}{section*.37}%
+\contentsline {section}{\numberline {F}Symbols, Abbreviations and Colloquialisms}{33}{section*.38}%
+\contentsline {section}{\numberline {G}General caveats and disclaimer }{33}{section*.39}%
+\contentsline {section}{\numberline {H}Citing this as a tech report or white paper }{33}{section*.40}%

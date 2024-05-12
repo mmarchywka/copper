@@ -35,7 +35,8 @@ consider the following possibilities,
 \myitem{non-monotonic curves }{ \mjmquote{ show me a monotonic dose response curve and I'll show you a fool } }
 \myitem{hidden interaction }{ The observed result requires some interaction partners  }
 \myitem{X is a Y   }{ Role confusion leads to more untested assumptions.  }
-\myitem{irnores empirical obervations  }{ Theory based on incomplete system topology needs to be consistent with empirical observations  }
+\myitem{only relies on  empirical obervations  }{ no cuase and effect stablished   }
+\myitem{irnores empirical obervations  }{ "sanity  check " Theory based on incomplete system topology needs to be consistent with empirical observations  }
 \myitem{irnores empirical obervations  }{ Theory based on incomplete system topology needs to be consistent with empirical observations  }
 \myitem{other state variables }{ Hidden variables include a limting nutrient that is needed to beneficially use the entity under test.   }
 \myitem{regulatory landscape }{ As life is generally robust control systems have evolved but may have non-obvious failure modes. }
@@ -53,6 +54,8 @@ consider the following possibilities,
 
 
 \section{Notable Food Components with Copper Interactions}
+
+\label{appendix:interactions}
 \mjmhuntcu
 
 \section{Symbols, Abbreviations and Colloquialisms}

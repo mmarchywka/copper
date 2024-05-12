@@ -2437,3 +2437,40 @@ toobib-date={2024-05-05:16:50:14 Sun 05 May 2024 04:50:14 PM EDT}
 }
 
 
+% mjmhandler: toobib guesspmc
+% date 2024-05-07:15:37:47 Tue 07 May 2024 03:37:47 PM EDT
+% srcurl: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6365104/
+% citeurl: eutilsnew -out "/tmp/filePWNHjm.outguesses" -v -db pmc -report medline PMC6365104
+
+%DP = {2012},
+%LA = {eng},
+%MID = {NIHMS1007159},
+%PT = {Journal Article},
+%SO = {Curr Top Membr. 2012;69:137-61. doi:10.1016/B978-0-12-394390-3.00006-9.},
+%TA = {Curr Top Membr}
+@article{PMC6365104,
+X_TooBib = {urldate: FixBeKvp s= cmd=date "+%Y-%m-%d" d=2024-05-07 dn=urldate},
+X_TooBib = {publisher: ReWriteParse be.get(s)= be.get(dest)=},
+X_TooBib = {author: Hasan , Nesrin M. and Lutsenko , Svetlana},
+abstract = {Copper is essential for normal growth and development of human organisms. The role of copper as a cofactor of important metabolic enzymes, such as cytochrome c oxidase, superoxide dismutase, lysyl oxidase, dopamine--hydroxylase, and many others, has been well established. In recent years, new regulatory roles of copper have emerged. Accumulating evidence points to the involvement of copper in lipid metabolism, antimicrobial defense, neuronal activity, resistance of tumor cells to platinum-based chemotherapeutic drugs, kinase-mediated signal transduction, and other essential cellular processes. For many of these processes, the precise mechanism of copper action remains to be established. Nevertheless, it is increasingly clear that many regulatory and signaling events are associated with changes in the intracellular localization and abundance of copper transporters, as well as distinct compartmentalization of copper itself. In this review, we discuss current data on regulation of the localization and abundance of copper transporters in response to metabolic and signaling events in human cells. Regulation by kinase-mediated phosphorylation will be addressed along with the emerging area of the redox-driven control of copper transport. We highlight mechanistic questions that await further testing.},
+author = {Hasan , Nesrin M. and Lutsenko , Svetlana},
+author_orig = {Hasan, Nesrin M. and Lutsenko, Svetlana},
+doi = {10.1016/B978-0-12-394390-3.00006-9},
+issue = {1063-5823 (Print)},
+journal = {Current topics in membranes},
+pages = {137-61},
+pubtype = {Journal Article},
+title = {Regulation of Copper Transporters in Human Cells.},
+url = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6365104/},
+urldate = {2024-05-07},
+voiume = {69},
+year = {2012},
+final_assembly ={ TooBib handler guesspmc},
+srcurl={https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6365104/},
+xsrcurl={https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6365104/},
+citeurl={eutilsnew},
+toobib-date={2024-05-07:15:37:47 Tue 07 May 2024 03:37:47 PM EDT}
+
+}
+
+
