@@ -10,10 +10,10 @@ Database file #1: copper.bib
 Warning--I'm ignoring Yu_Liou_Biggins_Copper_Deficiency_Liver_2019's extra "url" field
 --line 2846 of file copper.bib
 Warning--entry type for "PMC11042178" isn't style-file defined
---line 7304 of file copper.bib
+--line 7475 of file copper.bib
+Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Database file #2: mjm_tr.bib
 Database file #3: releases.bib
-Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Database file #4: potusebib.bib
 Repeated entry---line 7042 of file potusebib.bib
  : @article{PMID11801334
@@ -127,45 +127,45 @@ I'm skipping whatever remains of this entry
 Database file #6: sbenzbib.bib
 Warning--empty year in HuberTLa
 Warning--empty year in Yang_Noda_Kato_Elevated_Intestinal_Absorption_
-You've used 144 entries,
+You've used 149 entries,
             2760 wiz_defined-function locations,
-            1775 strings with 71340 characters,
-and the built_in function-call counts, 81011 in all, are:
-= -- 8530
-> -- 4909
-< -- 29
-+ -- 1962
-- -- 1795
-* -- 6328
-:= -- 12812
-add.period$ -- 585
-call.type$ -- 144
-change.case$ -- 1327
+            1811 strings with 73920 characters,
+and the built_in function-call counts, 83284 in all, are:
+= -- 8792
+> -- 5002
+< -- 31
++ -- 1999
+- -- 1827
+* -- 6469
+:= -- 13156
+add.period$ -- 605
+call.type$ -- 149
+change.case$ -- 1358
 chr.to.int$ -- 0
-cite$ -- 146
-duplicate$ -- 1963
-empty$ -- 5596
-format.name$ -- 1795
-if$ -- 18814
+cite$ -- 151
+duplicate$ -- 2036
+empty$ -- 5777
+format.name$ -- 1827
+if$ -- 19379
 int.to.chr$ -- 0
-int.to.str$ -- 144
-missing$ -- 136
-newline$ -- 875
-num.names$ -- 290
-pop$ -- 1577
+int.to.str$ -- 149
+missing$ -- 140
+newline$ -- 905
+num.names$ -- 300
+pop$ -- 1617
 preamble$ -- 1
-purify$ -- 1184
+purify$ -- 1210
 quote$ -- 0
-skip$ -- 4439
+skip$ -- 4603
 stack$ -- 0
-substring$ -- 1946
-swap$ -- 561
-text.length$ -- 29
+substring$ -- 1983
+swap$ -- 587
+text.length$ -- 31
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 574
+type$ -- 594
 warning$ -- 2
-while$ -- 372
-width$ -- 147
-write$ -- 1999
+while$ -- 383
+width$ -- 152
+write$ -- 2069
 (There were 27 error messages)

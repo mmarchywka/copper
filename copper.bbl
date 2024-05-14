@@ -72,6 +72,15 @@ Craig~S. Atwood, George Perry, Hong Zeng, Yoji Kato, Walton~D. Jones, Ke-Qing
 \newblock Available from: \url{http://dx.doi.org/10.1021/bi0358824}, \href
   {http://dx.doi.org/10.1021/bi0358824} {\path{doi:10.1021/bi0358824}}.
 
+\bibitem{Babak_Ahn_Modulation_Intracellular_Copper_2021}
+Maria~V. Babak and Dohyun Ahn.
+\newblock Modulation of intracellular copper levels as the mechanism of action
+  of anticancer copper complexes: Clinical relevance.
+\newblock {\em Biomedicines}, 9, 2021.
+\newblock Available from: \url{http://dx.doi.org/10.3390/biomedicines9080852},
+  \href {http://dx.doi.org/10.3390/biomedicines9080852}
+  {\path{doi:10.3390/biomedicines9080852}}.
+
 \bibitem{PMC3280126}
 MV~Bais, MA~Nugent, DN~Stephens, SS~Sume, KH~Kirsch, GE~Sonenshein, and
   PC~Trackman.
@@ -365,6 +374,17 @@ I.~Carmen Fuentealba and Enrique~M. Aburto.
 \newblock Available from: \url{http://dx.doi.org/10.1186/1476-5926-2-5}, \href
   {http://dx.doi.org/10.1186/1476-5926-2-5} {\path{doi:10.1186/1476-5926-2-5}}.
 
+\bibitem{Georgopoulos_Wang_Georgopoulos_Assessment_human_exposure_2006}
+Panos~G Georgopoulos, Sheng~Wei Wang, Ioannis~G Georgopoulos, Mary~Jean
+  Yonone-Lioy, and Paul~J Lioy.
+\newblock Assessment of human exposure to copper: A case study using the nhexas
+  database.
+\newblock {\em Journal of Exposure Science \& Environmental Epidemiology}, 16,
+  2006.
+\newblock Available from: \url{https://www.nature.com/articles/7500462}, \href
+  {http://dx.doi.org/10.1038/sj.jea.7500462}
+  {\path{doi:10.1038/sj.jea.7500462}}.
+
 \bibitem{doi:10.1093/hmg/ddu069}
 Alok Ghosh, Prachi~P. Trivedi, Shrishiv~A. Timbalia, Aaron~T. Griffin,
   Jennifer~J. Rahn, Sherine S.~L. Chan, and Vishal~M. Gohil.
@@ -384,6 +404,13 @@ Natalia Giurgea, Mihaela~Ioana Constantinescu, Ramona Stanciu, Soimita Suciu,
 \newblock {\em Medical science monitor : international medical journal of
   experimental and clinical research}, pages RA48--51, Feb 2005.
 \newblock Available from: \url{https://pubmed.ncbi.nlm.nih.gov/15668644/}.
+
+\bibitem{Graf_Copper_Ascorbate_1994}
+Ernst Graf.
+\newblock Copper(ii) ascorbate: A novel food preservation system.
+\newblock {\em Journal of Agricultural and Food Chemistry}, 42, 1994.
+\newblock Available from: \url{http://dx.doi.org/10.1021/jf00044a006}, \href
+  {http://dx.doi.org/10.1021/jf00044a006} {\path{doi:10.1021/jf00044a006}}.
 
 \bibitem{Ha_Doguer_Collins_Consumption_high_2017}
 Jung-Heun Ha, Caglar Doguer, and James~F. Collins.
@@ -673,6 +700,14 @@ Mike~J Marchywka.
 \newblock Version .1, may change signficantly if less than 1.00.
 \newblock Available from:
   \url{https://www.researchgate.net/publication/353946686_Draft_table_comparing_expectations_to_recent_results_with_covid-19}.
+
+\bibitem{marchywka-MJM-2021-018-0.50rg}
+Mike~J Marchywka.
+\newblock Experiences with a family of science based kitchen snacks for dogs.
+\newblock techreport MJM-2021-018, not institutionalized, independent, 306
+  Charles Cox , Canton GA 30115, 1 2022.
+\newblock Available from:
+  \url{https://www.researchgate.net/publication/357517852_Experiences_with_a_Family_of_Science_Based_Kitchen_Snacks_for_Dogs}.
 
 \bibitem{marchywka-MJM-2022-009-0.50rg}
 Mike~J Marchywka.
@@ -1116,6 +1151,15 @@ H~Tang, L~Leung, G~Saturno, A~Viros, D~Smith, Leva~G Di, E~Morrison,
 \newblock {\em Nature Communications}, 8, 2017.
 \newblock Available from:
   \url{http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5399287/}.
+
+\bibitem{PMID38739369}
+Yiyang Tang, Zhenghui Liu, Qin Chen, Mukamengjiang Juaiti, Zaixin Yu, Benhui
+  Liang, and Lihuang Zha.
+\newblock Association of sarcopenia with the long-term risk of atrial
+  fibrillation: A prospective cohort study.
+\newblock {\em Aging cell}, page e14198, 05 2024.
+\newblock Available from: \url{https://pubmed.ncbi.nlm.nih.gov/38739369/},
+  \href {http://dx.doi.org/10.1111/acel.14198} {\path{doi:10.1111/acel.14198}}.
 
 \bibitem{Thornburg_Rottinghaus_McGowan_Hepatic_Copper_Concentrations_1990}
 L.~P. Thornburg, G.~Rottinghaus, M.~McGowan, K.~Kupka, S.~Crawford, and
