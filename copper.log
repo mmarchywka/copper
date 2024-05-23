@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2024.3.16)  22 MAY 2024 09:47
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2024.3.16)  22 MAY 2024 14:41
  restricted system commands enabled.
  file:line:error style messages enabled.
 **copper.tex
@@ -1362,48 +1362,38 @@ Overfull \hbox (5.0pt too wide) detected at line 43
 
 \openout6 = copper.toc
  [3]
-Overfull \hbox (13.45999pt too wide) in paragraph at lines 1063--1087
-[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1063--1087
-
- []
-
-
-Overfull \hbox (13.45999pt too wide) in paragraph at lines 1198--1249
+Overfull \hbox (13.45999pt too wide) in paragraph at lines 1208--1259
 []
  []
 
 [4]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1287--1301
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1297--1311
 [][]
  []
 
 [5] [6] [7]
-Underfull \hbox (badness 10000) in paragraph at lines 1540--1540
+Underfull \hbox (badness 10000) in paragraph at lines 1550--1550
 []\TU/lmr/m/n/10 Cop-per may an-tag-o-nize many pathogens in-clud-ing H py-lori
  [[]] and clostridum
  []
 
 
-Overfull \hbox (13.45999pt too wide) in paragraph at lines 1540--1540
+Overfull \hbox (13.45999pt too wide) in paragraph at lines 1550--1550
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1540--1540
+Underfull \hbox (badness 10000) in paragraph at lines 1550--1550
 
  []
 
 [8]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 1548--1548
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 1558--1558
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1548--1548
+Underfull \hbox (badness 10000) in paragraph at lines 1558--1558
 
  []
 
@@ -1411,81 +1401,81 @@ Underfull \hbox (badness 10000) in paragraph at lines 1548--1548
 <keep/happycu.jpeg, id=580, 1606.0pt x 1204.5pt>
 File: keep/happycu.jpeg Graphic file (type jpg)
 <use keep/happycu.jpeg>
-Package luatex.def Info: keep/happycu.jpeg  used on input line 1659.
+Package luatex.def Info: keep/happycu.jpeg  used on input line 1669.
 (luatex.def)             Requested size: 144.53377pt x 144.53375pt.
 <keep/rockycu.jpeg, id=581, 1606.0pt x 1204.5pt>
 File: keep/rockycu.jpeg Graphic file (type jpg)
 <use keep/rockycu.jpeg>
-Package luatex.def Info: keep/rockycu.jpeg  used on input line 1659.
+Package luatex.def Info: keep/rockycu.jpeg  used on input line 1669.
 (luatex.def)             Requested size: 144.53377pt x 144.53375pt.
 <keep/annie.jpeg, id=582, 1606.0pt x 1204.5pt>
 File: keep/annie.jpeg Graphic file (type jpg)
 <use keep/annie.jpeg>
-Package luatex.def Info: keep/annie.jpeg  used on input line 1659.
+Package luatex.def Info: keep/annie.jpeg  used on input line 1669.
 (luatex.def)             Requested size: 144.53377pt x 144.53375pt.
 <keep/mixiepic.jpeg, id=583, 1606.0pt x 1204.5pt>
 File: keep/mixiepic.jpeg Graphic file (type jpg)
 <use keep/mixiepic.jpeg>
-Package luatex.def Info: keep/mixiepic.jpeg  used on input line 1659.
+Package luatex.def Info: keep/mixiepic.jpeg  used on input line 1669.
 (luatex.def)             Requested size: 144.53377pt x 144.53375pt.
 <keep/trixiepic.jpeg, id=584, 1606.0pt x 1204.5pt>
 File: keep/trixiepic.jpeg Graphic file (type jpg)
 <use keep/trixiepic.jpeg>
-Package luatex.def Info: keep/trixiepic.jpeg  used on input line 1659.
+Package luatex.def Info: keep/trixiepic.jpeg  used on input line 1669.
 (luatex.def)             Requested size: 144.53377pt x 144.53375pt.
 <keep/browniepic.jpeg, id=585, 1606.0pt x 1204.5pt>
 File: keep/browniepic.jpeg Graphic file (type jpg)
 <use keep/browniepic.jpeg>
-Package luatex.def Info: keep/browniepic.jpeg  used on input line 1659.
+Package luatex.def Info: keep/browniepic.jpeg  used on input line 1669.
 (luatex.def)             Requested size: 144.53377pt x 144.53375pt.
  [11] [12<./keep/happycu.jpeg><./keep/rockycu.jpeg><./keep/annie.jpeg><./keep/mi
 xiepic.jpeg><./keep/trixiepic.jpeg><./keep/browniepic.jpeg>]
 <keep/mixie_cu.jpg, id=605, 1382.16376pt x 602.25pt>
 File: keep/mixie_cu.jpg Graphic file (type jpg)
 <use keep/mixie_cu.jpg>
-Package luatex.def Info: keep/mixie_cu.jpg  used on input line 1737.
+Package luatex.def Info: keep/mixie_cu.jpg  used on input line 1747.
 (luatex.def)             Requested size: 408.00156pt x 177.77248pt.
 <keep/brownie_cu.jpg, id=606, 1248.665pt x 602.25pt>
 File: keep/brownie_cu.jpg Graphic file (type jpg)
 <use keep/brownie_cu.jpg>
-Package luatex.def Info: keep/brownie_cu.jpg  used on input line 1746.
+Package luatex.def Info: keep/brownie_cu.jpg  used on input line 1756.
 (luatex.def)             Requested size: 408.00156pt x 196.78572pt.
 <keep/happy2seeyou.jpg, id=608, 1767.60374pt x 602.25pt>
 File: keep/happy2seeyou.jpg Graphic file (type jpg)
 <use keep/happy2seeyou.jpg>
-Package luatex.def Info: keep/happy2seeyou.jpg  used on input line 1772.
+Package luatex.def Info: keep/happy2seeyou.jpg  used on input line 1782.
 (luatex.def)             Requested size: 408.00156pt x 139.01082pt.
  [13<./keep/mixie_cu.jpg>]
 <keep/trixie_cu.jpg, id=620, 1482.53876pt x 602.25pt>
 File: keep/trixie_cu.jpg Graphic file (type jpg)
 <use keep/trixie_cu.jpg>
-Package luatex.def Info: keep/trixie_cu.jpg  used on input line 1808.
+Package luatex.def Info: keep/trixie_cu.jpg  used on input line 1818.
 (luatex.def)             Requested size: 408.00156pt x 165.73413pt.
  [14<./keep/brownie_cu.jpg><./keep/happy2seeyou.jpg>]
 <keep/rocky_cu.jpg, id=629, 1364.09625pt x 602.25pt>
 File: keep/rocky_cu.jpg Graphic file (type jpg)
 <use keep/rocky_cu.jpg>
-Package luatex.def Info: keep/rocky_cu.jpg  used on input line 1823.
+Package luatex.def Info: keep/rocky_cu.jpg  used on input line 1833.
 (luatex.def)             Requested size: 408.00156pt x 180.1342pt.
 <keep/rocky_i.jpg, id=630, 1248.665pt x 602.25pt>
 File: keep/rocky_i.jpg Graphic file (type jpg)
 <use keep/rocky_i.jpg>
-Package luatex.def Info: keep/rocky_i.jpg  used on input line 1825.
+Package luatex.def Info: keep/rocky_i.jpg  used on input line 1835.
 (luatex.def)             Requested size: 408.00156pt x 196.78572pt.
  [15<./keep/trixie_cu.jpg><./keep/rocky_cu.jpg>]
 <keep/annie_cu.jpg, id=638, 1093.08376pt x 602.25pt>
 File: keep/annie_cu.jpg Graphic file (type jpg)
 <use keep/annie_cu.jpg>
-Package luatex.def Info: keep/annie_cu.jpg  used on input line 1859.
+Package luatex.def Info: keep/annie_cu.jpg  used on input line 1869.
 (luatex.def)             Requested size: 408.00156pt x 224.79558pt.
  [16<./keep/rocky_i.jpg><./keep/annie_cu.jpg>]
 <keep/hershey_cu_i.jpg, id=647, 1412.27625pt x 602.25pt>
 File: keep/hershey_cu_i.jpg Graphic file (type jpg)
 <use keep/hershey_cu_i.jpg>
-Package luatex.def Info: keep/hershey_cu_i.jpg  used on input line 1887.
+Package luatex.def Info: keep/hershey_cu_i.jpg  used on input line 1897.
 (luatex.def)             Requested size: 408.00156pt x 173.98637pt.
 
-Underfull \hbox (badness 1253) in paragraph at lines 1896--1897
+Underfull \hbox (badness 1253) in paragraph at lines 1906--1907
 []|\TU/lmr/m/n/9 de-vel-oped skin prob-lem, vet pre-scribed clava-mox and mi-co
 na-zole
  []
@@ -1568,24 +1558,24 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 118--123
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on in
 put line 131.
 (./copper.bundle_checksums [36])) [37]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2306.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 2306.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2316.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 2316.
  (./copper.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2306.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2306.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2316.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2316.
 Package rerunfilecheck Info: File `copper.out' has not changed.
 (rerunfilecheck)             Checksum: 8FFF88FC6D06F6A720C8A02240D416A0;6083.
 )
 
 Here is how much of LuaTeX's memory you used:
- 33054 strings out of 481365
- 596193,1144653 words of node,token memory allocated
+ 33053 strings out of 481365
+ 596181,1144653 words of node,token memory allocated
  1507 words of node memory still in use:
    5 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 95 attribute, 81 glue_spec
 , 95 attribute_list, 89 pdf_action nodes
-   avail lists: 2:7539,3:1037,4:248,5:16499,6:113,7:20099,8:166,9:33128,10:35,11
-:1764
- 48416 multiletter control sequences out of 65536+600000
+   avail lists: 1:2,2:7547,3:1036,4:246,5:16517,6:113,7:20098,8:167,9:33164,10:3
+5,11:1766
+ 48415 multiletter control sequences out of 65536+600000
  104 fonts using 9057347 bytes
  79i,12n,75p,747b,1487s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/share/texmf/fonts/opentype/public/lm/lmroman10-italic.otf></usr/share/texm
@@ -1603,7 +1593,7 @@ onts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type
 amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
 9.pfb>
-Output written on copper.pdf (37 pages, 3624544 bytes).
+Output written on copper.pdf (37 pages, 3624618 bytes).
 
 PDF statistics: 1343 PDF objects out of 1440 (max. 8388607)
  1237 compressed objects within 13 object streams
