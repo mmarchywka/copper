@@ -2732,3 +2732,38 @@ toobib-date={2024-05-22:09:46:31 Wed 22 May 2024 09:46:31 AM EDT}
 }
 
 
+% mjmhandler: toobib guesspmc
+% date 2024-05-25:20:19:34 Sat 25 May 2024 08:19:34 PM EDT
+% srcurl: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10733163/
+% citeurl: eutilsnew -out "/tmp/fileH3rzw3.outguesses" -v -db pmc -report medline PMC10733163
+
+%LA = {eng},
+%PT = {Case Report},
+%SO = {Cureus. ;15(11):. doi:10.7759/cureus.49139.},
+%TA = {Cureus}
+@article{PMC10733163,
+X_TooBib = {urldate: FixBeKvp s= cmd=date "+%Y-%m-%d" d=2024-05-25 dn=urldate},
+X_TooBib = {publisher: ReWriteParse be.get(s)= be.get(dest)=},
+X_TooBib = {author: Fujikawa , Hirohisa and Haruta , Junji},
+abstract = {Copper deficiency may often be overlooked due to physicians poor awareness of the disease. Delayed diagnosis and therapy may lead to poor prognosis of neurological function. Here, we present a 68-year-old male with an approximately one-year history of unsteady feet who had visited several clinical departments and was finally diagnosed with copper deficiency. In the present case, it took approximately one year to diagnose the condition, and the therapy of copper supplementation led to only slight improvement in subjective symptoms. Physicians should be more aware of this condition for a good prognosis of the disease.},
+address = {Center for General Medicine Education, School of Medicine, Keio University, Tokyo, JPNCenter for General Medicine Education, School of Medicine, Keio University, Tokyo, JPN},
+author = {Fujikawa , Hirohisa and Haruta , Junji},
+author_orig = {Fujikawa, Hirohisa and Haruta, Junji},
+doi = {10.7759/cureus.49139},
+issue = {2168-8184 (Electronic)11},
+journal = {Cureus},
+phst = {2023/11/20 [accepted]},
+pubtype = {Journal Article Case Report},
+title = {Copper Deficiency: An Overlooked Diagnosis.},
+url = {https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10733163/},
+urldate = {2024-05-25},
+voiume = {15},
+final_assembly ={ TooBib handler guesspmc},
+srcurl={https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10733163/},
+xsrcurl={https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10733163/},
+citeurl={eutilsnew},
+toobib-date={2024-05-25:20:19:34 Sat 25 May 2024 08:19:34 PM EDT}
+
+}
+
+
