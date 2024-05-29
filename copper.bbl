@@ -99,6 +99,20 @@ MV~Bais, MA~Nugent, DN~Stephens, SS~Sume, KH~Kirsch, GE~Sonenshein, and
 \newblock Available from:
   \url{http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3280126/}.
 
+\bibitem{10.3389/fcvm.2023.1089963}
+Akhilesh~Kumar Bajpai, Qingqing Gu, Buyan-Ochir Orgil, Fuyi Xu, Carolina
+  Torres-Rojas, Wenyuan Zhao, Chen Chen, Athena Starlard-Davenport, Byron
+  Jones, Djamel Lebeche, Jeffrey~A. Towbin, Enkhsaikhan Purevjav, Lu~Lu, and
+  Wenjing Zhang.
+\newblock Cardiac copper content and its relationship with heart physiology:
+  Insights based on quantitative genetic and functional analyses using bxd
+  family mice.
+\newblock {\em Frontiers in Cardiovascular Medicine}, 10, 2023.
+\newblock Available from:
+  \url{https://www.frontiersin.org/articles/10.3389/fcvm.2023.1089963}, \href
+  {http://dx.doi.org/10.3389/fcvm.2023.1089963}
+  {\path{doi:10.3389/fcvm.2023.1089963}}.
+
 \bibitem{PMID38402026}
 Carme Ballester-Servera, Judith Alonso, Manel Tauron, Noemi Rotllan, Cristina
   Rodriguez, and Jose Martinez-Gonzalez.
@@ -613,12 +627,40 @@ Seyyed~Morteza Hoseini, Seyed~Abbas Hosseini, and Mohammad Soudagar.
 \newblock \href {http://dx.doi.org/10.1007/s10695-012-9629-x}
   {\path{doi:10.1007/s10695-012-9629-x}}.
 
+\bibitem{PMC2671677}
+William~Jr Hughes, Walter~E Rodriguez, Dorothea Rosenberger, Jing Chen, Utpal
+  Sen, Neetu Tyagi, Karni~S Moshal, Thomas Vacek, Y~James Kang, and Suresh~C
+  Tyagi.
+\newblock Role of copper and homocysteine in pressure overload heart failure.
+\newblock {\em Cardiovascular toxicology}, pages 137--44, Fall 2008.
+\newblock Available from: \url{https://pubmed.ncbi.nlm.nih.gov/18679830/},
+  \href {http://dx.doi.org/10.1007/s12012-008-9021-3}
+  {\path{doi:10.1007/s12012-008-9021-3}}.
+
+\bibitem{Jalili_Medeiros_Wildman_Aspects_Cardiomyopathy_1996}
+Thunder Jalili, Denis~M. Medeiros, and Robert~E.C. Wildman.
+\newblock Aspects of cardiomyopathy are exacerbated by elevated dietary fat in
+  copper-restricted rats.
+\newblock {\em The Journal of Nutrition}, 126, 1996.
+\newblock Available from: \url{http://dx.doi.org/10.1093/jn/126.4.807}, \href
+  {http://dx.doi.org/10.1093/jn/126.4.807} {\path{doi:10.1093/jn/126.4.807}}.
+
 \bibitem{Jensen_Maurice_Influence_Sulfur_Amino_1979}
 Leo~S. Jensen and Denzil~V. Maurice.
 \newblock Influence of sulfur amino acids on copper toxicity in chicks.
 \newblock {\em The Journal of Nutrition}, 109, 1979.
 \newblock Available from: \url{http://dx.doi.org/10.1093/jn/109.1.91}, \href
   {http://dx.doi.org/10.1093/jn/109.1.91} {\path{doi:10.1093/jn/109.1.91}}.
+
+\bibitem{Jeung_Sohn_An_retrospective_study_2019}
+So-Young Jeung, Sang-June Sohn, Ju-Hyun An, Hyung-Kyu Chae, Qiang Li, Mincheol
+  Choi, Junghee Yoon, Woo-Jin Song, and Hwa-Young Youn.
+\newblock A retrospective study of theophylline-based therapy with tracheal
+  collapse in small-breed dogs: 47 cases (2013-2017).
+\newblock {\em Journal of Veterinary Science}, 20, 2019.
+\newblock Available from: \url{http://dx.doi.org/10.4142/jvs.2019.20.e57},
+  \href {http://dx.doi.org/10.4142/jvs.2019.20.e57}
+  {\path{doi:10.4142/jvs.2019.20.e57}}.
 
 \bibitem{Jiang_Sui_Hong_Combined_Administration_2023}
 Rui Jiang, Yang Sui, Jingru Hong, Manabu Niimi, Qiaojing Yan, Zhuheng Shi, and
@@ -718,6 +760,16 @@ Jennifer~K. Lee, Jung-Heun Ha, and James~F. Collins.
   \href {http://dx.doi.org/10.3390/biomedicines9040338}
   {\path{doi:10.3390/biomedicines9040338}}.
 
+\bibitem{PMC5746443}
+Jeosoon Lee, Sookyung Yun, Inhyung Lee, Mincheol Choi, and Junghee Yoon.
+\newblock Fluoroscopic characteristics of tracheal collapse and cervical lung
+  herniation in dogs: 222 cases (20122015).
+\newblock {\em Journal of Veterinary Science}, pages 499--505, 12 2017.
+\newblock Available from:
+  \url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5746443/}, \href
+  {http://dx.doi.org/10.4142/jvs.2017.18.4.499}
+  {\path{doi:10.4142/jvs.2017.18.4.499}}.
+
 \bibitem{PMID2256780}
 G~J Leyer and E~A Johnson.
 \newblock Repression of toxin production by tryptophan in clostridium botulinum
@@ -743,6 +795,16 @@ Wenjie Li, Ying Zhou, Chunyu Shang, Hui Sang, and Hong Zhu.
 \newblock Available from:
   \url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7085403/}, \href
   {http://dx.doi.org/10.1155/2020/3245359} {\path{doi:10.1155/2020/3245359}}.
+
+\bibitem{PMC7204390}
+Weiping Lin, Liangliang Xu, and Gang Li.
+\newblock Molecular insights into lysyl oxidases in cartilage regeneration and
+  rejuvenation.
+\newblock {\em Frontiers in Bioengineering and Biotechnology}, 04 2020.
+\newblock Available from:
+  \url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7204390/}, \href
+  {http://dx.doi.org/10.3389/fbioe.2020.00359}
+  {\path{doi:10.3389/fbioe.2020.00359}}.
 
 \bibitem{10.3389/fcell.2022.996307}
 Jiao Liu, Yang Liu, Yuan Wang, Rui Kang, and Daolin Tang.
@@ -892,6 +954,14 @@ Shashank Masaldan, Sharnel~A.S. Clatworthy, Cristina Gamell, Zoe~M. Smith,
 \newblock Available from: \url{http://dx.doi.org/10.1016/j.redox.2018.03.007},
   \href {http://dx.doi.org/10.1016/j.redox.2018.03.007}
   {\path{doi:10.1016/j.redox.2018.03.007}}.
+
+\bibitem{Medeiros_Davidson_Jenkins_Unified_Perspective_1993}
+D.~M. Medeiros, J.~Davidson, and J.~E. Jenkins.
+\newblock A unified perspective on copper deficiency and cardiomyopathy.
+\newblock {\em Experimental Biology and Medicine}, 203, 07 1993.
+\newblock Available from: \url{http://dx.doi.org/10.3181/00379727-203-43599},
+  \href {http://dx.doi.org/10.3181/00379727-203-43599}
+  {\path{doi:10.3181/00379727-203-43599}}.
 
 \bibitem{PMID12539966}
 Denis~M Medeiros and Dianne Jennings.
@@ -1133,6 +1203,18 @@ Sara Raia, Antonio Conti, Alan Zanardi, Barbara Ferrini, Giulia~Maria Scotti,
 \newblock {\em International Journal of Molecular Sciences}, 24, 2023.
 \newblock Available from: \url{http://dx.doi.org/10.3390/ijms24021150}, \href
   {http://dx.doi.org/10.3390/ijms24021150} {\path{doi:10.3390/ijms24021150}}.
+
+\bibitem{Reide001803}
+Anna Reid, Christopher Miller, John~Peter Farrant, Rahul Polturi, David Clark,
+  Simon Ray, Garth Cooper, and Matthias Schmitt.
+\newblock Copper chelation in patients with hypertrophic cardiomyopathy.
+\newblock {\em Open Heart}, 9(1), 2022.
+\newblock Available from: \url{https://openheart.bmj.com/content/9/1/e001803},
+  \href
+  {http://arxiv.org/abs/https://openheart.bmj.com/content/9/1/e001803.full.pdf}
+  {\path{arXiv:https://openheart.bmj.com/content/9/1/e001803.full.pdf}}, \href
+  {http://dx.doi.org/10.1136/openhrt-2021-001803}
+  {\path{doi:10.1136/openhrt-2021-001803}}.
 
 \bibitem{10.1371/journal.pone.0071529}
 Stewart~J. Richmond, Shalmini Gunadasa, Martin Bland, and Hugh MacPherson.
@@ -1466,13 +1548,6 @@ Min Wu, Leqin Ke, Mingyu Zhi, Yumei Qin, and Jianzhong Han.
 \newblock Available from:
   \url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8441336/}, \href
   {http://dx.doi.org/10.1002/fsn3.2490} {\path{doi:10.1002/fsn3.2490}}.
-
-\bibitem{PMC4783930}
-X~Wu, PAJ Leegwater, and H~Fieten.
-\newblock Canine models for copper homeostasis disorders.
-\newblock {\em International Journal of Molecular Sciences}, 17(2), 2016.
-\newblock Available from:
-  \url{http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4783930/}.
 
 \bibitem{Yang_Noda_Kato_Elevated_Intestinal_Absorption_}
 Ben-Shan Yang, Hideki Noda, and Norihisa Kato.
