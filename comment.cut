@@ -32,11 +32,16 @@ as its unclear how or why to do that right now.
 
 \newcommand{\myitem}[2]{\item {\bf #1 : } #2 \par}
 \begin{enumerate}
+\myitem{people over data} { Thjis comes up in essays on long lived metdical myths. Opinions, votes, don't determine natural laws }
 \myitem{supply v demand}{ An excess quantity is not inherently due to either supply or demand }
 \myitem{false dichotomy}{ good and evil  }
 \myitem{non-monotonic curves }{ \mjmquote{ show me a monotonic dose response curve and I'll show you a fool } }
+\myitem{fix or remove }{ Often there are 2 approaches to getting the same result with a partially broken system.  }
+\myitem{one extreme says nothing about theother  }{ Both invcreasing or decreasing some quantity may produce the same ( beneficial or evil ) effect.  }
 \myitem{hidden interaction }{ The observed result requires some interaction partners  }
 \myitem{X is a Y   }{ Role confusion leads to more untested assumptions.  }
+\myitem{local optimum  }{ prohibits consideration of global optimum over rugged parameter space with bad figure of merit.  }
+\myitem{rabbit trail  }{  Successive approcimations, even as advocated in this seris of works, can lead a strategy down the wrong path.  }
 \myitem{platitudes  }{ better to be safe than sorry lol   }
 \myitem{equations  }{ consider spherical horse linear approx   }
 \myitem{proxies   }{ Almost only counts in horseshoes and handgrenades   }
