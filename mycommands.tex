@@ -1,3 +1,17 @@
+
+
+\ifdefined\mjmlegacy
+\newcommand{\expandableinput}[1]{\input{#1}}
+\else
+% https://tex.stackexchange.com/questions/583927/misplaced-noalign-error-with-input-in-a-table-after-the-2020-fall-latex-releas/583939#583939
+\ExplSyntaxOn % providing \expandableinput
+\cs_new:Npn \expandableinput #1
+  { \use:c { @@input } { \file_full_name:n {#1} } }
+\ExplSyntaxOff
+\fi
+
+
+
 \ifdefined\grad
 \else
 \newcommand{\grad}{\nabla}

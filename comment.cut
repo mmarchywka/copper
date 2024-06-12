@@ -121,7 +121,8 @@ build script needs to include empty releases.tex
 \begin{tabular}{|r|r|l|}
 Version & Date & URL    \\
 \hline
-\input{releases.tex}
+\expandableinput{releases.tex}
+%\input{releases.tex}
 \hline
 \end{tabular}
 \end{table}

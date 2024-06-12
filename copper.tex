@@ -6,42 +6,18 @@
 % Adapted from the American Physical Societies REVTeK-4 Pages
 % at http://publish.aps.org
 
+\newcommand{\mjmlegacy}{}
 \setlength{\paperheight}{11in}
 % http://tex.stackexchange.com/questions/74636/mla-package-and-thumbpdf
 \makeatletter
 \@namedef{ver@thumbpdf.sty}{}
 \makeatother
-\documentclass[aps,secnumarabic,balancelastpage,amsmath,amssymb,nofootinbib]{revtex4}
 
-\input{myskeletonpackages.tex}
+\input{myrevtexheaders.tex}
 
-\newcolumntype{.}[1]{D{.}{.}{#1}}
-%\usepackage[maxfloats=30]{morefloats}   %mjm   saving up figs for the end   
-% no param on old version stuck at 36
-\usepackage{morefloats}        %mjm   saving up figs for the end   
-\usepackage{graphicx}        %mjm   saving up figs for the end   
+\begin{comment}
 
-% will need modificaitons 
-\input{recent_template.tex}
-
-
-
-% https://tex.stackexchange.com/questions/121601/automatically-wrap-the-text-in-verbatim
-\usepackage{listings}
-\lstset{
-basicstyle=\small\ttfamily,
-columns=flexible,
-breaklines=true
-}
-
-% none of this fking fking works for a f F 
-\newcommand{\mjmverbatim}{lstlisting}
-\newcommand{\mjmbeginverbatim}{\begin{lstlisting}}
-\newcommand{\mjmendverbatim}{\end{lstlisting}}
-
-\newcommand{\mjmmangle}[1]{keep/#1}
-
-
+\end{comment}
 
 %# CHANGE VERSION AND STATUS MANUALLY 
 % need a draft/notes/release flag
@@ -1113,6 +1089,10 @@ this workd leads to a starting point for
 a diet-related disease mitigation strategy and helps
 turn paradoxes into paradigms be elucidating some
 feedback mechanisms that may be quite common. 
+One common issue is jumping to hypothesis testing
+rather than looking at data as a larger opportunity to
+generate new or refined hypotheses beyond rationalization.  
+
  
 \mjmtolx{
 Two contemporary diet related dog health issues,
@@ -1173,6 +1153,21 @@ issues.
 
 \maketitle
 \tableofcontents
+
+
+\vspace{.5in}
+Citing information should also be available in machine readable
+form in the pdf extended information, 
+
+\vspace{.3in}
+
+\begin{minipage}{\linewidth}
+%\input{bibtex2.txt}
+%\input{bibtex3.txt}
+\mjmshowbib
+\end{minipage}
+
+
 \newpage
 \newcommand{\mjmguide}[1]{ \subsection{#1}}
 
@@ -1700,7 +1695,81 @@ For example, the issue of "other" limiting nutrients determining
 when copper is beneficial or not. 
 
 
-\mjmguide{ Copper rich diets  for dogs and people are  worth investigation   }
+\mjmguide{ Copper rich diets  for dogs and people are  worth consideration  }
+
+The known biolgoical roles for copper suggest it may
+be an important limitation in functions that relate to common
+diseases yet 
+understadning of the body's copper distribution is limited.
+This work addresses the topic by folloing a group of dogs
+with varied conditions and 
+outcomes as supplementation changed. 
+It is probably unique in reporting variations in many
+dietary components although lacking some common
+metrics like daily calorie consumption. 
+
+While the diets were guided by many hypotheses, the results are
+hypothesis generating or refining rather than attempts at 
+proving  any specific tractable ideas.
+Given the complexity of diets in general and the recurring 
+problems with ostensibly better approaches, this may present
+unique data and results with atypical limitations and artifacts.
+The reported results should be thought provoking on their own 
+but hopefully 
+the overall complexity of this simple " feeding dogs at home" effort
+is  amernable to analysis
+with emerging AI or related methods.
+
+\mjmtolx{
+
+Copper homeostasis is a much larger issue including in human
+health with regard to such unresolved diseases as 
+Alzheimer's where the decades of work on amyloid beta
+is becoming more clearly futile. 
+
+In humans lysyl oxidase is sometimes discussed as
+a drug target as its quantity seems to increase in pathological
+situations. 
+This may suggest that additional copper would not likely
+help. 
+
+To help with this apparent conundrum, this work describes
+variable copper supplementation to a group of dogs
+over several years including one pregnant pit bull with
+uterine fibroids. Generally beneficial results 
+were associated with copper supplementation in the context
+of broader rationally designed supplements.
+Apparent benefits to a group of puppies included infection 
+control. Additional respiratory infections were
+thought to be modulated in older dogs described
+here as Cookie( AKA Mixie ) and Trixie. It may have
+reduced transmission to the larger group in the latter case.
+Also an association with likely non-infectious coughing
+was seen in the case of Happy. 
+
+Given the varied canine genetics and known copper related
+diseases, vigiliance for adverse reactions was maintained
+but to date only questionable events, such as reduced
+appetite, remain. 
+
+Copper and vitamin K have both seen literature suggesting
+a role for liver health under some conditions. Vitamin K is
+note worthy because of many efforts to antagonitze
+its effects similar to the present  concerns with copper. 
+
+ 
+These cases are described in more detail with the hope of
+sorting out cause and effect between diet and clinical
+outcomes as fixation on one nutrient at  a time may not
+be productive. 
+
+
+The original motivation for copper was based on notions
+similar to the table below which reflects current
+thinking based on results presented here. 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 This work illustrates that empirically clinical deficiency
 may be more common in some groups of dogs than meaningful excess
 in that supplementation, in the context of the rest of the 
@@ -1713,7 +1782,7 @@ systems.
 However copper intake issues are resolved, the complexity of
 copper handling may make it a good topic to understand larger
 issues in system identification. 
-
+}
 \mjmtolx{
 However, the empirical data and known theory or
 biological pathways don't estalish a causal role
@@ -1733,21 +1802,20 @@ This work describes in more detail the theoretical and empirical
 motivation to consider copper supplementation carefully
 as part of a lrger supplementation progam. 
 
-
 }
-
-
-
+\mjmtolx{
 The remainder of this work describes the
 most interesting dogs' histories  % stories are presnted and discussed
  with variable  copper supplementation  and the  
 differences between some expectations and outcomes.  
-
+}
 
 \section{  Diseases of Interest }
 
 The known roles of copper include pathways and functions that
-would seem important for many diseases that are common in dogs.
+would seem important for diseases that are common in dogs.
+Actual specific disease diagnoses are lacking in the present
+work which relies on ambiguous symptoms.
 The present works relies mostly on 'cough" and thyroid related
 symptoms ( coat quality, weight distribution, energy level etc).
 Cough has many possible origins as discussed previously
@@ -1769,7 +1837,7 @@ the first to show symptoms of deficiency. Its also
 important to note that cough monitoring is not
 going to be monotonic with improvement as increased
 energy may occur quickly resulting in more coughing
-until trachea and heart can remodel.   
+until trachea and heart can make adaptive structuctural changes. .   
 
 \begin{table}[H] \centering
 \begin{tabular}{|l|r|l|r|r|}
@@ -1877,65 +1945,9 @@ volumetric efficiency.
 
 \mjmmacro
 
-\subsection{ Associated Moieties - histidine and garlic etc   }
+\subsection{ Associated Entities - histidine and garlic etc   }
 
 \mjmlig
-
-
-%%%%%%%%%%%%%%
-
-
-%%%%%%%%%%%%%% cutoff
-
-Copper homeostasis is a much larger issue including in human
-health with regard to such unresolved diseases as 
-Alzheimer's where the decades of work on amyloid beta
-is becoming more clearly futile. 
-
-
-In humans lysyl oxidase is sometimes discussed as
-a drug target as its quantity seems to increase in pathological
-situations. 
-This may suggest that additional copper would not likely
-help. 
-
-
-
-
-To help with this apparent conundrum, this work describes
-variable copper supplementation to a group of dogs
-over several years including one pregnant pit bull with
-uterine fibroids. Generally beneficial results 
-were associated with copper supplementation in the context
-of broader rationally designed supplements.
-Apparent benefits to a group of puppies included infection 
-control. Additional respiratory infections were
-thought to be modulated in older dogs described
-here as Cookie( AKA Mixie ) and Trixie. It may have
-reduced transmission to the larger group in the latter case.
-Also an association with likely non-infectious coughing
-was seen in the case of Happy. 
-
-Given the varied canine genetics and known copper related
-diseases, vigiliance for adverse reactions was maintained
-but to date only questionable events, such as reduced
-appetite, remain. 
-
-Copper and vitamin K have both seen literature suggesting
-a role for liver health under some conditions. Vitamin K is
-note worthy because of many efforts to antagonitze
-its effects similar to the present  concerns with copper. 
-
- 
-These cases are described in more detail with the hope of
-sorting out cause and effect between diet and clinical
-outcomes as fixation on one nutrient at  a time may not
-be productive. 
-
-
-The original motivation for copper was based on notions
-similar to the table below which reflects current
-thinking based on results presented here. 
 
 
 
@@ -2657,7 +2669,8 @@ build script needs to include empty releases.tex
 \begin{tabular}{|r|r|l|}
 Version & Date & URL    \\
 \hline
-\input{releases.tex}
+\expandableinput{releases.tex}
+%\input{releases.tex}
 \hline
 \end{tabular}
 \end{table}
