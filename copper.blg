@@ -12,8 +12,8 @@ Warning--I'm ignoring Yu_Liou_Biggins_Copper_Deficiency_Liver_2019's extra "url"
 --line 2846 of file copper.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Warning--entry type for "PMC11042178" isn't style-file defined
---line 8967 of file copper.bib
-"}" immediately follows an entry type---line 9772 of file copper.bib
+--line 8999 of file copper.bib
+"}" immediately follows an entry type---line 9804 of file copper.bib
  : %CI = {(c) The Author(s) 2022. Published by Oxford University Press. All rights reserved.  For Permissions, please email: journals.permissions@oup.com.
  :                                                                                                                                                        },
 I'm skipping whatever remains of this entry
@@ -132,43 +132,43 @@ Warning--empty year in Wang_Hydrogen_sulfide_microbiota_
 Warning--empty year in Yang_Noda_Kato_Elevated_Intestinal_Absorption_
 You've used 189 entries,
             2760 wiz_defined-function locations,
-            2123 strings with 93155 characters,
-and the built_in function-call counts, 105316 in all, are:
-= -- 11183
-> -- 6175
+            2121 strings with 93031 characters,
+and the built_in function-call counts, 105327 in all, are:
+= -- 11189
+> -- 6160
 < -- 42
-+ -- 2468
-- -- 2249
-* -- 8131
-:= -- 16506
++ -- 2461
+- -- 2243
+* -- 8139
+:= -- 16498
 add.period$ -- 765
 call.type$ -- 189
-change.case$ -- 1689
+change.case$ -- 1686
 chr.to.int$ -- 0
 cite$ -- 193
-duplicate$ -- 2648
-empty$ -- 7363
-format.name$ -- 2249
-if$ -- 24628
+duplicate$ -- 2649
+empty$ -- 7375
+format.name$ -- 2243
+if$ -- 24638
 int.to.chr$ -- 0
 int.to.str$ -- 189
 missing$ -- 180
 newline$ -- 1145
 num.names$ -- 380
-pop$ -- 2022
+pop$ -- 2018
 preamble$ -- 1
-purify$ -- 1501
+purify$ -- 1498
 quote$ -- 0
-skip$ -- 5943
+skip$ -- 5945
 stack$ -- 0
-substring$ -- 2541
-swap$ -- 832
+substring$ -- 2561
+swap$ -- 834
 text.length$ -- 42
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 754
 warning$ -- 4
-while$ -- 487
+while$ -- 488
 width$ -- 192
-write$ -- 2625
+write$ -- 2626
 (There were 27 error messages)

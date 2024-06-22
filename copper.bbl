@@ -1294,6 +1294,15 @@ Katharina~F. Pirker, Maria~Camilla Baratto, Riccardo Basosi, and Bernard~A.
   {http://dx.doi.org/10.1016/j.jinorgbio.2011.12.010}
   {\path{doi:10.1016/j.jinorgbio.2011.12.010}}.
 
+\bibitem{10.1039/c6mt00058d}
+Elena~V Polishchuk and Roman~S Polishchuk.
+\newblock {The emerging role of lysosomes in copper homeostasis}.
+\newblock {\em Metallomics}, 8(9):853--862, 06 2016.
+\newblock Available from: \url{https://doi.org/10.1039/c6mt00058d}, \href
+  {http://arxiv.org/abs/https://academic.oup.com/metallomics/article-pdf/8/9/853/34735754/c6mt00058d.pdf}
+  {\path{arXiv:https://academic.oup.com/metallomics/article-pdf/8/9/853/34735754/c6mt00058d.pdf}},
+  \href {http://dx.doi.org/10.1039/c6mt00058d} {\path{doi:10.1039/c6mt00058d}}.
+
 \bibitem{PMC5133110}
 K~Porter, L~Hoey, CF~Hughes, M~Ward, and H~McNulty.
 \newblock Causes, consequences and public health implications of low b-vitamin
@@ -1696,14 +1705,6 @@ Carrie~M. Wilmot and Victor~L. Davidson.
   \url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2749888/}, \href
   {http://dx.doi.org/10.1016/j.cbpa.2009.06.026}
   {\path{doi:10.1016/j.cbpa.2009.06.026}}.
-
-\bibitem{Wu_Han_Gong_effect_copper_2016}
-Min Wu, Feifei Han, Weisha Gong, Lifang Feng, and Jianzhong Han.
-\newblock The effect of copper from water and food: changes of serum
-  nonceruloplasmin copper and brain's amyloid-beta in mice.
-\newblock {\em Food \&amp; Function}, 7, 2016.
-\newblock Available from: \url{http://dx.doi.org/10.1039/c6fo00809g}, \href
-  {http://dx.doi.org/10.1039/c6fo00809g} {\path{doi:10.1039/c6fo00809g}}.
 
 \bibitem{PMC8441336}
 Min Wu, Leqin Ke, Mingyu Zhi, Yumei Qin, and Jianzhong Han.
