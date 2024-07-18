@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2024.3.16)  8 JUL 2024 16:07
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2024.3.16)  17 JUL 2024 20:42
  restricted system commands enabled.
  file:line:error style messages enabled.
 **copper.tex
@@ -62,8 +62,7 @@ ers
 Lua module: luaotfload-tounicode 2020-02-02 3.12 luaotfload submodule / tounicod
 e
 Inserting `luaotfload.rewrite_fontname' at position 6 in `luaotfload.patch_font'
-. L3 programming layer <2020-02-14>
-(/home/documents/latex/share/includes/myrevtexheaders.tex
+. L3 programming layer <2020-02-14> (./junk/myrevtexheaders.tex
 (/usr/share/texlive/texmf-dist/tex/latex/revtex4/revtex4.cls
 Document Class: revtex4 2001/08/02 v4.0 (http://publish.aps.org/revtex4/ for doc
 umentation)
@@ -202,7 +201,7 @@ File: aps.rtx 2001/08/02 v4.0 (http://publish.aps.org/revtex4/ for documentation
 File: 10pt.rtx 2001/08/02 v4.0 (http://publish.aps.org/revtex4/ for documentatio
 n)
 )
-(/home/documents/latex/share/includes/myskeletonpackages.tex
+(./junk/myskeletonpackages.tex
 (/usr/share/texlive/texmf-dist/tex/latex/fp/fp.sty
 Package: fp 1995/04/02
 
@@ -362,8 +361,7 @@ Package: framed 2011/10/22 v 0.96: framed or shaded text with page breaks
 \fb@frh=\dimen160
 \FrameRule=\dimen161
 \FrameSep=\dimen162
-)
-(/home/documents/latex/pkg/lgrind.sty
+) (./junk/lgrind.sty
 Package: lgrind 1997/01/30 v3.4 LGrind environment and supporting stuff
 \lc@unt=\count291
 \ln@xt=\count292
@@ -375,8 +373,7 @@ Package: lgrind 1997/01/30 v3.4 LGrind environment and supporting stuff
 \tb@x=\box67
 \TBw@d=\dimen163
 \@ts=\dimen164
-)
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
+) (/usr/share/texlive/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2019/11/23 v1.2a Standard LaTeX Color (DPC)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
@@ -564,7 +561,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip71
 )
-(/home/documents/latex/pkg/fltpage.sty
+(./junk/fltpage.sty
 Package: fltpage 1998/10/29 v.0.3 Floats on full page (SMU)
 
 (/usr/share/texlive/texmf-dist/tex/latex/tools/afterpage.sty
@@ -1046,7 +1043,7 @@ Package morefloats Info: Maximum number of possible floats asked for: 36
 (morefloats)             LaTeX might run out of memory before this
 (morefloats)             (in which case it will notify you).
 )
-(/home/documents/latex/share/includes/recent_template.tex
+(./junk/recent_template.tex
 (/usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
 \lst@mode=\count351
 \lst@gtempboxa=\box94
@@ -1072,11 +1069,8 @@ File: listings.cfg 2019/09/10 1.8c listings configuration
 ))
 Package: listings 2019/09/10 1.8c (Carsten Heinz)
 ))
-Excluding 'comment' comment.
-(/home/documents/latex/share/includes/mycommands.tex
-(/home/documents/latex/share/includes/mjmaddbib.tex)
-(/home/documents/latex/share/includes/mjmlistings.tex)) (./copper.last_page)
-Excluding 'comment' comment.
+Excluding 'comment' comment. (./junk/mycommands.tex (./junk/mjmaddbib.tex)
+(./junk/mjmlistings.tex)) (./copper.last_page) Excluding 'comment' comment.
 \desttabw=\skip108
 \chainwidth=\skip109
 \slantwidth=\skip110
@@ -1086,43 +1080,43 @@ Excluding 'comment' comment.
 \subwfigwidthrot=\skip114
 \myboxwidth=\skip115
 \picwidth=\skip116
- Include comment 'mdpicomment'
-Excluding comment 'draftcomment' Excluding comment 'badmathcomment'
-Excluding comment 'showworkcomment' (./copper.aux)
+
+Include comment 'mdpicomment' Excluding comment 'draftcomment'
+Excluding comment 'badmathcomment' Excluding comment 'showworkcomment'
+(./copper.aux)
 \openout1 = copper.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2145.
-LaTeX Font Info:    ... okay on input line 2145.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 2145.
-LaTeX Font Info:    ... okay on input line 2145.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 2145.
-LaTeX Font Info:    ... okay on input line 2145.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 2145.
-LaTeX Font Info:    ... okay on input line 2145.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 2145.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 2171.
+LaTeX Font Info:    ... okay on input line 2171.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 2171.
+LaTeX Font Info:    ... okay on input line 2171.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 2171.
+LaTeX Font Info:    ... okay on input line 2171.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 2171.
+LaTeX Font Info:    ... okay on input line 2171.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 2171.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 21
-45.
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
+71.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 2145.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 2145.
-LaTeX Font Info:    ... okay on input line 2145.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 2145.
-LaTeX Font Info:    ... okay on input line 2145.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 2145.
-LaTeX Font Info:    ... okay on input line 2145.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 2145.
-LaTeX Font Info:    ... okay on input line 2145.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 2145.
-LaTeX Font Info:    ... okay on input line 2145.
+LaTeX Font Info:    ... okay on input line 2171.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 2171.
+LaTeX Font Info:    ... okay on input line 2171.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 2171.
+LaTeX Font Info:    ... okay on input line 2171.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 2171.
+LaTeX Font Info:    ... okay on input line 2171.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 2171.
+LaTeX Font Info:    ... okay on input line 2171.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 2171.
+LaTeX Font Info:    ... okay on input line 2171.
 Class revtex4 Info: Unrecognized array package. Please update this document clas
-s! (Proceeding with fingers crossed.) on input line 2145.
+s! (Proceeding with fingers crossed.) on input line 2171.
 Class revtex4 Info: Patching unrecognized longtable package. (Proceeding with fi
-ngers crossed) on input line 2145.
-Class revtex4 Info: cite was not loaded (OK!) on input line 2145.
-Class revtex4 Info: multicol was not loaded (OK!) on input line 2145.
+ngers crossed) on input line 2171.
+Class revtex4 Info: cite was not loaded (OK!) on input line 2171.
+Class revtex4 Info: multicol was not loaded (OK!) on input line 2171.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
 -English.dict
@@ -1154,7 +1148,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 
 ))
 \AtBeginShipoutBox=\box97
-Package hyperref Info: Link coloring ON on input line 2145.
+Package hyperref Info: Link coloring ON on input line 2171.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -1167,16 +1161,16 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count365
 )
-LaTeX Info: Redefining \ref on input line 2145.
-LaTeX Info: Redefining \pageref on input line 2145.
-LaTeX Info: Redefining \nameref on input line 2145.
+LaTeX Info: Redefining \ref on input line 2171.
+LaTeX Info: Redefining \pageref on input line 2171.
+LaTeX Info: Redefining \nameref on input line 2171.
 
 (./copper.out) (./copper.out)
 \@outlinefile=\write5
 
 \openout5 = copper.out
 
-Package chemgreek Info: Activating mapping `default' on line 2145.
+Package chemgreek Info: Activating mapping `default' on line 2171.
 
  ABD: EveryShipout initializing macros
 Package caption Info: Begin \AtBeginDocument code.
@@ -1189,24 +1183,24 @@ Package: fr-longtable 2007/11/28 v0.1b (beta) floatrow: additions for longtable
 \c@FBLTpage=\count366
 )
 \c@lstlisting=\count367
-LaTeX Font Info:    Trying to load font information for U+msa on input line 2145
+LaTeX Font Info:    Trying to load font information for U+msa on input line 2171
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 2145
+LaTeX Font Info:    Trying to load font information for U+msb on input line 2171
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 2195--2196
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 2221--2222
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2195--2196
+Underfull \hbox (badness 10000) in paragraph at lines 2221--2222
 
  []
 
@@ -1222,7 +1216,7 @@ Overfull \hbox (5.0pt too wide) detected at line 19
 
 
 Overfull \hbox (5.0pt too wide) detected at line 20
- \TU/lmr/m/n/10 11
+ \TU/lmr/m/n/10 12
  []
 
 
@@ -1262,7 +1256,7 @@ Overfull \hbox (5.0pt too wide) detected at line 27
 
 
 Overfull \hbox (5.0pt too wide) detected at line 28
- \TU/lmr/m/n/10 15
+ \TU/lmr/m/n/10 16
  []
 
 
@@ -1320,12 +1314,12 @@ Overfull \hbox (5.0pt too wide) detected at line 39
  \TU/lmr/m/n/10 24
  []
 
-
+[2]
 Overfull \hbox (5.0pt too wide) detected at line 40
  \TU/lmr/m/n/10 24
  []
 
-[2]
+
 Overfull \hbox (5.0pt too wide) detected at line 41
  \TU/lmr/m/n/10 24
  []
@@ -1390,139 +1384,141 @@ Overfull \hbox (5.0pt too wide) detected at line 53
 
 \openout6 = copper.toc
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 2320--2325
+Overfull \hbox (10.0pt too wide) in paragraph at lines 2349--2354
 []$[]$ 
  []
 
-[3] [4] [5]
-Overfull \hbox (13.45999pt too wide) in paragraph at lines 2364--2364
+[3] [4] [5] [6]
+Overfull \hbox (13.45999pt too wide) in paragraph at lines 2398--2398
 []
  []
 
-[6]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 2375--2375
+[7]
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 2409--2409
 [][]
  []
 
-[7] [8] [9]
-Underfull \hbox (badness 1924) in paragraph at lines 2481--2481
+[8] [9]
+Underfull \hbox (badness 1924) in paragraph at lines 2515--2515
 []\TU/lmr/m/n/10 Med-i-cal man-age-ment can in-clude an-ti-tus-sive ther-apy, a
 n-tibi-otics, bron-chodila-tors, and/or anti-
  []
 
 [10]
-Underfull \hbox (badness 10000) in paragraph at lines 2489--2489
+Underfull \hbox (badness 10000) in paragraph at lines 2523--2523
 []\TU/lmr/m/n/10 Cop-per may an-tag-o-nize many pathogens in-clud-ing H py-lori
  [[]] and clostridum
  []
 
 
-Overfull \hbox (13.45999pt too wide) in paragraph at lines 2489--2489
+Overfull \hbox (13.45999pt too wide) in paragraph at lines 2523--2523
 []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2489--2489
+Underfull \hbox (badness 10000) in paragraph at lines 2523--2523
 
  []
 
-[11]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 2497--2497
+[11] [12]
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 2531--2531
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2497--2497
+Underfull \hbox (badness 10000) in paragraph at lines 2531--2531
 
  []
 
-[12] [13]
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 2518--2518
+[13]
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 2552--2552
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2518--2518
+Underfull \hbox (badness 10000) in paragraph at lines 2552--2552
 
  []
 
 [14] [15]
-<keep/happycu.jpeg, id=764, 1606.0pt x 1204.5pt>
+<keep/happycu.jpeg, id=765, 1606.0pt x 1204.5pt>
 File: keep/happycu.jpeg Graphic file (type jpg)
 <use keep/happycu.jpeg>
-Package luatex.def Info: keep/happycu.jpeg  used on input line 2545.
+Package luatex.def Info: keep/happycu.jpeg  used on input line 2579.
 (luatex.def)             Requested size: 144.53377pt x 144.53375pt.
-<keep/rockycu.jpeg, id=765, 1606.0pt x 1204.5pt>
+<keep/rockycu.jpeg, id=766, 1606.0pt x 1204.5pt>
 File: keep/rockycu.jpeg Graphic file (type jpg)
 <use keep/rockycu.jpeg>
-Package luatex.def Info: keep/rockycu.jpeg  used on input line 2545.
+Package luatex.def Info: keep/rockycu.jpeg  used on input line 2579.
 (luatex.def)             Requested size: 144.53377pt x 144.53375pt.
-<keep/annie.jpeg, id=766, 1606.0pt x 1204.5pt>
+<keep/annie.jpeg, id=767, 1606.0pt x 1204.5pt>
 File: keep/annie.jpeg Graphic file (type jpg)
 <use keep/annie.jpeg>
-Package luatex.def Info: keep/annie.jpeg  used on input line 2545.
+Package luatex.def Info: keep/annie.jpeg  used on input line 2579.
 (luatex.def)             Requested size: 144.53377pt x 144.53375pt.
-<keep/mixiepic.jpeg, id=767, 1606.0pt x 1204.5pt>
+<keep/mixiepic.jpeg, id=768, 1606.0pt x 1204.5pt>
 File: keep/mixiepic.jpeg Graphic file (type jpg)
 <use keep/mixiepic.jpeg>
-Package luatex.def Info: keep/mixiepic.jpeg  used on input line 2545.
+Package luatex.def Info: keep/mixiepic.jpeg  used on input line 2579.
 (luatex.def)             Requested size: 144.53377pt x 144.53375pt.
-<keep/trixiepic.jpeg, id=768, 1606.0pt x 1204.5pt>
+<keep/trixiepic.jpeg, id=769, 1606.0pt x 1204.5pt>
 File: keep/trixiepic.jpeg Graphic file (type jpg)
 <use keep/trixiepic.jpeg>
-Package luatex.def Info: keep/trixiepic.jpeg  used on input line 2545.
+Package luatex.def Info: keep/trixiepic.jpeg  used on input line 2579.
 (luatex.def)             Requested size: 144.53377pt x 144.53375pt.
-<keep/browniepic.jpeg, id=769, 1606.0pt x 1204.5pt>
+<keep/browniepic.jpeg, id=770, 1606.0pt x 1204.5pt>
 File: keep/browniepic.jpeg Graphic file (type jpg)
 <use keep/browniepic.jpeg>
-Package luatex.def Info: keep/browniepic.jpeg  used on input line 2545.
+Package luatex.def Info: keep/browniepic.jpeg  used on input line 2579.
 (luatex.def)             Requested size: 144.53377pt x 144.53375pt.
  [16<./keep/happycu.jpeg><./keep/rockycu.jpeg><./keep/annie.jpeg><./keep/mixiepi
 c.jpeg><./keep/trixiepic.jpeg><./keep/browniepic.jpeg>]
-<keep/mixie_cu.jpg, id=781, 1382.16376pt x 602.25pt>
+<keep/mixie_cu.jpg, id=783, 1382.16376pt x 602.25pt>
 File: keep/mixie_cu.jpg Graphic file (type jpg)
 <use keep/mixie_cu.jpg>
-Package luatex.def Info: keep/mixie_cu.jpg  used on input line 2595.
+Package luatex.def Info: keep/mixie_cu.jpg  used on input line 2629.
 (luatex.def)             Requested size: 408.00156pt x 177.77248pt.
-<keep/brownie_cu.jpg, id=782, 1248.665pt x 602.25pt>
+<keep/brownie_cu.jpg, id=784, 1248.665pt x 602.25pt>
 File: keep/brownie_cu.jpg Graphic file (type jpg)
 <use keep/brownie_cu.jpg>
-Package luatex.def Info: keep/brownie_cu.jpg  used on input line 2604.
+Package luatex.def Info: keep/brownie_cu.jpg  used on input line 2638.
 (luatex.def)             Requested size: 408.00156pt x 196.78572pt.
-<keep/happy2seeyou.jpg, id=784, 1767.60374pt x 602.25pt>
+ [17<./keep/mixie_cu.jpg>]
+<keep/happy2seeyou.jpg, id=796, 1767.60374pt x 602.25pt>
 File: keep/happy2seeyou.jpg Graphic file (type jpg)
 <use keep/happy2seeyou.jpg>
-Package luatex.def Info: keep/happy2seeyou.jpg  used on input line 2631.
+Package luatex.def Info: keep/happy2seeyou.jpg  used on input line 2665.
 (luatex.def)             Requested size: 408.00156pt x 139.01082pt.
- [17<./keep/mixie_cu.jpg>] [18<./keep/brownie_cu.jpg><./keep/happy2seeyou.jpg>]
-<keep/trixie_cu.jpg, id=804, 1482.53876pt x 602.25pt>
+ [18<./keep/brownie_cu.jpg><./keep/happy2seeyou.jpg>]
+<keep/trixie_cu.jpg, id=807, 1482.53876pt x 602.25pt>
 File: keep/trixie_cu.jpg Graphic file (type jpg)
 <use keep/trixie_cu.jpg>
-Package luatex.def Info: keep/trixie_cu.jpg  used on input line 2705.
+Package luatex.def Info: keep/trixie_cu.jpg  used on input line 2739.
 (luatex.def)             Requested size: 408.00156pt x 165.73413pt.
-<keep/rocky_cu.jpg, id=805, 1364.09625pt x 602.25pt>
+<keep/rocky_cu.jpg, id=808, 1364.09625pt x 602.25pt>
 File: keep/rocky_cu.jpg Graphic file (type jpg)
 <use keep/rocky_cu.jpg>
-Package luatex.def Info: keep/rocky_cu.jpg  used on input line 2730.
+Package luatex.def Info: keep/rocky_cu.jpg  used on input line 2764.
 (luatex.def)             Requested size: 408.00156pt x 180.1342pt.
-<keep/rocky_i.jpg, id=806, 1248.665pt x 602.25pt>
+<keep/rocky_i.jpg, id=809, 1248.665pt x 602.25pt>
 File: keep/rocky_i.jpg Graphic file (type jpg)
 <use keep/rocky_i.jpg>
-Package luatex.def Info: keep/rocky_i.jpg  used on input line 2732.
+Package luatex.def Info: keep/rocky_i.jpg  used on input line 2766.
 (luatex.def)             Requested size: 408.00156pt x 196.78572pt.
  [19<./keep/trixie_cu.jpg>]
-<keep/annie_cu.jpg, id=815, 1093.08376pt x 602.25pt>
+<keep/annie_cu.jpg, id=816, 1093.08376pt x 602.25pt>
 File: keep/annie_cu.jpg Graphic file (type jpg)
 <use keep/annie_cu.jpg>
-Package luatex.def Info: keep/annie_cu.jpg  used on input line 2766.
+Package luatex.def Info: keep/annie_cu.jpg  used on input line 2800.
 (luatex.def)             Requested size: 408.00156pt x 224.79558pt.
-<keep/hershey_cu_i.jpg, id=816, 1412.27625pt x 602.25pt>
+ [20<./keep/rocky_cu.jpg><./keep/rocky_i.jpg>]
+<keep/hershey_cu_i.jpg, id=826, 1412.27625pt x 602.25pt>
 File: keep/hershey_cu_i.jpg Graphic file (type jpg)
 <use keep/hershey_cu_i.jpg>
-Package luatex.def Info: keep/hershey_cu_i.jpg  used on input line 2799.
+Package luatex.def Info: keep/hershey_cu_i.jpg  used on input line 2833.
 (luatex.def)             Requested size: 408.00156pt x 173.98637pt.
- [20<./keep/rocky_cu.jpg><./keep/rocky_i.jpg>]
-Underfull \hbox (badness 1253) in paragraph at lines 2801--2801
+
+Underfull \hbox (badness 1253) in paragraph at lines 2835--2835
 []|\TU/lmr/m/n/9 de-vel-oped skin prob-lem, vet pre-scribed clava-mox and mi-co
 na-zole
  []
@@ -1596,9 +1592,8 @@ Overfull \hbox (36.92886pt too wide) in paragraph at lines 66--111
  []
 
 [38] [39] [40]) [41] [42] Excluding 'comment' comment.
-(/home/documents/latex/share/includes/disclaimer-gaslight.tex)
-(/home/documents/latex/share/includes/disclaimer-status.tex) (./releases.tex)
-[43]
+(./junk/disclaimer-gaslight.tex) (./junk/disclaimer-status.tex) (./releases.tex
+) [43]
 Overfull \hbox (10.0pt too wide) in paragraph at lines 130--135
 []$[]$ 
  []
@@ -1606,26 +1601,26 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 130--135
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on in
 put line 143.
 (./copper.bundle_checksums [44])) [45]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3241.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 3241.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3275.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 3275.
  (./copper.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 3241.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 3241.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 3275.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 3275.
 Package rerunfilecheck Info: File `copper.out' has not changed.
 (rerunfilecheck)             Checksum: 05C07C2B961E99A347BEACBAFFFCD6DB;10164.
 )
 
 Here is how much of LuaTeX's memory you used:
- 33267 strings out of 481365
- 596188,1144653 words of node,token memory allocated
- 1817 words of node memory still in use:
-   5 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 126 attribute, 81 glue_spe
-c, 126 attribute_list, 120 pdf_action nodes
-   avail lists: 2:7587,3:1052,4:245,5:16624,6:115,7:20124,8:164,9:33378,10:35,11
+ 33271 strings out of 481365
+ 596184,1144653 words of node,token memory allocated
+ 1827 words of node memory still in use:
+   5 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 127 attribute, 81 glue_spe
+c, 127 attribute_list, 121 pdf_action nodes
+   avail lists: 2:7587,3:1050,4:247,5:16624,6:115,7:20125,8:164,9:33378,10:35,11
 :1776
- 48551 multiletter control sequences out of 65536+600000
+ 48554 multiletter control sequences out of 65536+600000
  104 fonts using 9057347 bytes
- 82i,12n,77p,747b,1695s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 82i,12n,77p,747b,1693s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/share/texmf/fonts/opentype/public/lm/lmroman10-italic.otf></usr/share/texm
 f/fonts/opentype/public/lm/lmroman6-regular.otf></usr/share/texmf/fonts/opentype
 /public/lm/lmmono9-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmmono
@@ -1641,10 +1636,10 @@ onts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type
 amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
 9.pfb>
-Output written on copper.pdf (45 pages, 3690619 bytes).
+Output written on copper.pdf (45 pages, 3693754 bytes).
 
-PDF statistics: 1693 PDF objects out of 1728 (max. 8388607)
- 1576 compressed objects within 16 object streams
- 422 named destinations out of 1000 (max. 131072)
+PDF statistics: 1699 PDF objects out of 1728 (max. 8388607)
+ 1582 compressed objects within 16 object streams
+ 423 named destinations out of 1000 (max. 131072)
  416 words of extra memory for PDF output out of 10000 (max. 100000000)
 

@@ -1139,16 +1139,6 @@ Sydney~R McCauley, Stephanie~D Clark, Bradley~W Quest, Renee~M Streeter, and
   \href {http://dx.doi.org/10.1093/jas/skaa155}
   {\path{doi:10.1093/jas/skaa155}}.
 
-\bibitem{PMC7447921}
-Sydney~R McCauley, Stephanie~D Clark, Bradley~W Quest, Renee~M Streeter, and
-  Eva~M Oxford.
-\newblock Review of canine dilated cardiomyopathy in the wake of
-  diet-associated concerns.
-\newblock {\em Journal of Animal Science}, 06 2020.
-\newblock Available from:
-  \url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7447921/}, \href
-  {http://dx.doi.org/10.1093/jas/skaa155} {\path{doi:10.1093/jas/skaa155}}.
-
 \bibitem{PMC9257265}
 Kathryn~A. McGurk, Melpomeni Kasapi, and James~S. Ware.
 \newblock Effect of taurine administration on symptoms, severity, or clinical
@@ -1531,6 +1521,18 @@ Lina~M. Ruiz, Allan Libedinsky, and Alvaro~A. Elorza.
   {http://dx.doi.org/10.3389/fmolb.2021.711227}
   {\path{doi:10.3389/fmolb.2021.711227}}.
 
+\bibitem{Schober_Fox_Abbott_Retrospective_evaluation_hypertrophic_2022}
+Karsten~E. Schober, Phillip~R. Fox, Jonathan Abbott, Etienne C\^{o}t\'{e},
+  Virginia LuisFuentes, Jose~Novo Matos, Joshua~A. Stern, Lance Visser,
+  Katherine~F. Scollan, Valerie Chetboul, Donald Schrope, Tony Glaus, Roberto
+  Santilli, Romain Pariaut, Rebecca Stepien, Vanessa ArquedSoubeyran,
+  Marco~Baron Toaldo, Amara Estrada, Kristin MacDonald, Emily~T. Karlin, and
+  John Rush.
+\newblock Retrospective evaluation of hypertrophic cardiomyopathy in 68 dogs.
+\newblock {\em Journal of Veterinary Internal Medicine}, 36, 2022.
+\newblock Available from: \url{http://dx.doi.org/10.1111/jvim.16402}, \href
+  {http://dx.doi.org/10.1111/jvim.16402} {\path{doi:10.1111/jvim.16402}}.
+
 \bibitem{Seguin_Bunch_Iatrogenic_copper_deficiency_associated_2001}
 M.~Alexis Seguin and Susan~E. Bunch.
 \newblock Iatrogenic copper deficiency associated with long-term copper
@@ -1715,6 +1717,14 @@ Huber TL, Laflamme DP, Medleau L, Comer KM, and Rakich PM.
 \newblock Comparison of procedures for assessing adequacy of dog foods.
 \newblock {\em Journal of the American Veterinary Medical Association}, 199.
 \newblock Available from: \url{http://europepmc.org/abstract/med/1659568}.
+
+\bibitem{Tuohy_Kaul_Song_Hypertrophic_cardiomyopathy_future_2020}
+C.~Vaughan Tuohy, Sanjiv Kaul, Howard~K. Song, Babak Nazer, and Stephen~B.
+  Heitner.
+\newblock Hypertrophic cardiomyopathy: the future of treatment.
+\newblock {\em European Journal of Heart Failure}, 22, 2020.
+\newblock Available from: \url{http://dx.doi.org/10.1002/ejhf.1715}, \href
+  {http://dx.doi.org/10.1002/ejhf.1715} {\path{doi:10.1002/ejhf.1715}}.
 
 \bibitem{TURNBULL2021104897}
 Duncan Turnbull, Maia~M. Jack, Pragati~S. Coder, Catherine~A. Picut, and

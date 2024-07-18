@@ -17,7 +17,7 @@
 \contentsline {subsection}{\numberline {2.1} Collapsed Trachea }{9}{section*.15}%
 \contentsline {subsection}{\numberline {2.2} Heart Problems : DCM/HCM}{10}{section*.16}%
 \contentsline {subsection}{\numberline {2.3} Infection }{11}{section*.17}%
-\contentsline {subsection}{\numberline {2.4} Hypothyroidism }{11}{section*.18}%
+\contentsline {subsection}{\numberline {2.4} Hypothyroidism }{12}{section*.18}%
 \contentsline {subsection}{\numberline {2.5} Degenerative diseases AD, PD, ALS, Arthritis }{12}{section*.19}%
 \contentsline {subsection}{\numberline {2.6} Cancer }{13}{section*.20}%
 \contentsline {section}{\numberline {3} Sites of Interest }{13}{section*.21}%
@@ -25,7 +25,7 @@
 \contentsline {subsection}{\numberline {3.2} Lysyl Oxidase }{14}{section*.23}%
 \contentsline {subsection}{\numberline {3.3} Ceruloplasmin }{15}{section*.24}%
 \contentsline {subsection}{\numberline {3.4} Macrophage et al }{15}{section*.25}%
-\contentsline {subsection}{\numberline {3.5} Associated Entities - histidine and garlic etc }{15}{section*.26}%
+\contentsline {subsection}{\numberline {3.5} Associated Entities - histidine and garlic etc }{16}{section*.26}%
 \contentsline {section}{\numberline {4}Cases and Observations}{16}{section*.27}%
 \contentsline {subsection}{\numberline {4.1}Cookie or Mixie}{17}{section*.28}%
 \contentsline {subsection}{\numberline {4.2}Brownie and puppies}{17}{section*.29}%
