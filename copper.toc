@@ -8,47 +8,47 @@
 \contentsline {subsection}{\numberline {1.4} Coppr and blood pressure }{5}{section*.6}%
 \contentsline {subsection}{\numberline {1.5} This kind of confusion is common for recurring reasons }{6}{section*.7}%
 \contentsline {subsection}{\numberline {1.6} Copper related outcomes depend on everything starting with GI tract }{6}{section*.8}%
-\contentsline {subsection}{\numberline {1.7} The overall diet may be important for copper distribution }{7}{section*.9}%
-\contentsline {subsection}{\numberline {1.8} Copper interacts with dietary sulfur in other animals }{7}{section*.10}%
-\contentsline {subsection}{\numberline {1.9} Copper interactions with WHY and Cu related clinical impact }{7}{section*.11}%
-\contentsline {subsection}{\numberline {1.10} Recent Similar Work }{8}{section*.12}%
-\contentsline {subsection}{\numberline {1.11} Copper rich diets for dogs and people are worth consideration }{8}{section*.13}%
-\contentsline {section}{\numberline {2} Diseases of Interest }{8}{section*.14}%
-\contentsline {subsection}{\numberline {2.1} Collapsed Trachea }{9}{section*.15}%
-\contentsline {subsection}{\numberline {2.2} Heart Problems : DCM/HCM}{10}{section*.16}%
-\contentsline {subsection}{\numberline {2.3} Infection }{11}{section*.17}%
+\contentsline {subsection}{\numberline {1.7} Copper interacts with dietary sulfur in other animals }{7}{section*.9}%
+\contentsline {subsection}{\numberline {1.8} The overall diet may be important for copper distribution }{8}{section*.10}%
+\contentsline {subsection}{\numberline {1.9} Copper interactions with WHY and Cu related clinical impact }{8}{section*.11}%
+\contentsline {subsection}{\numberline {1.10} Recent Similar Work }{9}{section*.12}%
+\contentsline {subsection}{\numberline {1.11} Copper rich diets for dogs and people are worth consideration }{9}{section*.13}%
+\contentsline {section}{\numberline {2} Diseases of Interest }{9}{section*.14}%
+\contentsline {subsection}{\numberline {2.1} Collapsed Trachea }{10}{section*.15}%
+\contentsline {subsection}{\numberline {2.2} Heart Problems : DCM/HCM}{11}{section*.16}%
+\contentsline {subsection}{\numberline {2.3} Infection }{12}{section*.17}%
 \contentsline {subsection}{\numberline {2.4} Hypothyroidism }{12}{section*.18}%
-\contentsline {subsection}{\numberline {2.5} Degenerative diseases AD, PD, ALS, Arthritis }{12}{section*.19}%
-\contentsline {subsection}{\numberline {2.6} Cancer }{13}{section*.20}%
+\contentsline {subsection}{\numberline {2.5} Degenerative diseases AD, PD, ALS, Arthritis }{13}{section*.19}%
+\contentsline {subsection}{\numberline {2.6} Cancer }{14}{section*.20}%
 \contentsline {section}{\numberline {3} Sites of Interest }{14}{section*.21}%
-\contentsline {subsection}{\numberline {3.1} Cytochrome C Oxidase }{14}{section*.22}%
+\contentsline {subsection}{\numberline {3.1} Cytochrome C Oxidase }{15}{section*.22}%
 \contentsline {subsection}{\numberline {3.2} Lysyl Oxidase }{15}{section*.23}%
-\contentsline {subsection}{\numberline {3.3} Ceruloplasmin }{15}{section*.24}%
-\contentsline {subsection}{\numberline {3.4} Macrophage et al }{16}{section*.25}%
-\contentsline {subsection}{\numberline {3.5} Associated Entities - histidine and garlic etc }{16}{section*.26}%
-\contentsline {section}{\numberline {4}Cases and Observations}{16}{section*.27}%
-\contentsline {subsection}{\numberline {4.1}Dexter}{18}{section*.28}%
-\contentsline {subsection}{\numberline {4.2}Cookie or Mixie}{18}{section*.29}%
-\contentsline {subsection}{\numberline {4.3}Brownie and puppies}{19}{section*.30}%
-\contentsline {subsection}{\numberline {4.4}Happy}{19}{section*.31}%
-\contentsline {subsection}{\numberline {4.5}Trixie}{20}{section*.32}%
-\contentsline {subsection}{\numberline {4.6}Rocky}{21}{section*.33}%
-\contentsline {subsection}{\numberline {4.7}Annie}{22}{section*.34}%
-\contentsline {subsection}{\numberline {4.8}Hershey}{22}{section*.35}%
-\contentsline {section}{\numberline {5}Discussion }{24}{section*.36}%
-\contentsline {section}{\numberline {6}Limitations}{25}{section*.37}%
-\contentsline {section}{\numberline {7}Conclusions}{25}{section*.38}%
-\contentsline {section}{\numberline {8}Supplemental Information}{25}{section*.39}%
-\contentsline {subsection}{\numberline {8.1}Computer Code}{25}{section*.40}%
-\contentsline {section}{\numberline {9}Bibliography}{26}{section*.41}%
-\contentsline {section}{\numberline {}References}{26}{section*.42}%
-\contentsline {section}{\numberline {}Acknowledgments}{38}{section*.43}%
+\contentsline {subsection}{\numberline {3.3} Ceruloplasmin }{16}{section*.24}%
+\contentsline {subsection}{\numberline {3.4} Macrophage et al }{17}{section*.25}%
+\contentsline {subsection}{\numberline {3.5} Associated Entities - histidine and garlic etc }{17}{section*.26}%
+\contentsline {section}{\numberline {4}Cases and Observations}{17}{section*.27}%
+\contentsline {subsection}{\numberline {4.1}Dexter}{19}{section*.28}%
+\contentsline {subsection}{\numberline {4.2}Cookie or Mixie}{20}{section*.29}%
+\contentsline {subsection}{\numberline {4.3}Brownie and puppies}{20}{section*.30}%
+\contentsline {subsection}{\numberline {4.4}Happy}{21}{section*.31}%
+\contentsline {subsection}{\numberline {4.5}Trixie}{21}{section*.32}%
+\contentsline {subsection}{\numberline {4.6}Rocky}{22}{section*.33}%
+\contentsline {subsection}{\numberline {4.7}Annie}{23}{section*.34}%
+\contentsline {subsection}{\numberline {4.8}Hershey}{24}{section*.35}%
+\contentsline {section}{\numberline {5}Discussion }{26}{section*.36}%
+\contentsline {section}{\numberline {6}Limitations}{27}{section*.37}%
+\contentsline {section}{\numberline {7}Conclusions}{27}{section*.38}%
+\contentsline {section}{\numberline {8}Supplemental Information}{27}{section*.39}%
+\contentsline {subsection}{\numberline {8.1}Computer Code}{27}{section*.40}%
+\contentsline {section}{\numberline {9}Bibliography}{28}{section*.41}%
+\contentsline {section}{\numberline {}References}{28}{section*.42}%
+\contentsline {section}{\numberline {}Acknowledgments}{40}{section*.43}%
 \appendix 
-\contentsline {section}{\numberline {A} Statement of Conflicts }{39}{section*.44}%
-\contentsline {section}{\numberline {B}About the Authors and Facility}{39}{section*.45}%
-\contentsline {section}{\numberline {C}Some Common Logical Fallacies and Misdirections}{39}{section*.46}%
-\contentsline {section}{\numberline {D}Background Diet Sumnary}{41}{section*.47}%
-\contentsline {section}{\numberline {E}Notable Food Components with Copper Interactions}{45}{section*.48}%
-\contentsline {section}{\numberline {F}Symbols, Abbreviations and Colloquialisms}{45}{section*.49}%
-\contentsline {section}{\numberline {G}General caveats and disclaimer }{45}{section*.50}%
-\contentsline {section}{\numberline {H}Citing this as a tech report or white paper }{45}{section*.51}%
+\contentsline {section}{\numberline {A} Statement of Conflicts }{42}{section*.44}%
+\contentsline {section}{\numberline {B}About the Authors and Facility}{42}{section*.45}%
+\contentsline {section}{\numberline {C}Some Common Logical Fallacies and Misdirections}{42}{section*.46}%
+\contentsline {section}{\numberline {D}Background Diet Sumnary}{44}{section*.47}%
+\contentsline {section}{\numberline {E}Notable Food Components with Copper Interactions}{48}{section*.48}%
+\contentsline {section}{\numberline {F}Symbols, Abbreviations and Colloquialisms}{48}{section*.49}%
+\contentsline {section}{\numberline {G}General caveats and disclaimer }{48}{section*.50}%
+\contentsline {section}{\numberline {H}Citing this as a tech report or white paper }{48}{section*.51}%
