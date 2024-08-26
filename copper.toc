@@ -22,7 +22,7 @@
 \contentsline {subsection}{\numberline {2.6} Cancer }{14}{section*.20}%
 \contentsline {section}{\numberline {3} Sites of Interest }{14}{section*.21}%
 \contentsline {subsection}{\numberline {3.1} Cytochrome C Oxidase }{15}{section*.22}%
-\contentsline {subsection}{\numberline {3.2} Lysyl Oxidase }{15}{section*.23}%
+\contentsline {subsection}{\numberline {3.2} Lysyl Oxidase }{16}{section*.23}%
 \contentsline {subsection}{\numberline {3.3} Ceruloplasmin }{16}{section*.24}%
 \contentsline {subsection}{\numberline {3.4} Macrophage et al }{17}{section*.25}%
 \contentsline {subsection}{\numberline {3.5} Associated Entities - histidine and garlic etc }{17}{section*.26}%
@@ -31,7 +31,7 @@
 \contentsline {subsection}{\numberline {4.2}Cookie or Mixie}{20}{section*.29}%
 \contentsline {subsection}{\numberline {4.3}Brownie and puppies}{20}{section*.30}%
 \contentsline {subsection}{\numberline {4.4}Happy}{21}{section*.31}%
-\contentsline {subsection}{\numberline {4.5}Trixie}{21}{section*.32}%
+\contentsline {subsection}{\numberline {4.5}Trixie}{22}{section*.32}%
 \contentsline {subsection}{\numberline {4.6}Rocky}{22}{section*.33}%
 \contentsline {subsection}{\numberline {4.7}Annie}{23}{section*.34}%
 \contentsline {subsection}{\numberline {4.8}Hershey}{24}{section*.35}%

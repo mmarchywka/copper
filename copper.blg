@@ -6,14 +6,16 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=200001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
-Reallocated field_info (elt_size=4) to 11636 items from 5000.
+Reallocated field_info (elt_size=4) to 12028 items from 5000.
 Database file #1: copper.bib
 Warning--I'm ignoring Yu_Liou_Biggins_Copper_Deficiency_Liver_2019's extra "url" field
 --line 2846 of file copper.bib
+Warning--I'm ignoring Fatahi_Hoseini_2013's extra "url" field
+--line 9232 of file copper.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Warning--entry type for "PMC11042178" isn't style-file defined
---line 10622 of file copper.bib
-"}" immediately follows an entry type---line 11427 of file copper.bib
+--line 11353 of file copper.bib
+"}" immediately follows an entry type---line 12158 of file copper.bib
  : %CI = {(c) The Author(s) 2022. Published by Oxford University Press. All rights reserved.  For Permissions, please email: journals.permissions@oup.com.
  :                                                                                                                                                        },
 I'm skipping whatever remains of this entry
@@ -122,6 +124,7 @@ Repeated entry---line 7007 of file ../casesum/casesum.bib
  :                      ,
 I'm skipping whatever remains of this entry
 Database file #6: sbenzbib.bib
+Reallocated str_pool (elt_size=1) to 195000 items from 130000.
 Warning--empty year in PMC11260405
 Warning--empty year in PMC10733163
 Warning--empty year in Kim_Lee_Hong_Novel_Application_Proton_
@@ -129,45 +132,45 @@ Warning--can't use both author and editor fields in Marcus2023
 Warning--empty year in HuberTLa
 Warning--empty year in Wang_Hydrogen_sulfide_microbiota_
 Warning--empty year in Yang_Noda_Kato_Elevated_Intestinal_Absorption_
-You've used 237 entries,
+You've used 251 entries,
             2760 wiz_defined-function locations,
-            2488 strings with 123762 characters,
-and the built_in function-call counts, 132164 in all, are:
-= -- 14044
-> -- 7730
-< -- 56
-+ -- 3084
-- -- 2815
-* -- 10205
-:= -- 20665
-add.period$ -- 959
-call.type$ -- 237
-change.case$ -- 2115
+            2592 strings with 129841 characters,
+and the built_in function-call counts, 139004 in all, are:
+= -- 14795
+> -- 8077
+< -- 57
++ -- 3220
+- -- 2937
+* -- 10712
+:= -- 21726
+add.period$ -- 1015
+call.type$ -- 251
+change.case$ -- 2218
 chr.to.int$ -- 0
-cite$ -- 244
-duplicate$ -- 3360
-empty$ -- 9223
-format.name$ -- 2815
-if$ -- 30938
+cite$ -- 258
+duplicate$ -- 3542
+empty$ -- 9743
+format.name$ -- 2937
+if$ -- 32577
 int.to.chr$ -- 0
-int.to.str$ -- 237
-missing$ -- 227
-newline$ -- 1435
-num.names$ -- 476
-pop$ -- 2549
+int.to.str$ -- 251
+missing$ -- 241
+newline$ -- 1519
+num.names$ -- 504
+pop$ -- 2673
 preamble$ -- 1
-purify$ -- 1880
+purify$ -- 1969
 quote$ -- 0
-skip$ -- 7503
+skip$ -- 7932
 stack$ -- 0
-substring$ -- 3120
-swap$ -- 1099
-text.length$ -- 56
+substring$ -- 3256
+swap$ -- 1150
+text.length$ -- 57
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 944
+type$ -- 1000
 warning$ -- 7
-while$ -- 609
-width$ -- 240
-write$ -- 3291
+while$ -- 641
+width$ -- 254
+write$ -- 3484
 (There were 26 error messages)
