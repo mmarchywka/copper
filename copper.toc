@@ -8,7 +8,7 @@
 \contentsline {subsection}{\numberline {1.4} Coppr and blood pressure }{5}{section*.6}%
 \contentsline {subsection}{\numberline {1.5} This kind of confusion is common for recurring reasons }{6}{section*.7}%
 \contentsline {subsection}{\numberline {1.6} Copper related outcomes depend on everything starting with GI tract }{6}{section*.8}%
-\contentsline {subsection}{\numberline {1.7} Copper interacts with dietary sulfur in other animals }{7}{section*.9}%
+\contentsline {subsection}{\numberline {1.7} Copper interacts with dietary sulfur in other animals }{8}{section*.9}%
 \contentsline {subsection}{\numberline {1.8} The overall diet may be important for copper distribution }{8}{section*.10}%
 \contentsline {subsection}{\numberline {1.9} Copper interactions with WHY and Cu related clinical impact }{8}{section*.11}%
 \contentsline {subsection}{\numberline {1.10} Recent Similar Work }{9}{section*.12}%
@@ -17,7 +17,7 @@
 \contentsline {subsection}{\numberline {2.1} Collapsed Trachea }{10}{section*.15}%
 \contentsline {subsection}{\numberline {2.2} Heart Problems : DCM/HCM}{11}{section*.16}%
 \contentsline {subsection}{\numberline {2.3} Infection }{12}{section*.17}%
-\contentsline {subsection}{\numberline {2.4} Hypothyroidism }{12}{section*.18}%
+\contentsline {subsection}{\numberline {2.4} Hypothyroidism }{13}{section*.18}%
 \contentsline {subsection}{\numberline {2.5} Degenerative diseases AD, PD, ALS, Arthritis }{13}{section*.19}%
 \contentsline {subsection}{\numberline {2.6} Cancer }{14}{section*.20}%
 \contentsline {section}{\numberline {3} Sites of Interest }{14}{section*.21}%
@@ -32,8 +32,8 @@
 \contentsline {subsection}{\numberline {4.3}Brownie and puppies}{20}{section*.30}%
 \contentsline {subsection}{\numberline {4.4}Happy}{21}{section*.31}%
 \contentsline {subsection}{\numberline {4.5}Trixie}{22}{section*.32}%
-\contentsline {subsection}{\numberline {4.6}Rocky}{22}{section*.33}%
-\contentsline {subsection}{\numberline {4.7}Annie}{23}{section*.34}%
+\contentsline {subsection}{\numberline {4.6}Rocky}{23}{section*.33}%
+\contentsline {subsection}{\numberline {4.7}Annie}{24}{section*.34}%
 \contentsline {subsection}{\numberline {4.8}Hershey}{24}{section*.35}%
 \contentsline {section}{\numberline {5}Discussion }{26}{section*.36}%
 \contentsline {section}{\numberline {6}Limitations}{27}{section*.37}%

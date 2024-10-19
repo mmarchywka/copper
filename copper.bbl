@@ -1447,6 +1447,16 @@ Raktham Mektrirat, Thareerat Rueangsri, Waraporn Keeratichandacha, Sasiwimon
   {http://dx.doi.org/10.3389/fvets.2022.880952}
   {\path{doi:10.3389/fvets.2022.880952}}.
 
+\bibitem{PMC11480022}
+Jin-Hong Min, Heela Sarlus, and Robert~A Harris.
+\newblock Mad-microbial (origin of) alzheimer's disease hypothesis: from
+  infection and the antimicrobial response to disruption of key copper-based
+  systems.
+\newblock {\em Frontiers in neuroscience}, page 1467333, 10 2024.
+\newblock Available from: \url{https://pubmed.ncbi.nlm.nih.gov/39416952/},
+  \href {http://dx.doi.org/10.3389/fnins.2024.1467333}
+  {\path{doi:10.3389/fnins.2024.1467333}}.
+
 \bibitem{Mold_OuroGnao_Wieckowski_Copper_prevents_amyloid_upbeta1_2013}
 Matthew Mold, Larissa Ouro-Gnao, Beata~M Wieckowski, and Christopher Exley.
 \newblock Copper prevents amyloid-upbeta1-42 from forming amyloid fibrils under
@@ -1966,6 +1976,14 @@ Karolina~M Stepien and Andrew Taylor.
   \href {http://dx.doi.org/10.1258/acb.2011.011199}
   {\path{doi:10.1258/acb.2011.011199}}.
 
+\bibitem{Supplee_Observations_Effect_1964}
+W.C. Supplee.
+\newblock Observations on the effect of copper additions to purified turkey
+  diets.
+\newblock {\em Poultry Science}, 43, 11 1964.
+\newblock Available from: \url{http://dx.doi.org/10.3382/ps.0431599}, \href
+  {http://dx.doi.org/10.3382/ps.0431599} {\path{doi:10.3382/ps.0431599}}.
+
 \bibitem{Tang_Klinman_Catalytic_Function_2001}
 Chunlin Tang and Judith~P. Klinman.
 \newblock The catalytic function of bovine lysyl oxidase in the absence of
@@ -2156,6 +2174,13 @@ Ahsan Wahab, Kamran Mushtaq, Samuel~G. Borak, and Naresh Bellam.
 \newblock Available from:
   \url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7495772/}, \href
   {http://dx.doi.org/10.1002/ccr3.2987} {\path{doi:10.1002/ccr3.2987}}.
+
+\bibitem{Waibel_Snetsinger_Ball_Variation_Tolerance_1964}
+P.E. Waibel, D.C. Snetsinger, R.A. Ball, and J.H. Sautter.
+\newblock Variation in tolerance of turkeys to dietary copper.
+\newblock {\em Poultry Science}, 43, 03 1964.
+\newblock Available from: \url{http://dx.doi.org/10.3382/ps.0430504}, \href
+  {http://dx.doi.org/10.3382/ps.0430504} {\path{doi:10.3382/ps.0430504}}.
 
 \bibitem{Waldum_Sordal_Fossmark_Proton_pump_inhibitors_PPIs_2018}
 Helge~L. Waldum, Oystein Sordal, and Reidar Fossmark.
