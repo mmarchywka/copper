@@ -462,6 +462,12 @@ INPUT ./keep/brownie_cu.jpg
 INPUT ./keep/happy2seeyou.jpg
 INPUT ./keep/happy2seeyou.jpg
 INPUT ./keep/happy2seeyou.jpg
+INPUT ./keep/happy_recent.jpg
+INPUT ./keep/happy_recent.jpg
+INPUT ./keep/happy_recent.jpg
+INPUT ./keep/happy_early.jpg
+INPUT ./keep/happy_early.jpg
+INPUT ./keep/happy_early.jpg
 INPUT ./keep/happy_misc.jpg
 INPUT ./keep/happy_misc.jpg
 INPUT ./keep/happy_misc.jpg
@@ -477,6 +483,9 @@ INPUT ./keep/rocky_i.jpg
 INPUT ./keep/annie_cu.jpg
 INPUT ./keep/annie_cu.jpg
 INPUT ./keep/annie_cu.jpg
+INPUT ./keep/annie_swelling.jpg
+INPUT ./keep/annie_swelling.jpg
+INPUT ./keep/annie_swelling.jpg
 INPUT ./keep/hershey_cu_i.jpg
 INPUT ./keep/hershey_cu_i.jpg
 INPUT ./keep/hershey_cu_i.jpg
