@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2024.3.16)  16 NOV 2024 19:44
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2024.3.16)  18 NOV 2024 19:41
  restricted system commands enabled.
  file:line:error style messages enabled.
 **copper.tex
@@ -1327,7 +1327,7 @@ Overfull \hbox (5.0pt too wide) detected at line 39
 
 
 Overfull \hbox (5.0pt too wide) detected at line 40
- \TU/lmr/m/n/10 30
+ \TU/lmr/m/n/10 31
  []
 
 [2]
@@ -1337,67 +1337,67 @@ Overfull \hbox (5.0pt too wide) detected at line 41
 
 
 Overfull \hbox (5.0pt too wide) detected at line 42
- \TU/lmr/m/n/10 31
+ \TU/lmr/m/n/10 32
  []
 
 
 Overfull \hbox (5.0pt too wide) detected at line 43
- \TU/lmr/m/n/10 31
+ \TU/lmr/m/n/10 32
  []
 
 
 Overfull \hbox (5.0pt too wide) detected at line 44
- \TU/lmr/m/n/10 31
+ \TU/lmr/m/n/10 32
  []
 
 
 Overfull \hbox (5.0pt too wide) detected at line 45
- \TU/lmr/m/n/10 31
+ \TU/lmr/m/n/10 32
  []
 
 
 Overfull \hbox (5.0pt too wide) detected at line 46
- \TU/lmr/m/n/10 46
+ \TU/lmr/m/n/10 47
  []
 
 
 Overfull \hbox (5.0pt too wide) detected at line 48
- \TU/lmr/m/n/10 47
+ \TU/lmr/m/n/10 48
  []
 
 
 Overfull \hbox (5.0pt too wide) detected at line 49
- \TU/lmr/m/n/10 47
+ \TU/lmr/m/n/10 48
  []
 
 
 Overfull \hbox (5.0pt too wide) detected at line 50
- \TU/lmr/m/n/10 47
+ \TU/lmr/m/n/10 48
  []
 
 
 Overfull \hbox (5.0pt too wide) detected at line 51
- \TU/lmr/m/n/10 49
+ \TU/lmr/m/n/10 50
  []
 
 
 Overfull \hbox (5.0pt too wide) detected at line 52
- \TU/lmr/m/n/10 53
+ \TU/lmr/m/n/10 54
  []
 
 
 Overfull \hbox (5.0pt too wide) detected at line 53
- \TU/lmr/m/n/10 53
+ \TU/lmr/m/n/10 54
  []
 
 
 Overfull \hbox (5.0pt too wide) detected at line 54
- \TU/lmr/m/n/10 53
+ \TU/lmr/m/n/10 54
  []
 
 
 Overfull \hbox (5.0pt too wide) detected at line 55
- \TU/lmr/m/n/10 53
+ \TU/lmr/m/n/10 54
  []
 
 )
@@ -1632,13 +1632,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--4
  []
 
 [29]
-<keep/bakingpan.jpg, id=1039, 1204.5pt x 1606.0pt>
+<keep/bakingpan.jpg, id=1041, 1204.5pt x 1606.0pt>
 File: keep/bakingpan.jpg Graphic file (type jpg)
 <use keep/bakingpan.jpg>
-Package luatex.def Info: keep/bakingpan.jpg  used on input line 167.
+Package luatex.def Info: keep/bakingpan.jpg  used on input line 204.
 (luatex.def)             Requested size: 289.0859pt x 216.80064pt.
- Excluding 'comment' comment.) [30<./keep/bakingpan.jpg>] (./copper.bbl
-[31]
+ [30] Excluding 'comment' comment.) [31<./keep/bakingpan.jpg>]
+(./copper.bbl
 Underfull \hbox (badness 2707) in paragraph at lines 48--56
 []\TU/lmr/m/n/9 Laura Amund-son, Brent Kirn, Erik Swens-son, Al-li-son Mil-li-c
 an, and George Fa-hey.  Cop-per metabolism
@@ -1688,7 +1688,7 @@ Underfull \hbox (badness 1748) in paragraph at lines 1369--1376
  [][]$\TU/lmtt/m/n/9 https://www.linkedin.com/posts/marchywka_
  []
 
-
+[39]
 Underfull \hbox (badness 4927) in paragraph at lines 1416--1424
 []\TU/lmr/m/n/9 M.J. Marchy-wka.  Sup-ple-ment us-age in-clud-ing vi-ta-min k b
 y a heart-worm pos-i-tive preg-nant pit bull
@@ -1706,14 +1706,14 @@ Underfull \hbox (badness 4608) in paragraph at lines 1416--1424
 -cantly if less than 1.00.  Avail-
  []
 
-[39] [40] [41] [42] [43] [44] [45]) [46] Including 'mdpicomment' comment.
+[40] [41] [42] [43] [44] [45] [46]) [47] Including 'mdpicomment' comment.
 \openout3 = comment.cut
 
 Straight input of comment.cut. (./comment.cut)
 Including 'mdpicomment' comment.
 \openout3 = comment.cut
  Straight input of comment.cut. (./comment.cut
-Excluding 'comment' comment. [47] (./keep/monthly.tex
+Excluding 'comment' comment. [48] (./keep/monthly.tex
 Overfull \hbox (32.57286pt too wide) in paragraph at lines 6--62
  []$[]$ 
  []
@@ -1723,9 +1723,9 @@ Overfull \hbox (36.92886pt too wide) in paragraph at lines 66--111
  []$[]$ 
  []
 
-[48] [49] [50]) [51] [52] Excluding 'comment' comment.
+[49] [50] [51]) [52] [53] Excluding 'comment' comment.
 (/home/documents/latex/share/includes/disclaimer-gaslight.tex)
-(/home/documents/latex/share/includes/disclaimer-status.tex) [53]
+(/home/documents/latex/share/includes/disclaimer-status.tex) [54]
 (./releases.tex)
 Overfull \hbox (10.0pt too wide) in paragraph at lines 132--137
 []$[]$ 
@@ -1733,7 +1733,7 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 132--137
 
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on in
 put line 145.
-(./copper.bundle_checksums [54])) [55]
+(./copper.bundle_checksums [55])) [56]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3813.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 3813.
  (./copper.aux)
@@ -1744,16 +1744,16 @@ Package rerunfilecheck Info: File `copper.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 33650 strings out of 481365
+ 33659 strings out of 481365
  745252,1373583 words of node,token memory allocated
- 2127 words of node memory still in use:
-   5 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 157 attribute, 81 glue_spe
-c, 157 attribute_list, 151 pdf_action nodes
-   avail lists: 2:9415,3:1022,4:263,5:20642,6:114,7:20910,8:174,9:41504,10:36,11
-:2207
- 48792 multiletter control sequences out of 65536+600000
+ 2137 words of node memory still in use:
+   5 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 158 attribute, 81 glue_spe
+c, 158 attribute_list, 152 pdf_action nodes
+   avail lists: 1:1,2:9415,3:1091,4:264,5:20642,6:114,7:20910,8:170,9:41504,10:3
+6,11:2207
+ 48798 multiletter control sequences out of 65536+600000
  104 fonts using 9057347 bytes
- 82i,13n,77p,747b,1939s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 82i,13n,77p,747b,1971s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/share/texmf/fonts/opentype/public/lm/lmroman10-italic.otf></usr/share/texm
 f/fonts/opentype/public/lm/lmroman6-regular.otf></usr/share/texmf/fonts/opentype
 /public/lm/lmmono9-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmmono
@@ -1773,10 +1773,10 @@ e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmsy9.pfb>
-Output written on copper.pdf (55 pages, 4773506 bytes).
+Output written on copper.pdf (56 pages, 4777285 bytes).
 
-PDF statistics: 2103 PDF objects out of 2487 (max. 8388607)
- 1958 compressed objects within 20 object streams
- 515 named destinations out of 1000 (max. 131072)
+PDF statistics: 2116 PDF objects out of 2487 (max. 8388607)
+ 1970 compressed objects within 20 object streams
+ 518 named destinations out of 1000 (max. 131072)
  432 words of extra memory for PDF output out of 10000 (max. 100000000)
 
