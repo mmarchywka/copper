@@ -6,7 +6,7 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=200001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
-Reallocated field_info (elt_size=4) to 12644 items from 5000.
+Reallocated field_info (elt_size=4) to 12756 items from 5000.
 Database file #1: copper.bib
 Warning--I'm ignoring Yu_Liou_Biggins_Copper_Deficiency_Liver_2019's extra "url" field
 --line 2846 of file copper.bib
@@ -14,14 +14,14 @@ Warning--I'm ignoring Fatahi_Hoseini_2013's extra "url" field
 --line 9232 of file copper.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Warning--entry type for "PMC11042178" isn't style-file defined
---line 12440 of file copper.bib
-"}" immediately follows an entry type---line 13245 of file copper.bib
+--line 12669 of file copper.bib
+"}" immediately follows an entry type---line 13474 of file copper.bib
  : %CI = {(c) The Author(s) 2022. Published by Oxford University Press. All rights reserved.  For Permissions, please email: journals.permissions@oup.com.
  :                                                                                                                                                        },
 I'm skipping whatever remains of this entry
+Reallocated str_pool (elt_size=1) to 195000 items from 130000.
 Database file #2: mjm_tr.bib
 Database file #3: releases.bib
-Reallocated str_pool (elt_size=1) to 195000 items from 130000.
 Database file #4: potusebib.bib
 Repeated entry---line 7042 of file potusebib.bib
  : @article{PMID11801334
@@ -133,45 +133,45 @@ Warning--empty year in Ray_Singh_Jena_Alkaline_Phosphatase_
 Warning--empty year in HuberTLa
 Warning--empty year in Wang_Hydrogen_sulfide_microbiota_
 Warning--empty year in Yang_Noda_Kato_Elevated_Intestinal_Absorption_
-You've used 273 entries,
+You've used 277 entries,
             2760 wiz_defined-function locations,
-            2758 strings with 137997 characters,
-and the built_in function-call counts, 149759 in all, are:
-= -- 15992
-> -- 8574
+            2790 strings with 139646 characters,
+and the built_in function-call counts, 151982 in all, are:
+= -- 16224
+> -- 8716
 < -- 61
-+ -- 3418
-- -- 3111
-* -- 11485
-:= -- 23365
-add.period$ -- 1103
-call.type$ -- 273
-change.case$ -- 2371
++ -- 3476
+- -- 3163
+* -- 11671
+:= -- 23721
+add.period$ -- 1119
+call.type$ -- 277
+change.case$ -- 2409
 chr.to.int$ -- 0
-cite$ -- 281
-duplicate$ -- 3847
-empty$ -- 10583
-format.name$ -- 3111
-if$ -- 35181
+cite$ -- 285
+duplicate$ -- 3896
+empty$ -- 10733
+format.name$ -- 3163
+if$ -- 35690
 int.to.chr$ -- 0
-int.to.str$ -- 273
-missing$ -- 263
-newline$ -- 1651
-num.names$ -- 548
-pop$ -- 2863
+int.to.str$ -- 277
+missing$ -- 267
+newline$ -- 1675
+num.names$ -- 556
+pop$ -- 2905
 preamble$ -- 1
-purify$ -- 2100
+purify$ -- 2134
 quote$ -- 0
-skip$ -- 8623
+skip$ -- 8742
 stack$ -- 0
-substring$ -- 3517
-swap$ -- 1246
+substring$ -- 3560
+swap$ -- 1258
 text.length$ -- 61
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1088
+type$ -- 1104
 warning$ -- 8
-while$ -- 697
-width$ -- 276
-write$ -- 3788
+while$ -- 706
+width$ -- 280
+write$ -- 3844
 (There were 26 error messages)

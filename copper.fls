@@ -491,10 +491,10 @@ INPUT ./keep/hershey_cu_i.jpg
 INPUT ./keep/hershey_cu_i.jpg
 INPUT ./copper_food_chem.tex
 INPUT ./copper_food_chem.tex
+INPUT ./keep/bakingpan.jpg
+INPUT ./keep/bakingpan.jpg
+INPUT ./keep/bakingpan.jpg
 INPUT /home/marchywka/.texlive2019/texmf-var/luatex-cache/generic-dev/fonts/otl/lmroman5-regular.luc
-INPUT ./keep/bakingpan.jpg
-INPUT ./keep/bakingpan.jpg
-INPUT ./keep/bakingpan.jpg
 INPUT /home/marchywka/.texlive2019/texmf-var/luatex-cache/generic-dev/fonts/otl/lmmono10-regular.luc
 INPUT /home/marchywka/.texlive2019/texmf-var/luatex-cache/generic-dev/fonts/otl/lmmono9-regular.luc
 INPUT ./copper.bbl

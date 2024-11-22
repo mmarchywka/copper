@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2024.3.16)  18 NOV 2024 19:41
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2024.3.16)  21 NOV 2024 20:01
  restricted system commands enabled.
  file:line:error style messages enabled.
 **copper.tex
@@ -1337,7 +1337,7 @@ Overfull \hbox (5.0pt too wide) detected at line 41
 
 
 Overfull \hbox (5.0pt too wide) detected at line 42
- \TU/lmr/m/n/10 32
+ \TU/lmr/m/n/10 31
  []
 
 
@@ -1631,13 +1631,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
+
+Overfull \hbox (13.45999pt too wide) in paragraph at lines 89--112
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--112
+
+ []
+
 [29]
-<keep/bakingpan.jpg, id=1041, 1204.5pt x 1606.0pt>
+<keep/bakingpan.jpg, id=1036, 1204.5pt x 1606.0pt>
 File: keep/bakingpan.jpg Graphic file (type jpg)
 <use keep/bakingpan.jpg>
-Package luatex.def Info: keep/bakingpan.jpg  used on input line 204.
+Package luatex.def Info: keep/bakingpan.jpg  used on input line 115.
 (luatex.def)             Requested size: 289.0859pt x 216.80064pt.
- [30] Excluding 'comment' comment.) [31<./keep/bakingpan.jpg>]
+ [30<./keep/bakingpan.jpg>] Excluding 'comment' comment.) [31]
 (./copper.bbl
 Underfull \hbox (badness 2707) in paragraph at lines 48--56
 []\TU/lmr/m/n/9 Laura Amund-son, Brent Kirn, Erik Swens-son, Al-li-son Mil-li-c
@@ -1665,43 +1675,43 @@ an-sieri, Igor A. Iashchishyn, Lu-cija Os-to-
  []
 
 [33] [34] [35] [36] [37] [38]
-Underfull \hbox (badness 3354) in paragraph at lines 1325--1332
+Underfull \hbox (badness 3354) in paragraph at lines 1356--1363
 \TU/lmr/m/n/9 port MJM-2021-015, not in-sti-tu-tion-al-ized, in-de-pen-dent, 30
 6 Charles Cox , Can-ton GA 30115, 12 2021.
  []
 
-
-Underfull \hbox (badness 5316) in paragraph at lines 1369--1376
+[39]
+Underfull \hbox (badness 5316) in paragraph at lines 1400--1407
 []\TU/lmr/m/n/9 M.J. Marchy-wka.  On the age dis-tri-bu-tion of sars-cov-2 pa-t
 ients.  Tech-ni-cal Re-port MJM-2020-002-
  []
 
 
-Underfull \hbox (badness 2600) in paragraph at lines 1369--1376
+Underfull \hbox (badness 2600) in paragraph at lines 1400--1407
 \TU/lmr/m/n/9 0.10, not in-sti-tu-tion-al-ized , in-de-pen-dent, 306 Charles Co
 x , Can-ton GA 30115, 7 2020.  Ver-sion 0.10
  []
 
 
-Underfull \hbox (badness 1748) in paragraph at lines 1369--1376
+Underfull \hbox (badness 1748) in paragraph at lines 1400--1407
 \TU/lmr/m/n/9 , may change sign-f-i-cantly if less than 1.00.  Avail-able from:
  [][]$\TU/lmtt/m/n/9 https://www.linkedin.com/posts/marchywka_
  []
 
-[39]
-Underfull \hbox (badness 4927) in paragraph at lines 1416--1424
+
+Underfull \hbox (badness 4927) in paragraph at lines 1447--1455
 []\TU/lmr/m/n/9 M.J. Marchy-wka.  Sup-ple-ment us-age in-clud-ing vi-ta-min k b
 y a heart-worm pos-i-tive preg-nant pit bull
  []
 
 
-Underfull \hbox (badness 2384) in paragraph at lines 1416--1424
+Underfull \hbox (badness 2384) in paragraph at lines 1447--1455
 \TU/lmr/m/n/9 and her pup-pies.  Tech-ni-cal Re-port MJM-2021-003, not in-sti-t
 u-tion-al-ized , in-de-pen-dent, 306 Charles Cox
  []
 
 
-Underfull \hbox (badness 4608) in paragraph at lines 1416--1424
+Underfull \hbox (badness 4608) in paragraph at lines 1447--1455
 \TU/lmr/m/n/9 , Can-ton GA 30115, 05 2021.  Ver-sion 0.50 , may change sign-f-i
 -cantly if less than 1.00.  Avail-
  []
@@ -1744,16 +1754,16 @@ Package rerunfilecheck Info: File `copper.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 33659 strings out of 481365
+ 33673 strings out of 481365
  745252,1373583 words of node,token memory allocated
- 2137 words of node memory still in use:
-   5 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 158 attribute, 81 glue_spe
-c, 158 attribute_list, 152 pdf_action nodes
-   avail lists: 1:1,2:9415,3:1091,4:264,5:20642,6:114,7:20910,8:170,9:41504,10:3
+ 2167 words of node memory still in use:
+   5 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 161 attribute, 81 glue_spe
+c, 161 attribute_list, 155 pdf_action nodes
+   avail lists: 1:1,2:9415,3:1042,4:254,5:20642,6:114,7:20910,8:172,9:41504,10:3
 6,11:2207
- 48798 multiletter control sequences out of 65536+600000
+ 48808 multiletter control sequences out of 65536+600000
  104 fonts using 9057347 bytes
- 82i,13n,77p,747b,1971s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 82i,13n,77p,747b,1979s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/share/texmf/fonts/opentype/public/lm/lmroman10-italic.otf></usr/share/texm
 f/fonts/opentype/public/lm/lmroman6-regular.otf></usr/share/texmf/fonts/opentype
 /public/lm/lmmono9-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmmono
@@ -1773,10 +1783,10 @@ e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmsy9.pfb>
-Output written on copper.pdf (56 pages, 4777285 bytes).
+Output written on copper.pdf (56 pages, 4782441 bytes).
 
-PDF statistics: 2116 PDF objects out of 2487 (max. 8388607)
- 1970 compressed objects within 20 object streams
- 518 named destinations out of 1000 (max. 131072)
+PDF statistics: 2140 PDF objects out of 2487 (max. 8388607)
+ 1994 compressed objects within 20 object streams
+ 522 named destinations out of 1000 (max. 131072)
  432 words of extra memory for PDF output out of 10000 (max. 100000000)
 
