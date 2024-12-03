@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2024.3.16)  21 NOV 2024 20:01
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2024.3.16)  3 DEC 2024 16:27
  restricted system commands enabled.
  file:line:error style messages enabled.
 **copper.tex
@@ -1337,7 +1337,7 @@ Overfull \hbox (5.0pt too wide) detected at line 41
 
 
 Overfull \hbox (5.0pt too wide) detected at line 42
- \TU/lmr/m/n/10 31
+ \TU/lmr/m/n/10 32
  []
 
 
@@ -1647,8 +1647,8 @@ File: keep/bakingpan.jpg Graphic file (type jpg)
 <use keep/bakingpan.jpg>
 Package luatex.def Info: keep/bakingpan.jpg  used on input line 115.
 (luatex.def)             Requested size: 289.0859pt x 216.80064pt.
- [30<./keep/bakingpan.jpg>] Excluding 'comment' comment.) [31]
-(./copper.bbl
+ [30<./keep/bakingpan.jpg>] Excluding 'comment' comment.)
+(./copper_gralic_chem.tex) [31] (./copper.bbl
 Underfull \hbox (badness 2707) in paragraph at lines 48--56
 []\TU/lmr/m/n/9 Laura Amund-son, Brent Kirn, Erik Swens-son, Al-li-son Mil-li-c
 an, and George Fa-hey.  Cop-per metabolism
@@ -1674,13 +1674,13 @@ Underfull \hbox (badness 2277) in paragraph at lines 212--223
 an-sieri, Igor A. Iashchishyn, Lu-cija Os-to-
  []
 
-[33] [34] [35] [36] [37] [38]
+[33] [34] [35] [36] [37] [38] [39]
 Underfull \hbox (badness 3354) in paragraph at lines 1356--1363
 \TU/lmr/m/n/9 port MJM-2021-015, not in-sti-tu-tion-al-ized, in-de-pen-dent, 30
 6 Charles Cox , Can-ton GA 30115, 12 2021.
  []
 
-[39]
+
 Underfull \hbox (badness 5316) in paragraph at lines 1400--1407
 []\TU/lmr/m/n/9 M.J. Marchy-wka.  On the age dis-tri-bu-tion of sars-cov-2 pa-t
 ients.  Tech-ni-cal Re-port MJM-2020-002-
@@ -1744,26 +1744,26 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 132--137
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on in
 put line 145.
 (./copper.bundle_checksums [55])) [56]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3813.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 3813.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 3814.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 3814.
  (./copper.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 3813.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 3813.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 3814.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 3814.
 Package rerunfilecheck Info: File `copper.out' has not changed.
 (rerunfilecheck)             Checksum: 06C13DC0131938C1D2C7EE8CA1D238CB;10460.
 )
 
 Here is how much of LuaTeX's memory you used:
- 33673 strings out of 481365
- 745252,1373583 words of node,token memory allocated
+ 33682 strings out of 481365
+ 745248,1373583 words of node,token memory allocated
  2167 words of node memory still in use:
    5 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 161 attribute, 81 glue_spe
 c, 161 attribute_list, 155 pdf_action nodes
-   avail lists: 1:1,2:9415,3:1042,4:254,5:20642,6:114,7:20910,8:172,9:41504,10:3
-6,11:2207
- 48808 multiletter control sequences out of 65536+600000
+   avail lists: 1:1,2:9415,3:1044,4:259,5:20640,6:114,7:20910,8:173,9:41504,10:3
+6,11:2208
+ 48810 multiletter control sequences out of 65536+600000
  104 fonts using 9057347 bytes
- 82i,13n,77p,747b,1979s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 82i,13n,77p,747b,1959s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/share/texmf/fonts/opentype/public/lm/lmroman10-italic.otf></usr/share/texm
 f/fonts/opentype/public/lm/lmroman6-regular.otf></usr/share/texmf/fonts/opentype
 /public/lm/lmmono9-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmmono
@@ -1783,10 +1783,10 @@ e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmsy9.pfb>
-Output written on copper.pdf (56 pages, 4782441 bytes).
+Output written on copper.pdf (56 pages, 4783953 bytes).
 
-PDF statistics: 2140 PDF objects out of 2487 (max. 8388607)
- 1994 compressed objects within 20 object streams
+PDF statistics: 2144 PDF objects out of 2487 (max. 8388607)
+ 1998 compressed objects within 20 object streams
  522 named destinations out of 1000 (max. 131072)
  432 words of extra memory for PDF output out of 10000 (max. 100000000)
 
