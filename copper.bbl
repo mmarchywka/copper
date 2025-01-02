@@ -9,6 +9,13 @@ Alireza Abdolmohammadi and Vivek~R. Sharma.
   {http://dx.doi.org/10.1182/blood.v118.21.5275.5275}
   {\path{doi:10.1182/blood.v118.21.5275.5275}}.
 
+\bibitem{Abe_Hori_Myoda_Volatile_compounds_fresh_2019}
+Kazuki Abe, Yoji Hori, and Takao Myoda.
+\newblock Volatile compounds of fresh and processed garlic (review).
+\newblock {\em Experimental and Therapeutic Medicine}, 12 2019.
+\newblock Available from: \url{https://doi.org/10.3892/etm.2019.8394}, \href
+  {http://dx.doi.org/10.3892/etm.2019.8394} {\path{doi:10.3892/etm.2019.8394}}.
+
 \bibitem{PMC8471899}
 Sherleen Xue-Fu Adamson, Wei Zheng, Zeynep~Sena Agim, Sarah Du, Sheila Fleming,
   Jonathan Shannahan, and Jason Cannon.
@@ -513,6 +520,17 @@ Qin-Yun Dong and Zhi-Ying Wu.
   {http://dx.doi.org/10.1186/2047-9158-1-23}
   {\path{doi:10.1186/2047-9158-1-23}}.
 
+\bibitem{PMC10130226}
+Dani Dordevic, Jana Capikova, Simona Dordevic, Bohuslava Tremlov, Mri Gajdcs,
+  and Ivan Kushkevych.
+\newblock Sulfur content in foods and beverages and its role in human and
+  animal metabolism: A scoping review of recent studies.
+\newblock {\em Heliyon}, 04 2023.
+\newblock Available from:
+  \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC10130226/}, \href
+  {http://dx.doi.org/10.1016/j.heliyon.2023.e15452}
+  {\path{doi:10.1016/j.heliyon.2023.e15452}}.
+
 \bibitem{PMID26085547}
 Andrew Duncan, Calum Yacoubian, Neil Watson, and Ian Morrison.
 \newblock The risk of copper deficiency in patients prescribed zinc
@@ -609,6 +627,14 @@ C~K Fenger and C~W Kohn.
 \newblock {\em Journal of the American Veterinary Medical Association}, pages
   1698--700, Jun 1992.
 \newblock Available from: \url{https://pubmed.ncbi.nlm.nih.gov/1624350/}.
+
+\bibitem{Fields_Lewis_Lure_Garlic_extract_ameliorates_1992}
+M~Fields, C~G Lewis, and M~D Lure.
+\newblock Garlic oil extract ameliorates the severity of copper deficiency.
+\newblock {\em Journal of the American College of Nutrition}, 11, 06 1992.
+\newblock Available from: \url{https://doi.org/10.1080/07315724.1992.10718235},
+  \href {http://dx.doi.org/10.1080/07315724.1992.10718235}
+  {\path{doi:10.1080/07315724.1992.10718235}}.
 
 \bibitem{Fieten_HooijerNouwens_Biourge_Association_Dietary_Copper_2012}
 H.~Fieten, B.D. HooijerNouwens, V.C. Biourge, P.A.J. Leegwater, A.L. Watson,
@@ -1045,6 +1071,15 @@ Shujing Jin, Xun Qi, Bin Zhang, Ziqing Sun, Bingchun Zhang, Hui Yang, Tongmin
   {http://dx.doi.org/10.1038/s41598-017-17737-9}
   {\path{doi:10.1038/s41598-017-17737-9}}.
 
+\bibitem{Johnson1988}
+Mary~Ann Johnson and Cynthia~Lee Murphy.
+\newblock {\em Effect of High Dietary Iron and Ascorbic Acid on Copper and Iron
+  Utilization during Copper Deficiency}, pages 545--546.
+\newblock Springer US, Boston, MA, 1988.
+\newblock Available from: \url{https://doi.org/10.1007/978-1-4613-0723-5_194},
+  \href {http://dx.doi.org/10.1007/978-1-4613-0723-5_194}
+  {\path{doi:10.1007/978-1-4613-0723-5_194}}.
+
 \bibitem{ACamilli_Role_Copper_Efflux_2015}
 Michael D.~L. Johnson, Thomas~E. Kehl-Fie, Roger Klein, Jacqueline Kelly,
   Corinna Burnham, Beth Mann, and Jason~W. Rosch.
@@ -1127,12 +1162,30 @@ Yoon~Jae Kim, Jeong~Sang Lee, Kyung~Sook Hong, Jun~Won Chung, Ju~Hyun Kim, and
   {http://dx.doi.org/10.1158/1940-6207.capr-10-0033}
   {\path{doi:10.1158/1940-6207.capr-10-0033}}.
 
+\bibitem{Klevay_Metabolic_interactions_among_dietary_2010}
+Leslie~M. Klevay.
+\newblock Metabolic interactions among dietary cholesterol, copper, and
+  fructose.
+\newblock {\em American Journal of Physiology-Endocrinology and Metabolism},
+  298, 01 2010.
+\newblock Available from: \url{https://doi.org/10.1152/ajpendo.00591.2009},
+  \href {http://dx.doi.org/10.1152/ajpendo.00591.2009}
+  {\path{doi:10.1152/ajpendo.00591.2009}}.
+
 \bibitem{Klevay_contemporaneous_epidemic_2022}
 Leslie~M. Klevay.
 \newblock The contemporaneous epidemic of chronic, copper deficiency.
 \newblock {\em Journal of Nutritional Science}, 11, 2022.
 \newblock Available from: \url{http://dx.doi.org/10.1017/jns.2022.83}, \href
   {http://dx.doi.org/10.1017/jns.2022.83} {\path{doi:10.1017/jns.2022.83}}.
+
+\bibitem{Konjufca_Pesti_Bakalli_Modulation_cholesterol_levels_1997}
+VH~Konjufca, GM~Pesti, and RI~Bakalli.
+\newblock Modulation of cholesterol levels in broiler meat by dietary garlic
+  and copper.
+\newblock {\em Poultry Science}, 76, 09 1997.
+\newblock Available from: \url{https://doi.org/10.1093/ps/76.9.1264}, \href
+  {http://dx.doi.org/10.1093/ps/76.9.1264} {\path{doi:10.1093/ps/76.9.1264}}.
 
 \bibitem{Krol2020}
 Ewelina Kr{\'o}l, Monika Okulicz, and Justyna Kupsz.
@@ -1279,6 +1332,16 @@ Changsong Liu, Yanfen Liao, Zongyuan Zhu, Lili Yang, Qin Zhang, and Li~Li.
   \href {http://dx.doi.org/10.1186/s12872-021-01880-3}
   {\path{doi:10.1186/s12872-021-01880-3}}.
 
+\bibitem{PMID39728514}
+Huiruo Liu, Zeyu Yang, Hourong Sun, Zerui Wang, Feng Xu, Yuguo Chen, and
+  Chuanbao Li.
+\newblock Iron deficiency promotes intra-leaflet haemorrhage-induced aortic
+  valve calcification: an experimental study.
+\newblock {\em International journal of surgery (London, England)}, 12 2024.
+\newblock Available from: \url{https://pubmed.ncbi.nlm.nih.gov/39728514/},
+  \href {http://dx.doi.org/10.1097/JS9.0000000000002208}
+  {\path{doi:10.1097/JS9.0000000000002208}}.
+
 \bibitem{10.3389/fcell.2022.996307}
 Jiao Liu, Yang Liu, Yuan Wang, Rui Kang, and Daolin Tang.
 \newblock Hmgb1 is a mediator of cuproptosis-related sterile inflammation.
@@ -1364,6 +1427,14 @@ Didier Malamba-Lez, D\'{e}sire Tshala-Katumbay, Virginie Bito, Jean-Michel
 \newblock Available from: \url{http://dx.doi.org/10.3390/ijerph18094956}, \href
   {http://dx.doi.org/10.3390/ijerph18094956}
   {\path{doi:10.3390/ijerph18094956}}.
+
+\bibitem{Manceau_Matynia_nature_2010}
+Alain Manceau and Anthony Matynia.
+\newblock The nature of cu bonding to natural organic matter.
+\newblock {\em Geochimica et Cosmochimica Acta}, 74, 05 2010.
+\newblock Available from: \url{https://doi.org/10.1016/j.gca.2010.01.027},
+  \href {http://dx.doi.org/10.1016/j.gca.2010.01.027}
+  {\path{doi:10.1016/j.gca.2010.01.027}}.
 
 \bibitem{PMID39031369}
 Pravat~K Mandal, Joseph~C Maroon, Avantika Samkaria, Yashika Arora, Shallu
@@ -2310,6 +2381,16 @@ Huber TL, Laflamme DP, Medleau L, Comer KM, and Rakich PM.
 \newblock Comparison of procedures for assessing adequacy of dog foods.
 \newblock {\em Journal of the American Veterinary Medical Association}, 199.
 \newblock Available from: \url{http://europepmc.org/abstract/med/1659568}.
+
+\bibitem{PMC4428374}
+Restituto Tocmo, Dong Liang, Yi~Lin, and Dejian Huang.
+\newblock Chemical and biochemical mechanisms underlying the cardioprotective
+  roles of dietary organopolysulfides.
+\newblock {\em Frontiers in Nutrition}, 02 2015.
+\newblock Available from:
+  \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC4428374/}, \href
+  {http://dx.doi.org/10.3389/fnut.2015.00001}
+  {\path{doi:10.3389/fnut.2015.00001}}.
 
 \bibitem{Tuohy_Kaul_Song_Hypertrophic_cardiomyopathy_future_2020}
 C.~Vaughan Tuohy, Sanjiv Kaul, Howard~K. Song, Babak Nazer, and Stephen~B.
