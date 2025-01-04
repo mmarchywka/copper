@@ -6,7 +6,7 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=200001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
-Reallocated field_info (elt_size=4) to 13148 items from 5000.
+Reallocated field_info (elt_size=4) to 13316 items from 5000.
 Database file #1: copper.bib
 Warning--I'm ignoring Yu_Liou_Biggins_Copper_Deficiency_Liver_2019's extra "url" field
 --line 2846 of file copper.bib
@@ -16,8 +16,8 @@ Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Warning--entry type for "Schlesinger_King_Sole_Hydrometallurgical_Copper_Extraction_2011" isn't style-file defined
 --line 10885 of file copper.bib
 Warning--entry type for "PMC11042178" isn't style-file defined
---line 13118 of file copper.bib
-"}" immediately follows an entry type---line 13923 of file copper.bib
+--line 13710 of file copper.bib
+"}" immediately follows an entry type---line 14515 of file copper.bib
  : %CI = {(c) The Author(s) 2022. Published by Oxford University Press. All rights reserved.  For Permissions, please email: journals.permissions@oup.com.
  :                                                                                                                                                        },
 I'm skipping whatever remains of this entry
@@ -132,49 +132,51 @@ Warning--empty year in PMC10733163
 Warning--can't use both author and editor fields in Johnson1988
 Warning--empty year in Kim_Lee_Hong_Novel_Application_Proton_
 Warning--can't use both author and editor fields in Marcus2023
+Warning--empty year in Network_Supplements_
 Warning--empty year in Ray_Singh_Jena_Alkaline_Phosphatase_
+Warning--empty year in Sobel_Haigney_Kim_complexation_aqueous_
 Warning--empty year in HuberTLa
 Warning--empty year in Wang_Hydrogen_sulfide_microbiota_
 Warning--empty year in Yang_Noda_Kato_Elevated_Intestinal_Absorption_
-You've used 291 entries,
+You've used 297 entries,
             2760 wiz_defined-function locations,
-            2898 strings with 149660 characters,
-and the built_in function-call counts, 159067 in all, are:
-= -- 16993
-> -- 9082
-< -- 64
-+ -- 3621
-- -- 3293
-* -- 12186
-:= -- 24796
-add.period$ -- 1174
-call.type$ -- 291
-change.case$ -- 2515
+            2941 strings with 152535 characters,
+and the built_in function-call counts, 161822 in all, are:
+= -- 17298
+> -- 9204
+< -- 65
++ -- 3670
+- -- 3335
+* -- 12374
+:= -- 25215
+add.period$ -- 1198
+call.type$ -- 297
+change.case$ -- 2554
 chr.to.int$ -- 0
-cite$ -- 300
-duplicate$ -- 4101
-empty$ -- 11261
-format.name$ -- 3293
-if$ -- 37392
+cite$ -- 308
+duplicate$ -- 4183
+empty$ -- 11480
+format.name$ -- 3335
+if$ -- 38063
 int.to.chr$ -- 0
-int.to.str$ -- 291
-missing$ -- 281
-newline$ -- 1758
-num.names$ -- 584
-pop$ -- 3054
+int.to.str$ -- 297
+missing$ -- 287
+newline$ -- 1794
+num.names$ -- 596
+pop$ -- 3108
 preamble$ -- 1
-purify$ -- 2227
+purify$ -- 2260
 quote$ -- 0
-skip$ -- 9189
+skip$ -- 9372
 stack$ -- 0
-substring$ -- 3687
-swap$ -- 1336
-text.length$ -- 64
+substring$ -- 3743
+swap$ -- 1361
+text.length$ -- 65
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1158
-warning$ -- 9
-while$ -- 739
-width$ -- 294
-write$ -- 4033
+type$ -- 1182
+warning$ -- 11
+while$ -- 753
+width$ -- 300
+write$ -- 4113
 (There were 26 error messages)
