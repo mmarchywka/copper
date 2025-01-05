@@ -6,7 +6,7 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=200001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
-Reallocated field_info (elt_size=4) to 13316 items from 5000.
+Reallocated field_info (elt_size=4) to 13400 items from 5000.
 Database file #1: copper.bib
 Warning--I'm ignoring Yu_Liou_Biggins_Copper_Deficiency_Liver_2019's extra "url" field
 --line 2846 of file copper.bib
@@ -138,45 +138,45 @@ Warning--empty year in Sobel_Haigney_Kim_complexation_aqueous_
 Warning--empty year in HuberTLa
 Warning--empty year in Wang_Hydrogen_sulfide_microbiota_
 Warning--empty year in Yang_Noda_Kato_Elevated_Intestinal_Absorption_
-You've used 297 entries,
+You've used 300 entries,
             2760 wiz_defined-function locations,
-            2941 strings with 152535 characters,
-and the built_in function-call counts, 161822 in all, are:
-= -- 17298
-> -- 9204
-< -- 65
-+ -- 3670
-- -- 3335
-* -- 12374
-:= -- 25215
-add.period$ -- 1198
-call.type$ -- 297
-change.case$ -- 2554
+            2962 strings with 155820 characters,
+and the built_in function-call counts, 163544 in all, are:
+= -- 17482
+> -- 9298
+< -- 66
++ -- 3707
+- -- 3369
+* -- 12503
+:= -- 25474
+add.period$ -- 1210
+call.type$ -- 300
+change.case$ -- 2580
 chr.to.int$ -- 0
-cite$ -- 308
-duplicate$ -- 4183
-empty$ -- 11480
-format.name$ -- 3335
-if$ -- 38063
+cite$ -- 311
+duplicate$ -- 4233
+empty$ -- 11601
+format.name$ -- 3369
+if$ -- 38472
 int.to.chr$ -- 0
-int.to.str$ -- 297
-missing$ -- 287
-newline$ -- 1794
-num.names$ -- 596
-pop$ -- 3108
+int.to.str$ -- 300
+missing$ -- 290
+newline$ -- 1812
+num.names$ -- 602
+pop$ -- 3143
 preamble$ -- 1
-purify$ -- 2260
+purify$ -- 2283
 quote$ -- 0
-skip$ -- 9372
+skip$ -- 9474
 stack$ -- 0
-substring$ -- 3743
-swap$ -- 1361
-text.length$ -- 65
+substring$ -- 3793
+swap$ -- 1383
+text.length$ -- 66
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1182
+type$ -- 1194
 warning$ -- 11
-while$ -- 753
-width$ -- 300
-write$ -- 4113
+while$ -- 761
+width$ -- 303
+write$ -- 4153
 (There were 26 error messages)

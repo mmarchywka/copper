@@ -1570,6 +1570,17 @@ B~Marelli, Nihouannen~D Le, SA~Hacking, S~Tran, J~Li, M~Murshed, CJ~Doillon,
 \newblock Available from:
   \url{http://www.ncbi.nlm.nih.gov/pubmed/articles/25907046/}.
 
+\bibitem{PMC3689948}
+Edward~B. Maryon, Shannon~A. Molloy, Kristin Ivy, Huijun Yu, and Jack~H.
+  Kaplan.
+\newblock Rate and regulation of copper transport by human copper transporter 1
+  (hctr1)*.
+\newblock {\em The Journal of Biological Chemistry}, pages 18035--46, 05 2013.
+\newblock Available from:
+  \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC3689948/}, \href
+  {http://dx.doi.org/10.1074/jbc.M112.442426}
+  {\path{doi:10.1074/jbc.M112.442426}}.
+
 \bibitem{Masaldan_Clatworthy_Gamell_Copper_accumulation_senescent_2018}
 Shashank Masaldan, Sharnel~A.S. Clatworthy, Cristina Gamell, Zoe~M. Smith,
   Paul~S. Francis, Delphine Denoyer, Peter~M. Meggyesy, Sharon~La Fontaine, and
@@ -2044,6 +2055,16 @@ KELLY~R. ROBBINS and DAVID~H. BAKER.
 \newblock Available from: \url{http://dx.doi.org/10.3382/ps.0591099}, \href
   {http://dx.doi.org/10.3382/ps.0591099} {\path{doi:10.3382/ps.0591099}}.
 
+\bibitem{PMC8308383}
+Mariangela Rondanelli, Milena~Anna Faliva, Vittoria Infantino, Clara Gasparri,
+  Giancarlo Iannello, Simone Perna, Antonella Riva, Giovanna Petrangolini,
+  Alice Tartara, and Gabriella Peroni.
+\newblock Copper as dietary supplement for bone metabolism: A review.
+\newblock {\em Nutrients}, 06 2021.
+\newblock Available from:
+  \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC8308383/}, \href
+  {http://dx.doi.org/10.3390/nu13072246} {\path{doi:10.3390/nu13072246}}.
+
 \bibitem{Rossi1998}
 Luisa Rossi, Giovanna Lippe, Eliana Marchese, Angelo De~Martino, Irene Mavelli,
   Giuseppe Rotilio, and Maria~R. Ciriolo.
@@ -2221,6 +2242,16 @@ CA~Sinkler, H~Kalpage, J~Shay, I~Lee, MH~Malek, LI~Grossman, and M~Hüttemann.
 \newblock {\em Oxidative Medicine and Cellular Longevity}, 2017, 2017.
 \newblock Available from:
   \url{http://www.ncbi.nlm.nih.gov/pmc/articles/PMC5448071/}.
+
+\bibitem{PMC8633580}
+Daniel~G.J. Smethurst and Natalia Shcherbik.
+\newblock Interchangeable utilization of metals: New perspectives on the
+  impacts of metal ions employed in ancient and extant biomolecules.
+\newblock {\em The Journal of Biological Chemistry}, 10 2021.
+\newblock Available from:
+  \url{https://pmc.ncbi.nlm.nih.gov/articles/PMC8633580/}, \href
+  {http://dx.doi.org/10.1016/j.jbc.2021.101374}
+  {\path{doi:10.1016/j.jbc.2021.101374}}.
 
 \bibitem{PMID9524359}
 L~I Smith-Mungo and H~M Kagan.
