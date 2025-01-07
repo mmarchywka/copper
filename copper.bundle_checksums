@@ -1,20 +1,20 @@
 322861 May 23 2020 ../casesum/casesum.bib e3f31502ec3535aa4116c6682917678b
-6114 Jan 5 18:48 comment.cut 0f687b778a8be913a4dbbe626914dbe0
-49888 Jan 5 18:48 copper.aux 966f69cc32a2c9d9f0a87968975e50d2
-143557 Jan 5 18:48 copper.bbl 02385d84443a927a43a221b4d6c49a86
-1183344 Jan 5 18:48 copper.bib d74750e4dd3b789dd729f504876a4005
-6817 Jan 5 18:48 copper.blg dcaff8dcb274b83df1bb6cd05b2ca871
-0 Jan 5 18:48 copper.bundle_checksums d41d8cd98f00b204e9800998ecf8427e
+7283 Jan 7 18:54 comment.cut 06fe1c349b22e5f7d325b5acc0de759e
+50083 Jan 7 18:54 copper.aux c1312b0ae7847e1a79ae9a1b70cc726e
+143557 Jan 7 18:54 copper.bbl 02385d84443a927a43a221b4d6c49a86
+1183344 Jan 7 18:53 copper.bib 60cad0870c4866dc15a793a78e994ca9
+6817 Jan 7 18:54 copper.blg dcaff8dcb274b83df1bb6cd05b2ca871
+0 Jan 7 18:56 copper.bundle_checksums d41d8cd98f00b204e9800998ecf8427e
 2391 Jan 3 19:04 copper_doit_best.tex bf2fec4a83021f78d618198badbcee0a
-34132 Jan 5 18:48 copper.fls 1a02d2027e65fe95adbc46495d9bf4c2
+34225 Jan 7 18:54 copper.fls 70d1444f98af9d618f00ce44184be621
 12530 Dec 31 11:17 copper_food_chem.tex 47a15ff67b5ffda614c591e2b7660fa4
 2928 Dec 31 16:52 copper_gralic_chem.tex e49f9ba2e4547ed47b37f5d48c5706fd
-3 Jan 5 18:48 copper.last_page 6ae2481905403d48e262774919e04927
-63322 Jan 5 18:48 copper.log 15907b8ad3fb2d9f3f95d8919b62c20d
-11014 Jan 5 18:48 copper.out 054227e9e4c79e2d40d6710595c7317b
-4818194 Jan 5 18:48 copper.pdf 92b331758624c02526337df7de066b23
-157161 Jan 5 17:35 copper.tex a01223f694d3061f77b05f68588b7b45
-4891 Jan 5 18:48 copper.toc acdb43417c60c988fde799e1dbc24cf6
+3 Jan 7 18:54 copper.last_page ecf27a776cdfc771defab1c5d19de9ab
+63639 Jan 7 18:54 copper.log 760bf24de34340a000dbdbeb381a8a56
+11014 Jan 7 18:54 copper.out 054227e9e4c79e2d40d6710595c7317b
+4892931 Jan 7 18:54 copper.pdf 4d421393a3d1ce416f5069bd943ce2da
+158891 Jan 7 12:05 copper.tex 5eac1ce03ddfef0010be9858382a8511
+4891 Jan 7 18:54 copper.toc 6ddd6a3d8d387432ea597aa19b7a05fe
 46541 Aug 4 07:09 /home/documents/latex/bib/mjm_tr.bib fd19ef3f7d7042a135e45769b705efff
 46905 Oct 31 2023 /home/documents/latex/bib/releases.bib 6312c37f3f52915692464bb77750d464
 7331 Jan 24 2019 /home/documents/latex/pkg/fltpage.sty 73b3a2493ca297ef0d59d6c1b921684b
@@ -52,6 +52,7 @@
 519764 Aug 22 04:39 keep/dexter2020.jpg 510b394d135191799e0826513f7649fa
 59085 Aug 20 12:51 keep/dexter2_cu.jpg b59da700d050ccc534242f60318e47ed
 130311 Apr 14 2024 keep/happy2seeyou.jpg 1bf34e471e34d5924ec77a056c39755f
+73312 Jan 5 19:26 keep/happy_citrate.jpg 20d625ecffb85868809a016c7d070fd2
 383062 May 9 2024 keep/happycu.jpeg ab19483a1a380bc1885b66653308bbda
 71379 Oct 20 14:36 keep/happy_early.jpg acada03e8f385b1934633577f7693573
 80244 Aug 21 09:16 keep/happy_misc.jpg 842bbadc85cdfef78496fe1999d20370
@@ -72,4 +73,4 @@
 343782 May 9 2024 sbenzbib.bib 19b330e7dcd1259065d1957d6a3c5ba2
 15 May 20 2023 /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map -> pdftex_dl14.map f177baa1c39a3ebd62c3096a43521a0d
 2639651 Mar 16 2024 /var/lib/texmf/web2c/luatex/lualatex.fmt dc6e497e977effcd6b888a0f2c9952dc
-4818194 Jan 5 18:48 copper.pdf 92b331758624c02526337df7de066b23
+4892931 Jan 7 18:54 copper.pdf 4d421393a3d1ce416f5069bd943ce2da
