@@ -6,7 +6,7 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=200001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
-Reallocated field_info (elt_size=4) to 13708 items from 5000.
+Reallocated field_info (elt_size=4) to 13848 items from 5000.
 Database file #1: copper.bib
 Warning--I'm ignoring Yu_Liou_Biggins_Copper_Deficiency_Liver_2019's extra "url" field
 --line 2846 of file copper.bib
@@ -16,8 +16,8 @@ Reallocated str_pool (elt_size=1) to 130000 items from 65000.
 Warning--entry type for "Schlesinger_King_Sole_Hydrometallurgical_Copper_Extraction_2011" isn't style-file defined
 --line 10885 of file copper.bib
 Warning--entry type for "PMC11042178" isn't style-file defined
---line 14499 of file copper.bib
-"}" immediately follows an entry type---line 15304 of file copper.bib
+--line 14741 of file copper.bib
+"}" immediately follows an entry type---line 15546 of file copper.bib
  : %CI = {(c) The Author(s) 2022. Published by Oxford University Press. All rights reserved.  For Permissions, please email: journals.permissions@oup.com.
  :                                                                                                                                                        },
 I'm skipping whatever remains of this entry
@@ -138,45 +138,45 @@ Warning--empty year in Sobel_Haigney_Kim_complexation_aqueous_
 Warning--empty year in HuberTLa
 Warning--empty year in Wang_Hydrogen_sulfide_microbiota_
 Warning--empty year in Yang_Noda_Kato_Elevated_Intestinal_Absorption_
-You've used 311 entries,
+You've used 316 entries,
             2760 wiz_defined-function locations,
-            3038 strings with 159608 characters,
-and the built_in function-call counts, 168555 in all, are:
-= -- 18045
-> -- 9535
+            3072 strings with 161382 characters,
+and the built_in function-call counts, 170994 in all, are:
+= -- 18315
+> -- 9660
 < -- 66
-+ -- 3800
-- -- 3451
-* -- 12873
-:= -- 26255
-add.period$ -- 1254
-call.type$ -- 311
-change.case$ -- 2654
++ -- 3849
+- -- 3495
+* -- 13061
+:= -- 26636
+add.period$ -- 1274
+call.type$ -- 316
+change.case$ -- 2691
 chr.to.int$ -- 0
-cite$ -- 322
-duplicate$ -- 4366
-empty$ -- 11994
-format.name$ -- 3451
-if$ -- 39680
+cite$ -- 327
+duplicate$ -- 4427
+empty$ -- 12179
+format.name$ -- 3495
+if$ -- 40259
 int.to.chr$ -- 0
-int.to.str$ -- 311
-missing$ -- 301
-newline$ -- 1878
-num.names$ -- 624
-pop$ -- 3228
+int.to.str$ -- 316
+missing$ -- 306
+newline$ -- 1908
+num.names$ -- 634
+pop$ -- 3270
 preamble$ -- 1
-purify$ -- 2346
+purify$ -- 2378
 quote$ -- 0
-skip$ -- 9805
+skip$ -- 9955
 stack$ -- 0
-substring$ -- 3867
-swap$ -- 1416
+substring$ -- 3917
+swap$ -- 1431
 text.length$ -- 66
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1238
+type$ -- 1258
 warning$ -- 11
-while$ -- 785
-width$ -- 314
-write$ -- 4307
+while$ -- 797
+width$ -- 319
+write$ -- 4377
 (There were 26 error messages)

@@ -139,6 +139,18 @@ M.H.H. Awaad, K.~M.El. Moustafa, S.A. Zoulfakar, M.S. Elhalawany, F.F.
   \href {http://dx.doi.org/10.1016/j.japr.2021.100155}
   {\path{doi:10.1016/j.japr.2021.100155}}.
 
+\bibitem{Azadmanesh_Slobodnik_Struble_Revealing_atomic_2024}
+Jahaun Azadmanesh, Katelyn Slobodnik, Lucas~R. Struble, William~E. Lutz,
+  Leighton Coates, Kevin~L. Weiss, Dean~A. Myles, Thomas Kroll, and Gloria~O.
+  Borgstahl.
+\newblock Revealing the atomic and electronic mechanism of human manganese
+  superoxide dismutase product inhibition.
+\newblock {\em Nature Communications}, 15, 07 2024.
+\newblock Available from:
+  \url{https://www.nature.com/articles/s41467-024-50260-w}, \href
+  {http://dx.doi.org/10.1038/s41467-024-50260-w}
+  {\path{doi:10.1038/s41467-024-50260-w}}.
+
 \bibitem{Babak_Ahn_Modulation_Intracellular_Copper_2021}
 Maria~V. Babak and Dohyun Ahn.
 \newblock Modulation of intracellular copper levels as the mechanism of action
@@ -547,6 +559,15 @@ Andrew Duncan, Calum Yacoubian, Neil Watson, and Ian Morrison.
 \newblock Available from: \url{https://pubmed.ncbi.nlm.nih.gov/26085547/},
   \href {http://dx.doi.org/10.1136/jclinpath-2014-202837}
   {\path{doi:10.1136/jclinpath-2014-202837}}.
+
+\bibitem{Einhorn_Haase_Maares_Interaction_competition_2024}
+Vincent Einhorn, Hajo Haase, and Maria Maares.
+\newblock Interaction and competition for intestinal absorption by zinc, iron,
+  copper, and manganese at the intestinal mucus layer.
+\newblock {\em Journal of Trace Elements in Medicine and Biology}, 84, 07 2024.
+\newblock Available from: \url{https://doi.org/10.1016/j.jtemb.2024.127459},
+  \href {http://dx.doi.org/10.1016/j.jtemb.2024.127459}
+  {\path{doi:10.1016/j.jtemb.2024.127459}}.
 
 \bibitem{Espinosa_Stein_Digestibility_metabolism_2021}
 Charmaine~D. Espinosa and Hans~H. Stein.
@@ -1264,6 +1285,17 @@ Erik Ladomersky and Michael~J Petris.
   {\path{arXiv:https://academic.oup.com/metallomics/article-pdf/7/6/957/34785053/c4mt00327f.pdf}},
   \href {http://dx.doi.org/10.1039/c4mt00327f} {\path{doi:10.1039/c4mt00327f}}.
 
+\bibitem{Law_Bertolo_AdjiriAwere_Adequate_oral_threonine_2007}
+Garson~K. Law, Robert~F. Bertolo, Alfred Adjiri-Awere, Paul~B. Pencharz, and
+  Ronald~O. Ball.
+\newblock Adequate oral threonine is critical for mucin production and gut
+  function in neonatal piglets.
+\newblock {\em American Journal of Physiology-Gastrointestinal and Liver
+  Physiology}, 292, 05 2007.
+\newblock Available from: \url{https://doi.org/10.1152/ajpgi.00221.2006}, \href
+  {http://dx.doi.org/10.1152/ajpgi.00221.2006}
+  {\path{doi:10.1152/ajpgi.00221.2006}}.
+
 \bibitem{Lear_Padfield_Hesse_Copper_reduces_virulence_2023}
 Luke Lear, Dan Padfield, Elze Hesse, Suzanne Kay, Angus Buckling, and Michiel
   Vos.
@@ -1699,6 +1731,16 @@ D.~M. Medeiros, J.~Davidson, and J.~E. Jenkins.
   \href {http://dx.doi.org/10.3181/00379727-203-43599}
   {\path{doi:10.3181/00379727-203-43599}}.
 
+\bibitem{Medeiros2002}
+Denis~M. Medeiros and Dianne Jennings.
+\newblock Role of copper in mitochondrial biogenesis via interaction with atp
+  synthase and cytochrome c oxidase.
+\newblock {\em Journal of Bioenergetics and Biomembranes}, 34(5):389--395, Oct
+  2002.
+\newblock Available from: \url{https://doi.org/10.1023/A:1021206220851}, \href
+  {http://dx.doi.org/10.1023/A:1021206220851}
+  {\path{doi:10.1023/A:1021206220851}}.
+
 \bibitem{PMID12539966}
 Denis~M Medeiros and Dianne Jennings.
 \newblock Role of copper in mitochondrial biogenesis via interaction with atp
@@ -1719,6 +1761,16 @@ Raktham Mektrirat, Thareerat Rueangsri, Waraporn Keeratichandacha, Sasiwimon
   \url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9330478/}, \href
   {http://dx.doi.org/10.3389/fvets.2022.880952}
   {\path{doi:10.3389/fvets.2022.880952}}.
+
+\bibitem{10.3389/fnmol.2024.1408159}
+Jin-Hong Min, Heela Sarlus, and Robert~A. Harris.
+\newblock Copper toxicity and deficiency: the vicious cycle at the core of
+  protein aggregation in als.
+\newblock {\em Frontiers in Molecular Neuroscience}, 17, 2024.
+\newblock Available from:
+  \url{https://www.frontiersin.org/journals/molecular-neuroscience/articles/10.3389/fnmol.2024.1408159},
+  \href {http://dx.doi.org/10.3389/fnmol.2024.1408159}
+  {\path{doi:10.3389/fnmol.2024.1408159}}.
 
 \bibitem{PMC11480022}
 Jin-Hong Min, Heela Sarlus, and Robert~A Harris.
