@@ -5546,3 +5546,41 @@ toobib-date={2025-02-08:14:42:48 Sat 08 Feb 2025 02:42:48 PM EST}
 }
 
 
+% mjmhandler: toobib guesspmc
+% date 2025-02-10:13:55:04 Mon 10 Feb 2025 01:55:04 PM EST
+% srcurl: https://pmc.ncbi.nlm.nih.gov/articles/PMC5512679/
+% citeurl: eutilsnew -out "/tmp/fileGHEiXw.outguesses" -v -db pmc -report medline PMC5512679
+
+%DP = {2017 Apr-Jun},
+%LA = {eng},
+%PT = {Journal Article},
+%SO = {Methodist Debakey Cardiovasc J. 2017 Apr-Jun;13(2):55-9. doi:10.14797/mdcj-13-2-55.},
+%TA = {Methodist Debakey Cardiovasc J}
+@article{PMC5512679,
+X_TooBib = {urldate: FixBeKvp s= cmd=date "+%Y-%m-%d" d=2025-02-10 dn=urldate},
+X_TooBib = {publisher: ReWriteParse be.get(s)= be.get(dest)=},
+X_TooBib = {author: Udovcic , Maja and Pena , Raul Herrera and Patham , Bhargavi and Tabatabai , Laila and Kansara , Abhishek},
+abstract = {Hypothyroidism is a commonly encountered clinical condition with variable prevalence. It has profound effects on cardiac function that can impact cardiac contractility, vascular resistance, blood pressure, and heart rhythm. With this review, we aim to describe the effects of hypothyroidism and subclinical hypothyroidism on the heart. Additionally, we attempt to briefly describe how hypothyroid treatment affects cardiovascular parameters.},
+address = {Houston Methodist Hospital, Houston, TexasHouston Methodist Hospital, Houston, TexasHouston Methodist Hospital, Houston, TexasHouston Methodist Hospital, Houston, TexasHouston Methodist Hospital, Houston, Texas},
+author = {Udovcic , Maja and Pena , Raul Herrera and Patham , Bhargavi and Tabatabai , Laila and Kansara , Abhishek},
+author_orig = {Udovcic, Maja and Pena, Raul Herrera and Patham, Bhargavi and Tabatabai, Laila and Kansara, Abhishek},
+doi = {10.14797/mdcj-13-2-55},
+issue = {1947-6094 (Print)1947-6108 (Electronic)2},
+journal = {Methodist DeBakey Cardiovascular Journal},
+month = {Apr-Jun},
+pages = {55-9},
+pubtype = {Journal Article},
+title = {Hypothyroidism and the Heart.},
+url = {https://pmc.ncbi.nlm.nih.gov/articles/PMC5512679/},
+urldate = {2025-02-10},
+voiume = {13},
+year = {2017},
+final_assembly ={ TooBib handler guesspmc},
+srcurl={https://pmc.ncbi.nlm.nih.gov/articles/PMC5512679/},
+xsrcurl={https://pmc.ncbi.nlm.nih.gov/articles/PMC5512679/},
+citeurl={eutilsnew},
+toobib-date={2025-02-10:13:55:04 Mon 10 Feb 2025 01:55:04 PM EST}
+
+}
+
+

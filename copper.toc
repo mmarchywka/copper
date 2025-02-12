@@ -49,13 +49,13 @@
 \contentsline {subsection}{\numberline {8.1}Computer Code}{39}{section*.47}%
 \contentsline {section}{\numberline {9}Bibliography}{39}{section*.48}%
 \contentsline {section}{\numberline {}References}{39}{section*.49}%
-\contentsline {section}{\numberline {}Acknowledgments}{58}{section*.50}%
+\contentsline {section}{\numberline {}Acknowledgments}{59}{section*.50}%
 \appendix 
-\contentsline {section}{\numberline {A} Statement of Conflicts }{59}{section*.51}%
-\contentsline {section}{\numberline {B}About the Authors and Facility}{59}{section*.52}%
-\contentsline {section}{\numberline {C}Some Common Logical Fallacies and Misdirections}{59}{section*.53}%
-\contentsline {section}{\numberline {D}Background Diet Sumnary}{61}{section*.54}%
-\contentsline {section}{\numberline {E}Notable Food Components with Copper Interactions}{65}{section*.55}%
-\contentsline {section}{\numberline {F}Symbols, Abbreviations and Colloquialisms}{65}{section*.56}%
-\contentsline {section}{\numberline {G}General caveats and disclaimer }{65}{section*.57}%
-\contentsline {section}{\numberline {H}Citing this as a tech report or white paper }{65}{section*.58}%
+\contentsline {section}{\numberline {A} Statement of Conflicts }{60}{section*.51}%
+\contentsline {section}{\numberline {B}About the Authors and Facility}{60}{section*.52}%
+\contentsline {section}{\numberline {C}Some Common Logical Fallacies and Misdirections}{60}{section*.53}%
+\contentsline {section}{\numberline {D}Background Diet Sumnary}{62}{section*.54}%
+\contentsline {section}{\numberline {E}Notable Food Components with Copper Interactions}{66}{section*.55}%
+\contentsline {section}{\numberline {F}Symbols, Abbreviations and Colloquialisms}{66}{section*.56}%
+\contentsline {section}{\numberline {G}General caveats and disclaimer }{66}{section*.57}%
+\contentsline {section}{\numberline {H}Citing this as a tech report or white paper }{66}{section*.58}%
