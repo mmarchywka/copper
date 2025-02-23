@@ -6,7 +6,7 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=200001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
-Reallocated field_info (elt_size=4) to 15612 items from 5000.
+Reallocated field_info (elt_size=4) to 15976 items from 5000.
 Database file #1: copper.bib
 Warning--I'm ignoring Yu_Liou_Biggins_Copper_Deficiency_Liver_2019's extra "url" field
 --line 2846 of file copper.bib
@@ -16,9 +16,9 @@ Warning--I'm ignoring Fatahi_Hoseini_2013's extra "url" field
 Warning--entry type for "Schlesinger_King_Sole_Hydrometallurgical_Copper_Extraction_2011" isn't style-file defined
 --line 10886 of file copper.bib
 Warning--entry type for "PMC11042178" isn't style-file defined
---line 17836 of file copper.bib
+--line 18654 of file copper.bib
 Reallocated str_pool (elt_size=1) to 195000 items from 130000.
-"}" immediately follows an entry type---line 18641 of file copper.bib
+"}" immediately follows an entry type---line 19459 of file copper.bib
  : %CI = {(c) The Author(s) 2022. Published by Oxford University Press. All rights reserved.  For Permissions, please email: journals.permissions@oup.com.
  :                                                                                                                                                        },
 I'm skipping whatever remains of this entry
@@ -34,6 +34,7 @@ Repeated entry---line 9093 of file potusebib.bib
  :                      ,
 I'm skipping whatever remains of this entry
 Database file #5: ../casesum/casesum.bib
+Reallocated str_pool (elt_size=1) to 260000 items from 195000.
 Repeated entry---line 3523 of file ../casesum/casesum.bib
  :  @article{PMC4542191
  :                     ,
@@ -138,45 +139,45 @@ Warning--empty year in Sobel_Haigney_Kim_complexation_aqueous_
 Warning--empty year in HuberTLa
 Warning--empty year in Wang_Hydrogen_sulfide_microbiota_
 Warning--empty year in Yang_Noda_Kato_Elevated_Intestinal_Absorption_
-You've used 379 entries,
+You've used 392 entries,
             2760 wiz_defined-function locations,
-            3526 strings with 191012 characters,
-and the built_in function-call counts, 203550 in all, are:
-= -- 21819
-> -- 11499
-< -- 73
-+ -- 4581
-- -- 4157
-* -- 15571
-:= -- 31748
-add.period$ -- 1526
-call.type$ -- 379
-change.case$ -- 3211
+            3622 strings with 196984 characters,
+and the built_in function-call counts, 210872 in all, are:
+= -- 22577
+> -- 11998
+< -- 74
++ -- 4778
+- -- 4341
+* -- 16173
+:= -- 32930
+add.period$ -- 1578
+call.type$ -- 392
+change.case$ -- 3342
 chr.to.int$ -- 0
-cite$ -- 390
-duplicate$ -- 5256
-empty$ -- 14504
-format.name$ -- 4157
-if$ -- 47917
+cite$ -- 403
+duplicate$ -- 5426
+empty$ -- 14967
+format.name$ -- 4341
+if$ -- 49586
 int.to.chr$ -- 0
-int.to.str$ -- 379
-missing$ -- 369
-newline$ -- 2286
-num.names$ -- 760
-pop$ -- 3885
+int.to.str$ -- 392
+missing$ -- 382
+newline$ -- 2364
+num.names$ -- 786
+pop$ -- 4034
 preamble$ -- 1
-purify$ -- 2835
+purify$ -- 2953
 quote$ -- 0
-skip$ -- 11899
+skip$ -- 12303
 stack$ -- 0
-substring$ -- 4501
-swap$ -- 1679
-text.length$ -- 73
+substring$ -- 4578
+swap$ -- 1731
+text.length$ -- 74
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1510
+type$ -- 1562
 warning$ -- 11
-while$ -- 943
-width$ -- 382
-write$ -- 5249
+while$ -- 970
+width$ -- 395
+write$ -- 5430
 (There were 26 error messages)
