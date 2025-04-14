@@ -385,7 +385,6 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
 INPUT /home/marchywka/.texlive2019/texmf-var/luatex-cache/generic-dev/fonts/otl/lmroman10-bold.luc
 INPUT /home/marchywka/.texlive2019/texmf-var/luatex-cache/generic-dev/fonts/otl/lmroman9-regular.luc
-INPUT /home/marchywka/.texlive2019/texmf-var/luatex-cache/generic-dev/fonts/otl/lmroman9-bold.luc
 INPUT /home/marchywka/.texlive2019/texmf-var/luatex-cache/generic-dev/fonts/otl/lmroman12-regular.luc
 INPUT /home/marchywka/.texlive2019/texmf-var/luatex-cache/generic-dev/fonts/otl/lmroman12-bold.luc
 INPUT /home/marchywka/.texlive2019/texmf-var/luatex-cache/generic-dev/fonts/otl/lmroman7-regular.luc
@@ -415,6 +414,7 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy8.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm
 INPUT /home/marchywka/.texlive2019/texmf-var/luatex-cache/generic-dev/fonts/otl/lmroman6-regular.luc
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
+INPUT /home/marchywka/.texlive2019/texmf-var/luatex-cache/generic-dev/fonts/otl/lmroman9-bold.luc
 INPUT ./copper.toc
 INPUT ./copper.toc
 OUTPUT copper.toc
@@ -450,6 +450,8 @@ INPUT ./keep/browniepic.jpeg
 INPUT ./keep/dexter2020.jpg
 INPUT ./keep/dexter2020.jpg
 INPUT ./keep/dexter2020.jpg
+INPUT ./muqed_caveats.tex
+INPUT ./muqed_caveats.tex
 INPUT ./keep/dexter2_cu.jpg
 INPUT ./keep/dexter2_cu.jpg
 INPUT ./keep/dexter2_cu.jpg
