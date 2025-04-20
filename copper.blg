@@ -6,7 +6,7 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=200001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
-Reallocated field_info (elt_size=4) to 16144 items from 5000.
+Reallocated field_info (elt_size=4) to 16256 items from 5000.
 Database file #1: copper.bib
 Warning--I'm ignoring Yu_Liou_Biggins_Copper_Deficiency_Liver_2019's extra "url" field
 --line 2846 of file copper.bib
@@ -16,14 +16,15 @@ Warning--I'm ignoring Fatahi_Hoseini_2013's extra "url" field
 Warning--entry type for "Schlesinger_King_Sole_Hydrometallurgical_Copper_Extraction_2011" isn't style-file defined
 --line 10886 of file copper.bib
 Warning--entry type for "PMC11042178" isn't style-file defined
---line 18983 of file copper.bib
+--line 19116 of file copper.bib
 Reallocated str_pool (elt_size=1) to 195000 items from 130000.
-"}" immediately follows an entry type---line 19788 of file copper.bib
+"}" immediately follows an entry type---line 19921 of file copper.bib
  : %CI = {(c) The Author(s) 2022. Published by Oxford University Press. All rights reserved.  For Permissions, please email: journals.permissions@oup.com.
  :                                                                                                                                                        },
 I'm skipping whatever remains of this entry
 Database file #2: mjm_tr.bib
 Database file #3: releases.bib
+Reallocated str_pool (elt_size=1) to 260000 items from 195000.
 Database file #4: potusebib.bib
 Repeated entry---line 7042 of file potusebib.bib
  : @article{PMID11801334
@@ -34,7 +35,6 @@ Repeated entry---line 9093 of file potusebib.bib
  :                      ,
 I'm skipping whatever remains of this entry
 Database file #5: ../casesum/casesum.bib
-Reallocated str_pool (elt_size=1) to 260000 items from 195000.
 Repeated entry---line 3523 of file ../casesum/casesum.bib
  :  @article{PMC4542191
  :                     ,
@@ -139,45 +139,45 @@ Warning--empty year in Sobel_Haigney_Kim_complexation_aqueous_
 Warning--empty year in HuberTLa
 Warning--empty year in Wang_Hydrogen_sulfide_microbiota_
 Warning--empty year in Yang_Noda_Kato_Elevated_Intestinal_Absorption_
-You've used 398 entries,
+You've used 402 entries,
             2760 wiz_defined-function locations,
-            3665 strings with 199940 characters,
-and the built_in function-call counts, 213813 in all, are:
-= -- 22891
-> -- 12171
-< -- 74
-+ -- 4847
-- -- 4403
-* -- 16402
-:= -- 33400
-add.period$ -- 1602
-call.type$ -- 398
-change.case$ -- 3391
+            3696 strings with 202284 characters,
+and the built_in function-call counts, 216113 in all, are:
+= -- 23138
+> -- 12293
+< -- 76
++ -- 4895
+- -- 4447
+* -- 16568
+:= -- 33746
+add.period$ -- 1618
+call.type$ -- 402
+change.case$ -- 3425
 chr.to.int$ -- 0
-cite$ -- 409
-duplicate$ -- 5498
-empty$ -- 15175
-format.name$ -- 4403
-if$ -- 50273
+cite$ -- 413
+duplicate$ -- 5566
+empty$ -- 15340
+format.name$ -- 4447
+if$ -- 50825
 int.to.chr$ -- 0
-int.to.str$ -- 398
-missing$ -- 388
-newline$ -- 2400
-num.names$ -- 798
-pop$ -- 4093
+int.to.str$ -- 402
+missing$ -- 392
+newline$ -- 2424
+num.names$ -- 806
+pop$ -- 4138
 preamble$ -- 1
-purify$ -- 2996
+purify$ -- 3026
 quote$ -- 0
-skip$ -- 12478
+skip$ -- 12615
 stack$ -- 0
-substring$ -- 4609
-swap$ -- 1749
-text.length$ -- 74
+substring$ -- 4679
+swap$ -- 1777
+text.length$ -- 76
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 1586
+type$ -- 1602
 warning$ -- 11
-while$ -- 982
-width$ -- 401
-write$ -- 5512
+while$ -- 994
+width$ -- 405
+write$ -- 5566
 (There were 26 error messages)
