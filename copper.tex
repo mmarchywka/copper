@@ -14,7 +14,7 @@
 \makeatother
 
 \input{myrevtexheaders.tex}
-
+\usepackage[section]{placeins}
 \begin{comment}
 
 \end{comment}
@@ -1536,6 +1536,17 @@ earlier.
 } % mjmrockyi
 
 
+\begin{comment}
+\begin{figure}[htb] 
+\centering
+\mjmfullplot{dexter2_cu.jpg}
+\caption{    Dexter daily copper intake around blood test on day 19926 
+.  Daily amount in red 10 day trailing average in white.
+  }
+\end{figure}
+\end{comment}
+
+
 \newcommand{\mjmdextercu}{
 
 \begin{figure}[htb] 
@@ -1546,16 +1557,6 @@ since arrival 30 day trailing average.
 }
 \end{figure}
 
-
-
-\begin{figure}[htb] 
-\centering
-\mjmfullplot{dexter2_cu.jpg}
-\caption{    Dexter daily copper intake around blood test on day 19926 
-.  Daily amount in red 10 day trailing average in white.
-  }
-\end{figure}
-
 \vspace{.2in} %keep/dexter_cuzoom.jpg
 
 \begin{figure}[htb] 
@@ -1564,7 +1565,7 @@ since arrival 30 day trailing average.
 \caption{    Dexter daily copper intake around blood test on day 19926 
 .  Daily amount in red 10 day trailing 30 day average in white.
 While his consumption had recently been higher than normal he had not
-had any for about 2 weeks prior to blood test.
+had any for about 3 weeks prior to blood test.
   }
 \end{figure}
 
@@ -1587,10 +1588,9 @@ had any for about 2 weeks prior to blood test.
 \newcommand{\mjmbrowniecu}{
 \begin{figure}[htb] 
 \centering
-\mjmfullplot{brownie_cu.jpg}
-\caption{    Brownie 10 day trailing average copper (white )
-. 
-  }
+%\mjmfullplot{brownie_cu.jpg}
+\mjmfullplot{brownie_cu30.jpg}
+\caption{    Brownie 30 day trailing average copper.  }
 \end{figure}
 } % mjmrowniecu
 
@@ -1727,7 +1727,7 @@ Dexter  &2017-04-25 &picky eating  &5 - 6.8  & variable low  & "low"   & see tex
 \hline
 Claire &\multicolumn{1}{|l|}{ 2018-07-08} &none &&see data && none \\
 Frankie &\multicolumn{1}{|l|}{ 2019-10-12 } &none&&see data&& none, aka "Autumn"  \\
-Daisy &\multicolumn{1}{|l|}{ 2023-03-28} &none &&see data && none \\
+Daisy &\multicolumn{1}{|l|}{ 2023-03-28} & UTI early on  &&see data && none \\
 \hline
 \hline
 \end{tabular}
@@ -3669,14 +3669,16 @@ in her health
 \cite{marchywka-MJM-2022-009-0.50rg}
 .
 She had two episodes resulting in emergency vet visits
-and blood work. On 2022-02-02 lab resuls were notable for
+and blood work. On 2022-02-02, after apparently choking on a carrot,
+ lab resuls were notable for
 elevated creatine kinase( 609U/L, 10-200) 
 slightly high glucose ( 123mg/dL, 63-114) , low normal Ca
 ( 8.5 mg/dl, 8.4-11.8)  and Cl ( 108mmol/L, 108-119)
 with high normal bicarbonate( 26mmol/L, 13-27). 
 ALP( 35 U/L, 5-160 ) was normal
 and total T4 low normal ( 1.2mug/dL , 1.0-4.0 ). 
-On 2024-10-04 at a different clinic glucose was normal
+On 2024-10-04, after having difficulty jumping,
+ at a different clinic glucose was normal
 ( 111mg/dL, 70-143) and ALP was low normal ( 31U/L, 23-212)
 with no measures of creatine kinase or blood chemistry.
 The change in ALP  appears to be largely due to reference ranges
@@ -3714,26 +3716,6 @@ it was treated successfully with Apoquel. Subsequently it would
 come and go but was generally not bad enough to treat.
  
 
-\mjmtolx{
-Happy, like Brownie, was also the subject of two prior works.
-Initially her heartworm recovery was described
-with vitamin K and other supplements
-\cite{mmarchywka-MJM-2019-001-.1li}
-followed by an unusual episode which resulted in some
-investigation of possible role of vitamins B-2 and B-3
-in her health
-\cite{marchywka-MJM-2022-009-0.50rg}
-.
-To summarize, Happy arrived heartworm positive coughing to varying degrees.
-She was treated with a slow kill approach including ivermectin
-and doxycycline as previously described. Years  later she was acting
-sick but appeared to recover well with B vitamin supplements.
-Her coughing never returned to the very low levels
-seen after heartworm recovery until copper doses were increased
-with elimination of any zinc and care with tryptophan.
-}
-
-
 As copper was increased due to widespread coughing after Trixie's
 arrival, her cough was noted to decrease to lower than prior levels.
 Review of the copper dosing suggested it had fallen prior to Trixie's
@@ -3742,10 +3724,10 @@ Often her excited cough appeared to be a honk on exhale suggestive of
 trachea collapse. She also would cough early in the morning
 when curled up. 
 As outlined in the introductiory material, it was later realized 
-that earlier conserns about aromatic amino acids could be
+that earlier concerns about aromatic amino acids could be
 due to simple excitability rather than any disease worsening.
 This most recent effort considered some coughing increase normal
-and now she seems to have reduced coughing, good energy level,
+and in Winter of 2024-2025   she may have reduced coughing, good energy level,
 and maybe some  aromatic amino acid sensitivity. 
 
 During the increased copper interval it was noted that
@@ -3784,12 +3766,41 @@ may stop coughing when barking for a while  such as before
 dinner although then coughing after dinner while quieter
 but anticipating left overs. 
 
+On 2024-12-20 ( 200077) Happy and the others started to get a 
+new bulk copper citrate supplement. 
 As of early 2025 she and Trixie  may be coughing less now on a more consistent
 schedule of copper citrate late in the evening with garlic in meat or canned
-food without other supplements. 
+food without other supplements. In April 2025 lipoic acid was begun more
+regularly replacing one of the copper doses but that seems to have coincided
+roughly with increased coughing. Althrough currently the belief is 
+increased coughing is due to histidine making her more alert.
+
+The copper appears necessary but not sufficient to control her coughing.
+ 
 
 
 % } % mjmtol
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\mjmtolx{
+Happy, like Brownie, was also the subject of two prior works.
+Initially her heartworm recovery was described
+with vitamin K and other supplements
+\cite{mmarchywka-MJM-2019-001-.1li}
+followed by an unusual episode which resulted in some
+investigation of possible role of vitamins B-2 and B-3
+in her health
+\cite{marchywka-MJM-2022-009-0.50rg}
+.
+To summarize, Happy arrived heartworm positive coughing to varying degrees.
+She was treated with a slow kill approach including ivermectin
+and doxycycline as previously described. Years  later she was acting
+sick but appeared to recover well with B vitamin supplements.
+Her coughing never returned to the very low levels
+seen after heartworm recovery until copper doses were increased
+with elimination of any zinc and care with tryptophan.
+}
 
 } % mjmhappytext
 
@@ -3925,6 +3936,8 @@ she had been eating reliably but may have had too much zinc.
 Hershey quickly demonstrated several problems not long after arrival.
 He had problems with his fur, digestion, and coughing while ultimately
 being diagnosed with heart failure and bladder stones.
+As many initial features could be rationalized as related to thyroid output,
+his iodine intake was elevated. 
 During his time here, his diet was varied and he was observed
 for overall eating and behavior with specific interest in 
 coughing and ability to make it up a short flight of steps
@@ -3935,8 +3948,6 @@ ones have been edited into the above list. Some correspondence with
 copper intake is noted. In the last few days of his life, he
 would pass out and quickly regain consciousness until one day 
 he did not recover presumably due to heart failure. 
-As many initial features could be rationalized as related to thyroid output,
-his iodine intake was elevated. 
 In retropsect, his initial response to increased copper may have been
 to be more energetic but that increased his coughing leading
 to a dosage reduction. The time scale analysis for various conditions that
@@ -3955,17 +3966,14 @@ now of some benefits.
 
 \section{Cases and Observations}
 
-
-
-
 This section describes the 
 novel data collected for this work documenting
 response to copper and other supplements in a variety of dogs
 as larger attempts were made to optimize their health through diet.
 Context and individual case interpretation is also included in this section
  instead of the
-discussion section which mostly contains  general observations
-about the cases and more complete comparison to prior work discussed
+discussion section which mostly compares and contrasts  
+cases with more complete comparison to the prior work discussed
 in the introductory text.  
 As should be clear from the introductory and concluding remarks
 this work is meant to be hypothesis generating and not a particularly
@@ -3976,14 +3984,17 @@ Although not often considered with copper, iodine comes up as
 an important confounding variable as hypothyroisidm possibly
 related to food is a continuing issue. 
 Goitrogens may be a common issue with dog food and the iodine related
-chemisty
-may not be completely understood similar to copper. 
-Iodine is also a powerful confounding factor as vague notions
-like "energy level" may be impacted by net effect on thyroid
-hormones. Relationship between thyroid hormones and iodine intake
-is not always clear. Iodine dosing will be shown for some dogs
+chemistry and dosing schedule may matter.
+hormones. 
+Relationship between thyroid hormones and iodine intake
+is not always clear. 
+Vague notions like "energy level" may be impacted by net effect on thyroid
+Iodine dosing will be shown for some dogs
 along with copper but the complete data set is available
-as described in the Supplemenal Information section.  
+as described in the Supplemenal Information section and should
+be examined by interested readers. 
+Other suspects that came up during the work are  considered in the
+discussion aftwards.   
 
 
 
@@ -3996,6 +4007,10 @@ in the case of Happy
 \cite{mmarchywka-MJM-2019-001-.1li}
  and Brownie
 \cite{mmarchywka-MJM-2021-003-v0.50rg}.
+
+More context may also be obtained from the
+cases of Spicey \cite{mmarchywka-MJM-2020-007rg}
+and Sarah \cite{marchywka-MJM-2022-002-0.50rg}.
 Briefly, rescue dogs living in a residential setting
 are given supplemental vitamins that are recorded along
 with outcome and other observations in MUQED format 
@@ -4005,71 +4020,17 @@ was being performed leading to some issues with earlier data.
 Typically dogs would get commercial dog food meals 
 ( kibble and canned foods ) 
 that may only be partially recorded along with "snacks"
-containing defined human quality food components along with variable
+containing consistent human quality food components along with variable
  vitamins \cite{marchywka-MJM-2021-018-0.50rg}.
 Snacks containing vitamins were generally consumed within minutes
 of preparation although in some cases snacks would be refiggerated
 and eaten 12 or so hours later sometimes with AM and PM snacks together.
 As stability is a concern with copper, this point may be important.
-Generally intake was recorded right after feeding.
+Generally intake was recorded right after feeding with immediate
+syntax checking. Obvious errors or questionable data found later
+were corrected when found and usually indicated with a "DMEL" entry
+in the MUQED file. 
 
-
-
-While most supplements and medicines were recorded 
-in good detail,  many caveats exist, see \mjmreftab{caveats}.
-\input{muqed_caveats.tex}
-Several common diet parameters like total calorie intake cannot be inferred
-from this data.
-In paricular normalization of the "dinner" amounts is variable
-between dogs.
-Besides the meal or snack ,
-most dogs received additional meals of commercial dog food
-and unfortuntately uncontrolled scraps or treats while others
-routinely ate toys or yard debris. However, some 
-results appear to relate to the vitamin mix and notably
-inclusion of  copper. 
-Copper dosing, like with other supplements,  was sometimes rotated 
-with other nutrients such as other metals
-leading to high doses some days with none on intervening days. 
-This schedule may require more care in analysis than fixed amounts.
-A hard upper limit of
-3mg/kg body weight of supplemental copper per day was maintained  based 
-on quoted NOAEL's from an  original source dated  1972 \cite{NAP9782}
-altough as pointed out earlier higher doses may be acceptable in 
-a pthological state. 
-Some of the discussion will also reference unpublised notes
-on "Little Man" who was given copper and other 
-nutrients before the MUQED system was operating.
-
-
-The subset of data considered here focuses on variations in copper
-intake after the arrival of a new dog, Trixie, with various health
-conditions.  
-Most of the dogs currently living here received increased copper
-shortly after her arrival due to apparent
-spread of coughing. Trixie was later treated with Clavamox
-leading to cure suggesting indeed an infectious cause existed. 
-Some of the dogs, notably Happy and Rocky, had varying cough levels
-previously as described below.  
-
-While influenced by Trixie, these cases are to some extent 
-unrelated but with supplements
-chosen based on the condition(s) of the dog and thinking at the time.
-Copper was one of many nutrients thought to be important early on
-but had ceased to be a  focus until the arrival of Trixie. 
-Initial work with Little Man in 2016 showed apparent benefits in coughing
-while with Hershy activity levels increased but so did coughing.
-Happy seemed to benefit around that same time but her coughing
-can not be eliminated today. Brownie and puppies copper exposure was
-significant but not high and thought to have contributed to resolution
-of a couhing episode among the puppies. Similarly,  Cookie with
-an antibiotic treated respiratory infection recovered
-but any role of copper is unknown it did not seem to harm her.
-
- Three dogs, Daisy, Claire, and Frankie (aka Autumn ), were
-here prior to Trixie and have been essentially event free while
-taking nominal amounts of copper along with iodine and other
-entities as described in the Supplemntal Information data. 
 
 While all supplement data were recorded and many
 ingredients  varied significantly over time, only a few are discussed here. 
@@ -4089,8 +4050,64 @@ GI tract may be impacted by sulfur, some attention should
 be given to sulfur sources such as amino acids including taurine.  
 
 
+While most supplements and medicines were recorded 
+in good detail,  many caveats exist, see \mjmreftab{caveats}.
+\input{muqed_caveats.tex}
+Several common diet parameters like total calorie intake cannot be inferred
+from these data.
+In paricular, normalization of the "dinner" amounts is variable
+between dogs.
+Besides the meal or snack ,
+most dogs received additional meals of commercial dog food
+and uncontrolled scraps or treats while others
+routinely ate toys or yard debris or drank from streams. However, some 
+results appear to relate to the vitamin mix and notably
+inclusion of copper. 
+Copper dosing, like with other supplements,  was sometimes rotated 
+with specific nutrients such as other metals
+leading to high doses some days with none on intervening days. 
+This schedule may require more care in analysis than fixed amounts.
+A hard upper limit of
+3mg/kg body weight of supplemental copper per day was maintained  based 
+on quoted NOAEL's from an  original source dated  1972 \cite{NAP9782}
+altough as pointed out earlier higher doses may be acceptable in 
+a pthological low absorption state. 
+Some of the discussion will also reference unpublised notes
+on "Little Man" who was given copper and other 
+nutrients before the MUQED system was operating.
+
+The subset of data considered here focuses on variations in copper
+intake after the arrival of a new dog, Trixie, with various health
+conditions.  
+Most of the dogs currently living here received increased copper
+shortly after her arrival due to apparent
+spread of coughing. 
+Some of the dogs, notably Happy and Rocky, had varying cough levels
+previously as described below.  
+
+While influenced by Trixie, these cases are to some extent 
+unrelated.  Supplements were 
+chosen based on the condition(s) of the dog and thinking at the time.
+Copper was one of many nutrients thought to be important early on
+but had ceased to be a  focus. % until the arrival of Trixie. 
+Initial work with Little Man in 2016 showed apparent benefits in coughing
+while with Hershy activity levels increased but so did coughing.
+Happy seemed to benefit around that same time but her coughing
+can not be eliminated today. Brownie and puppies copper exposure was
+significant but not high and thought to have contributed to resolution
+of a couhing episode among the puppies. Similarly,  Cookie with
+an antibiotic treated respiratory infection recovered
+but any role of copper is unknown it did not seem to harm her.
+
+ Three dogs, Daisy, Claire, and Frankie (aka Autumn ), were
+here prior to Trixie and have been essentially event free while
+taking nominal amounts of copper along with iodine and other
+entities as described in the Supplemntal Information data. 
+
 \mjmcasetab
 
+Unless otherwise noted, most plots show day number on the X-axis
+and milligrams on the Y-axis. 
 
 \subsection{Hershey}
 
@@ -4194,47 +4211,139 @@ is shown averaged over trailing 30 days.
 
 \subsection{ General observations on these cases }
 
+
 Copper supplementation averaging around .2 to as high 
 as .8 mg/kgBW/day appeared beneficial in this group of
-dogs as symptom improvement often followed weeks of dosing.
-In the case of Annie, two results appeared just a couple
-days after copper intake was increased. 
-Several suspicious observations were noted but nothing
-robustly correlated with copper intake. 
-As some symptoms such as coughing are the product
-of many factors, interpretation is difficult during the 
-initial response phase. Most notably, increased general
-energy may increase coughing in the presence of a weak
-or collapsed trachea or with some heart conditions. 
-Initial response would be to increased energy production
-and persumably a feeling of wellbeing but remodelling
-and stiffening 
-may take longer to  achieve  more complete  
-resolution. Another difficulty is  due to pulsed dosing.
-This was chosen to allow rotation of various
-nutrients and make it easier to see short term effects
-of comparatively high doses. However, it did require 
-that time series be averaged  for analysis.
-Happy's copper intake dropped much lower than normal
-preceeding a period of excessive coughing. It was only
-after copper was started due to Trixie's  respiratory infection
-that the data were examined more carefully and the pattern
-noted. Ideally the filtering would be a lagging average
-weighted to some suspected biological parameters but
-even uniform moving average was useful.   
+dogs as symptom improvement often followed days or weeks of dosing.
+This is contrary to some expectations  from popular concerns
+about excessive copper in commercial dog foods  but as described
+later this may be due keeping the copper away from other nutrients.
+Several problems can be attributed to copper deficiency and 
+they may recover on different time scales leading to confusing
+symptoms during copper repletion. Some dogs such as Annie and
+Hershey appeared to become more active within days although
+with Hershey increased coughing was an inaccurate concern.
+Copper does not appear to be a complete solution for Annie
+as she has gone blind and continues to become less active although
+as described below other nutrients may be moderating that problem now.
 
-Several of the dogs received antibiotics during the time of
-copper dosing with some apparent improvement suggesting copper
-alone at these doses did not cure all infections.
 
-Atempts to standardize the vitamins and split one snack
-for everyone often resulted in reduced copper
-supplementation for some of the dogs who needed it.
-The afternoon snack was used for the daily copper 
-but it was not as well accepted as the morning snack.
-Special snacks with copper or other isolated nutrients
-in canned food worked for individual dogs. 
 
+
+Coughing and other subjective signs were often used
+to monitor progress and notes were not always sufficient.
+Coughing as described before can be produced by many
+causes. Here, we were concerned mostly with infection,
+trachea collapse, and heart enlargement. Honking
+related to trachea collapse may be more common when the
+dog is excited. In this case, improving "energy" may
+produce more coughing even though the dog is largely
+healthier but the heart is still large or trachea
+still soft. This is further complicated with additions
+of vitamins that tend to promote alertness as was 
+observed with histidine ( indeed there was some concern
+about aggression when initiating it ). This may not
+have been fully appreciated early on.  
+
+In some cases, the copper supplementation appeared to reduce coughing within 
+days and without side effects such as reduced activity. In
+these cases it was thought to control but not cure
+infection as subsequent antibiotics appeared to stop the coughing.
+Withdrawl of copper supplements
+may coincide with increased coughing for no obvious reason
+such as increased activity but it would resolve
+with antibiotics. In thoses cases the copper was thought
+to control but not eliminate pathogens.
+
+Its unclear how many if any infections were avoided with
+added copper as some dogs benefited from antibiotics even with
+the copper at the recorded doses. Its possible it slows the growth
+or reduced virulence but does not clear some infections.
+This may allow it to become larger before clearing with antibiotics.
+One work in mice did show increased antibiotic tolerance to
+P. mirabilus that survived copper exposure
+\cite{Huang_Lee_Wang_Copper_affects_virulence_2024}.
+
+
+Coat or skin issues occured with Annie, Trixie, and Happy.
+All three of them seem to have improved but the role of
+copper or pathogens is not known. Currently Annie still bites her paws sometimes
+although Happy no longer shows signs of skin irritation and Tricie's
+coat feels clean. 
+Happy's prior rubbing episodes, initially treated with Apoquel but 
+subsequently just "waited out" , did not appear
+after increasing copper even though she had been doing that on and
+off recently.
+She sometimes took to "rolling over" later but mostly for attention. 
+ This "allergy" could be  pathogenic via 
+immune response to either allergen or actual patogen 
+that becomes resolving with more copper although symptoms
+could be treated with Apoquel known and likely side effects
+make this a cleaner solution. 
+
+
+
+The only case suspicious for counterproductive copper effects  was Dexter. 
+Although he had not
+had copper for 3 weeks prior to his blood work he had high
+doses in the prior few months. However, he has spit up sporadically
+since arrival and may still do it on occaison now. However,
+when he is not eating robustly the misture of zinc, magnesium,
+iron, calcium, and potassium chloride seems to help. It is not
+given consistently due to hassle and concerns with excess zinc
+but only when it appears to be needed.
+
+
+In order to get best resolution in similar cases it is likely
+that other vitamins will be needed too. In the following sections
+some copper quirks are discussed in terms of interactions with
+other variables but here competing supplements are discussed.
+Right now for these guys a short list would include iodine,
+lipoic acid, and histidine. Iodine was antiticipated for
+reasons previously discussed and at least with Rocky may 
+be a dominant factor in his overall improvements. While
+Annie continues to become less active, histidine may be
+helping. Histidine any lipoic acid may be helping Trxie
+while Happy may also benefit from the lipoic acid. In dogs lipoic
+acid is  an insulim mimetic which may encourage the consumption
+of glucose if that is an energy limiting issue. 
+Histidine would presumably be metabolized into the neurotransmitter
+histamine. 
+
+
+Reconciliation with various concerns and failures
+relies on the complex interaction with other dietary componets
+which may be important over a large range of genetics. 
+Copper was just one of many nutrients explored and
+it requires some of these for proper handling.
+Any optimization strategy would need to conintually
+be finding the performance limiting nutrient
+in turn as each is tweaked. 
+Copper was considered to be important early but despite
+some successes was lost in the shuffle. While the conditions
+for benehficial usage remain unknown, several suspects
+can be identified. Histidine addition was the most
+obviously correlated with increased
+alertness, animation, and aggression although there
+may have been some expectation bias considering increased
+histamine contributint to these states. These responses
+could increase coughing leading to the erroneous
+conclusions it was making something worse.    
+
+"Geeral energy level" is a bit subjective and 
+confounding vitamins may include iodine, lipoicacid,
+and histidine although many others such as iron could
+contribute too. Iodine was a major concern due to
+prior dogs with lab confirmed hypothyroidism and the
+existence of "goitrogens" in dog foods. 
+
+Hypothyroidism is common but may be due to a nutrient
+deficiency suzh as iodine or less obviously copper.
+Some of the symptoms associated with hypothyroidism
+could be explained by copper deficiency alone.
+The role of sodium benzoate may be important but
+difficult to characterize  but may be a topic of a later
+work on Rocky.
 
 At least in one dog, Happy, copper was required to conol
 coughing but it did not work in the context of a low fat
@@ -4252,61 +4361,6 @@ pulmonary hypertension may be controlled by serotonin
 Pulmonary hypertension is itself pathological and
 should be avoided while increased arousal state would
 be important for quality of life so investigation may be useful. 
-
-
-Happy's prior rubbing episodes, initially treated with Apoquel but 
-subsequently just "waited out" , did not appear
-after increasing copper even though she had been doing that on and
-off recently.
-She sometimes took to "rolling over" later but mostly for attention. 
- This "allergy" could be  pathogenic via 
-immune response to either allergen or actual patogen 
-that becomes resolving with more copper although symptoms
-could be treated with Apoquel known and likely side effects
-make this a cleaner solution. 
-
-Its unclear how many if any infections were avoided with
-added copper as some dogs benefited from antibiotics even with
-the copper at the recorded doses. Its possible it slows the growth
-or reduced virulence but does not clear some infections.
-This may allow it to become larger before clearing with antibiotics.
-One work in mice did show increased antibiotic tolerance to
-P. mirabilus that survived copper exposure
-\cite{Huang_Lee_Wang_Copper_affects_virulence_2024}.
-
-\mjmtol{ maybe add Daisy as she had earlier infection }
-Annie's foot irritations apparently went away although she may
-still have had eye infections.  
-
-
-Reconciliation with various concerns and failures
-relies on the complex interaction with other dietary componets
-which may be important over a large range of genetics. 
-Copper was just one of many nutrients explored and
-it requires some of these for proper handling.
-Any optimization strategy would need to conintually
-be finding the performance limiting nutrient
-in turn as each is tweaked. 
-
-
-Hypothyroidism is common but may be due to a nutrient
-deficiency suzh as iodine or less obviously copper.
-Some of the symptoms associated with hypothyroidism
-could be explained by copper deficiency alone.
-The role of sodium benzoate may be important but
-difficult to characterize  but may be a topic of a later
-work on Rocky.
-
-Copper was considered to be important early but despite
-some successes was lost in the shuffle. While the conditions
-for benehficial usage remain unknown, several suspects
-can be identified. Histidine addition was the most
-obviously correlated with increased
-alertness, animation, and aggression although there
-may have been some expectation bias considering increased
-histamine contributint to these states. These responses
-could increase coughing leading to the erroneous
-conclusions it was making something worse.    
 
 \mjmtol{ repeated in intro }
 Besides the mulecules althready mentioned, it is worth
@@ -4327,43 +4381,88 @@ to induced copper defieincy which would likely cause some
 symptoms expectedd of copper defieincy.
 
 
-Several likely benefits of copper suypplementation were observed
-but no clear robust clinical symptoms got worse.
-This is contrary to some indications from populat concerns
-about excessive copper in commercial dog foods. 
-Copper use requires uptake and transportation to 
-various targets. Transport out of the liver can be hindered
-for reasons such as ceruloplasmin defects.
-
-Coughing and other subjective signs were often used
-to monitor progress and notes were not always sufficient.
-Coughing as described before can be produced by many
-causes. Here, we were concerned mostly with infection,
-trachea collapse, and heart enlargement. Honking
-related to trachea collapse may be more common when the
-dog is excited. In this case, improving "energy" may
-produce more coughing even though the dog is largely
-healthier but the heart is still large or trachea
-still soft. This is further complicated with additions
-of vitamins that tend to promote alertness as was 
-observed with histidine ( indeed there was some concern
-about aggression when initiating it ). This may not
-have been fully appreciated early on.  
-
-
 B-6 deficiency has been linked to excess copper excretion \cite{PMID7814236}
 possibly making copper a secondary excretion issue
 rather than a primary absorption problem. 
 However, the concern with excess B-6 intake creating effective
 deficiency is a reminder to look more carefully at all data. 
 
-%%%%%%%%%%%%%%
-%%%%%%%%%%%%%% cutoff
-
-Iver a broad range of genetics, its likely that copper intake
+Over a broad range of genetics, its likely that copper intake
 can be raised as long as other nutirents are also given
 to handle the copper beneficially.
 Candidate nutrients include tryrosine and tryptophan.
+
+
+
+Several issues came up during the execution of this effort.
+The pulsed doing made for confusing resuls sometimes.
+Shared snacks caused recipie modifications for one dog
+to impact others and target doeses to drift as they were
+lost in the shuffle.
+ Another difficulty is  due to pulsed dosing.
+This was chosen to allow rotation of various
+nutrients and make it easier to see short term effects
+of comparatively high doses. However, it did require 
+that time series be averaged  for analysis.
+Happy's copper intake dropped much lower than normal
+preceeding a period of excessive coughing. It was only
+after copper was started due to Trixie's  respiratory infection
+that the data were examined more carefully and the pattern
+noted. Ideally the filtering would be a lagging average
+weighted to some suspected biological parameters but
+even uniform moving average was useful.   
+
+Atempts to standardize the vitamins and split one snack
+for everyone often resulted in reduced copper
+supplementation for some of the dogs who needed it.
+The afternoon snack was used for the daily copper 
+but it was not as well accepted as the morning snack.
+Special snacks with copper or other isolated nutrients
+in canned food worked for individual dogs. 
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+\mjmtolx{
+In the case of Annie, two results appeared just a couple
+days after copper intake was increased although she
+does continue to slowly deteriorate.  
+Several suspicious observations were noted but nothing
+robustly correlated with copper intake. 
+As some symptoms such as coughing are the product
+of many factors, interpretation is difficult during the 
+initial response phase. Most notably, increased general
+energy may increase coughing in the presence of a weak
+or collapsed trachea or with some heart conditions. 
+Initial response would be to increased energy production
+and persumably a feeling of wellbeing but remodelling
+and stiffening 
+may take longer to  achieve  more complete  
+resolution.
+Several of the dogs received antibiotics during the time of
+copper dosing with some apparent improvement suggesting copper
+alone at these doses did not cure all infections.
+
+}
+\mjmtol{ maybe add Daisy as she had earlier infection }
+
+\mjmtolx{
+Annie's foot irritations apparently went away although she may
+still have had eye infections.  
+
+Several likely benefits of copper suypplementation were observed
+but no clear robust clinical symptoms got worse.
+Copper use requires uptake and transportation to 
+various targets. Transport out of the liver can be hindered
+for reasons such as ceruloplasmin defects.
+
+}
+
+
+
 
 \subsection{Aspects of Copper Chemistry  }
 \input{copper_food_chem.tex}
