@@ -31,33 +31,33 @@
 \contentsline {section}{\numberline {4}Cases and Observations}{22}{section*.29}%
 \contentsline {subsection}{\numberline {4.1}Hershey}{25}{section*.30}%
 \contentsline {subsection}{\numberline {4.2}Happy}{27}{section*.31}%
-\contentsline {subsection}{\numberline {4.3}Brownie and puppies}{30}{section*.32}%
-\contentsline {subsection}{\numberline {4.4}Cookie or Mixie}{30}{section*.33}%
-\contentsline {subsection}{\numberline {4.5}Trixie}{31}{section*.34}%
-\contentsline {subsection}{\numberline {4.6}Rocky}{32}{section*.35}%
+\contentsline {subsection}{\numberline {4.3}Brownie and puppies}{28}{section*.32}%
+\contentsline {subsection}{\numberline {4.4}Cookie or Mixie}{29}{section*.33}%
+\contentsline {subsection}{\numberline {4.5}Trixie}{29}{section*.34}%
+\contentsline {subsection}{\numberline {4.6}Rocky}{30}{section*.35}%
 \contentsline {subsection}{\numberline {4.7}Annie}{32}{section*.36}%
-\contentsline {subsection}{\numberline {4.8}Dexter}{34}{section*.37}%
+\contentsline {subsection}{\numberline {4.8}Dexter}{33}{section*.37}%
 \contentsline {subsection}{\numberline {4.9} Others }{35}{section*.38}%
-\contentsline {section}{\numberline {5}Discussion }{39}{section*.39}%
-\contentsline {subsection}{\numberline {5.1} General observations on these cases }{39}{section*.40}%
-\contentsline {subsection}{\numberline {5.2}Aspects of Copper Chemistry }{40}{section*.41}%
-\contentsline {subsection}{\numberline {5.3}Aspects of Copper Garlic Chemistry }{43}{section*.42}%
-\contentsline {subsection}{\numberline {5.4}Supplement Selection and Dosing Considerations }{44}{section*.43}%
-\contentsline {subsection}{\numberline {5.5}Life is Robust- Numerically Pathological States may be Adaptive }{45}{section*.44}%
-\contentsline {section}{\numberline {6}Limitations}{45}{section*.45}%
-\contentsline {section}{\numberline {7}Perspective : Copper in Past Civilizations }{45}{section*.46}%
-\contentsline {section}{\numberline {8}Conclusions}{46}{section*.47}%
-\contentsline {section}{\numberline {9}Supplemental Information}{46}{section*.48}%
-\contentsline {subsection}{\numberline {9.1}Computer Code}{46}{section*.49}%
-\contentsline {section}{\numberline {10}Bibliography}{47}{section*.50}%
-\contentsline {section}{\numberline {}References}{47}{section*.51}%
-\contentsline {section}{\numberline {}Acknowledgments}{68}{section*.52}%
+\contentsline {section}{\numberline {5}Discussion }{36}{section*.39}%
+\contentsline {subsection}{\numberline {5.1} General observations on these cases }{36}{section*.40}%
+\contentsline {subsection}{\numberline {5.2}Aspects of Copper Chemistry }{38}{section*.41}%
+\contentsline {subsection}{\numberline {5.3}Aspects of Copper Garlic Chemistry }{41}{section*.42}%
+\contentsline {subsection}{\numberline {5.4}Supplement Selection and Dosing Considerations }{41}{section*.43}%
+\contentsline {subsection}{\numberline {5.5}Life is Robust- Numerically Pathological States may be Adaptive }{42}{section*.44}%
+\contentsline {section}{\numberline {6}Limitations}{42}{section*.45}%
+\contentsline {section}{\numberline {7}Perspective : Copper in Past Civilizations }{43}{section*.46}%
+\contentsline {section}{\numberline {8}Conclusions}{43}{section*.47}%
+\contentsline {section}{\numberline {9}Supplemental Information}{44}{section*.48}%
+\contentsline {subsection}{\numberline {9.1}Computer Code}{44}{section*.49}%
+\contentsline {section}{\numberline {10}Bibliography}{44}{section*.50}%
+\contentsline {section}{\numberline {}References}{44}{section*.51}%
+\contentsline {section}{\numberline {}Acknowledgments}{66}{section*.52}%
 \appendix 
-\contentsline {section}{\numberline {A} Statement of Conflicts }{69}{section*.53}%
-\contentsline {section}{\numberline {B}About the Authors and Facility}{69}{section*.54}%
-\contentsline {section}{\numberline {C}Some Common Logical Fallacies and Misdirections}{69}{section*.55}%
-\contentsline {section}{\numberline {D}Background Diet Sumnary}{71}{section*.56}%
-\contentsline {section}{\numberline {E}Notable Food Components with Copper Interactions}{75}{section*.57}%
-\contentsline {section}{\numberline {F}Symbols, Abbreviations and Colloquialisms}{75}{section*.58}%
-\contentsline {section}{\numberline {G}General caveats and disclaimer }{75}{section*.59}%
-\contentsline {section}{\numberline {H}Citing this as a tech report or white paper }{75}{section*.60}%
+\contentsline {section}{\numberline {A} Statement of Conflicts }{67}{section*.53}%
+\contentsline {section}{\numberline {B}About the Authors and Facility}{67}{section*.54}%
+\contentsline {section}{\numberline {C}Some Common Logical Fallacies and Misdirections}{67}{section*.55}%
+\contentsline {section}{\numberline {D}Background Diet Sumnary}{69}{section*.56}%
+\contentsline {section}{\numberline {E}Notable Food Components with Copper Interactions}{73}{section*.57}%
+\contentsline {section}{\numberline {F}Symbols, Abbreviations and Colloquialisms}{73}{section*.58}%
+\contentsline {section}{\numberline {G}General caveats and disclaimer }{73}{section*.59}%
+\contentsline {section}{\numberline {H}Citing this as a tech report or white paper }{73}{section*.60}%
