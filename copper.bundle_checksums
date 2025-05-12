@@ -1,85 +1,21 @@
 3801 Apr 15 19:06 ancient_copper.tex bf786ae4120d8f54b7745327cee11cf6
 322861 May 23 2020 ../casesum/casesum.bib e3f31502ec3535aa4116c6682917678b
-7787 May 12 06:23 comment.cut 24d8bc5012995a8bff1afd1b7a3dece9
-65769 May 12 06:23 copper.aux 0c7c3292151a8692702ecf56abecefd3
-184513 May 12 06:23 copper.bbl f80ee858816052b758a861f0d478fe3c
-1634188 May 12 06:22 copper.bib e5be6d98a125d6ded71c96fc5ae6292e
-6980 May 12 06:23 copper.blg b9f1dc05a0148a5d844f8cb47221b5c3
-0 May 12 06:25 copper.bundle_checksums d41d8cd98f00b204e9800998ecf8427e
+7787 May 5 21:25 comment.cut 24d8bc5012995a8bff1afd1b7a3dece9
+66006 May 5 21:25 copper.aux 68abcd1f83080ba707130bd725b8d3cf
+195352 May 5 21:25 copper.bbl 0d8ccf5de6ee21377df37898d228cb44
+1634188 May 5 21:24 copper.bib 6feb796fdbb923d80800ae2a241ea07a
+6883 May 5 21:25 copper.blg 71d50b7110d89f55dd3436de768b109e
+0 May 12 06:28 copper.bundle_checksums d41d8cd98f00b204e9800998ecf8427e
 3029 Jan 24 14:22 copper_doit_best.tex 67ee911b4d2b7d4a6dfbd59c6521932c
-27314 May 12 06:23 copper.fls 8b3c3cf8c2d8a14a648af06fb443c6b0
+34934 May 5 21:25 copper.fls aee03a19b63f39f5b165f39f09f46233
 14270 Apr 28 16:19 copper_food_chem.tex 47e49d6e7be7959afdc267efc0672209
 2928 Feb 11 12:34 copper_gralic_chem.tex 1cf451e5b2e8b0258ad189caa28986f7
-3 May 12 06:23 copper.last_page 9f4c0b1fca5cb6f886aa2e54442b1e1b
-63663 May 12 06:23 copper.log 05cf814ae977bcc04d34df2173d53b30
-0 May 12 06:23 copperNotes.bib d41d8cd98f00b204e9800998ecf8427e
-13494 May 12 06:23 copper.out 8b29886e7adad02b64c81e7d253734bb
-5220176 May 12 06:23 copper.pdf e955cff4a057b740babec3ed3dfc797d
-206096 May 12 06:20 copper.tex d8e893020676515f28ae620c047e0cd9
-5746 May 12 06:23 copper.toc 8de0932d03721846b832bb938270d18e
-55 Mar 30 2024 /etc/fonts/conf.d/10-hinting-slight.conf -> /usr/share/fontconfig/conf.avail/10-hinting-slight.conf 5da52d777c5af2cb4b7445b81ead6c3d
-59 Mar 30 2024 /etc/fonts/conf.d/10-scale-bitmap-fonts.conf -> /usr/share/fontconfig/conf.avail/10-scale-bitmap-fonts.conf 8588f87eaf68a1eb73920066f6817b48
-54 Mar 30 2024 /etc/fonts/conf.d/10-sub-pixel-rgb.conf -> /usr/share/fontconfig/conf.avail/10-sub-pixel-rgb.conf e58e3be3a96cfa19b6cc53f27845e65a
-54 Mar 30 2024 /etc/fonts/conf.d/10-yes-antialias.conf -> /usr/share/fontconfig/conf.avail/10-yes-antialias.conf 908d9e324c24bf809448ca7041db580b
-58 Mar 30 2024 /etc/fonts/conf.d/11-lcdfilter-default.conf -> /usr/share/fontconfig/conf.avail/11-lcdfilter-default.conf 4dd5ffa8e7c3448e76fe1bbe2f3df871
-50 Aug 10 2023 /etc/fonts/conf.d/20-unhint-small-dejavu-lgc-sans.conf -> ../conf.avail/20-unhint-small-dejavu-lgc-sans.conf 6488b24401e477e35aa71237054c8ada
-55 Aug 10 2023 /etc/fonts/conf.d/20-unhint-small-dejavu-lgc-sans-mono.conf -> ../conf.avail/20-unhint-small-dejavu-lgc-sans-mono.conf 10d6f2176d76ee9b89a19a17811257f2
-51 Aug 10 2023 /etc/fonts/conf.d/20-unhint-small-dejavu-lgc-serif.conf -> ../conf.avail/20-unhint-small-dejavu-lgc-serif.conf 0b01522fe76b4e5b8ab3d12383371348
-46 Aug 10 2023 /etc/fonts/conf.d/20-unhint-small-dejavu-sans.conf -> ../conf.avail/20-unhint-small-dejavu-sans.conf f7df7bba810dd953dd78212900f4dcad
-51 Aug 10 2023 /etc/fonts/conf.d/20-unhint-small-dejavu-sans-mono.conf -> ../conf.avail/20-unhint-small-dejavu-sans-mono.conf 0cbf30e4580c5a8570da071ab12c5e4d
-47 Aug 10 2023 /etc/fonts/conf.d/20-unhint-small-dejavu-serif.conf -> ../conf.avail/20-unhint-small-dejavu-serif.conf e90c678d46f49bb9d6ba469b64e80c0c
-58 Mar 30 2024 /etc/fonts/conf.d/20-unhint-small-vera.conf -> /usr/share/fontconfig/conf.avail/20-unhint-small-vera.conf 535df1a3aed553ced27e176639e4b541
-52 Apr 18 2024 /etc/fonts/conf.d/30-cjk-aliases.conf -> /usr/share/fontconfig/conf.avail/30-cjk-aliases.conf 78d21c53e6a0be8bab8e7b7a1960f4ea
-55 Mar 30 2024 /etc/fonts/conf.d/30-metric-aliases.conf -> /usr/share/fontconfig/conf.avail/30-metric-aliases.conf 1eefbc368808e53dc9ab1b73aa300d99
-49 Mar 30 2024 /etc/fonts/conf.d/40-nonlatin.conf -> /usr/share/fontconfig/conf.avail/40-nonlatin.conf c3cf056712b96dbef771f29c6b1d0655
-48 Mar 30 2024 /etc/fonts/conf.d/45-generic.conf -> /usr/share/fontconfig/conf.avail/45-generic.conf 6eb7544e52701729de1bc87c7e03b155
-46 Mar 30 2024 /etc/fonts/conf.d/45-latin.conf -> /usr/share/fontconfig/conf.avail/45-latin.conf d065b45633b306b895b0d582b8898eda
-48 Mar 30 2024 /etc/fonts/conf.d/48-spacing.conf -> /usr/share/fontconfig/conf.avail/48-spacing.conf 9ef1b86cdc752b8765d2d1531e799cc1
-50 Mar 30 2024 /etc/fonts/conf.d/49-sansserif.conf -> /usr/share/fontconfig/conf.avail/49-sansserif.conf fb5873c73e8ea39848ffb07a8d87d8cb
-45 Mar 30 2024 /etc/fonts/conf.d/50-user.conf -> /usr/share/fontconfig/conf.avail/50-user.conf acde2cbca39bb6261deea4e6e4bf597e
-46 Mar 30 2024 /etc/fonts/conf.d/51-local.conf -> /usr/share/fontconfig/conf.avail/51-local.conf 99b54670882634722fada39c78a39863
-65 Apr 18 2024 /etc/fonts/conf.d/56-language-selector-prefer.conf -> /usr/share/fontconfig/conf.avail/56-language-selector-prefer.conf b5d577284848814d1f9730978da4bf6f
-33 Aug 10 2023 /etc/fonts/conf.d/57-dejavu-sans.conf -> ../conf.avail/57-dejavu-sans.conf 2156c2353cfcc81f33150cf889193c28
-38 Aug 10 2023 /etc/fonts/conf.d/57-dejavu-sans-mono.conf -> ../conf.avail/57-dejavu-sans-mono.conf b9a76edd2aeb35cd1095e378963e2cdd
-34 Aug 10 2023 /etc/fonts/conf.d/57-dejavu-serif.conf -> ../conf.avail/57-dejavu-serif.conf 2604487cb2eee1bdb7010ea716faf408
-37 Aug 10 2023 /etc/fonts/conf.d/58-dejavu-lgc-sans.conf -> ../conf.avail/58-dejavu-lgc-sans.conf b4a8f51e45aa24fdee47b3f838cc0205
-42 Aug 10 2023 /etc/fonts/conf.d/58-dejavu-lgc-sans-mono.conf -> ../conf.avail/58-dejavu-lgc-sans-mono.conf d2ee39274982cb4f831783cff742c8bc
-38 Aug 10 2023 /etc/fonts/conf.d/58-dejavu-lgc-serif.conf -> ../conf.avail/58-dejavu-lgc-serif.conf 5f0b00e681b1f40b65dd336696ee0bbb
-48 Mar 30 2024 /etc/fonts/conf.d/60-generic.conf -> /usr/share/fontconfig/conf.avail/60-generic.conf 381ad51b6c9a0c578c7176ae47481985
-46 Mar 30 2024 /etc/fonts/conf.d/60-latin.conf -> /usr/share/fontconfig/conf.avail/60-latin.conf 182762526473419bda2ad5569bbfafbe
-49 Feb 29 2024 /etc/fonts/conf.d/61-urw-bookman.conf -> /usr/share/fontconfig/conf.avail/urw-bookman.conf 4919c80d16900c7a74bd99b984e94c3d
-46 Feb 29 2024 /etc/fonts/conf.d/61-urw-c059.conf -> /usr/share/fontconfig/conf.avail/urw-c059.conf ea7d483860e06fb26172a6b82206063e
-50 Feb 29 2024 /etc/fonts/conf.d/61-urw-d050000l.conf -> /usr/share/fontconfig/conf.avail/urw-d050000l.conf 4e51915dfefc7b5ff077f9c9cfdfb609
-60 Feb 29 2024 /etc/fonts/conf.d/61-urw-fallback-backwards.conf -> /usr/share/fontconfig/conf.avail/urw-fallback-backwards.conf fd55f1208085a7a6c9059a85f74026b2
-59 Feb 29 2024 /etc/fonts/conf.d/61-urw-fallback-generics.conf -> /usr/share/fontconfig/conf.avail/urw-fallback-generics.conf 4fe12712f1cbc9a3f210b70588989ac9
-48 Feb 29 2024 /etc/fonts/conf.d/61-urw-gothic.conf -> /usr/share/fontconfig/conf.avail/urw-gothic.conf 2ea2fa4704f92933fb6b26ef2c615a4d
-56 Feb 29 2024 /etc/fonts/conf.d/61-urw-nimbus-mono-ps.conf -> /usr/share/fontconfig/conf.avail/urw-nimbus-mono-ps.conf 3f90596c5fd673a920fcb9791d051510
-54 Feb 29 2024 /etc/fonts/conf.d/61-urw-nimbus-roman.conf -> /usr/share/fontconfig/conf.avail/urw-nimbus-roman.conf b4bc1cc983b4c5f3d0652469f5202b7b
-53 Feb 29 2024 /etc/fonts/conf.d/61-urw-nimbus-sans.conf -> /usr/share/fontconfig/conf.avail/urw-nimbus-sans.conf ac89c62766b5dc03502e39aaf4d0cfd8
-46 Feb 29 2024 /etc/fonts/conf.d/61-urw-p052.conf -> /usr/share/fontconfig/conf.avail/urw-p052.conf d6b1adfb19197ffafea20cba276fb1ea
-61 Feb 29 2024 /etc/fonts/conf.d/61-urw-standard-symbols-ps.conf -> /usr/share/fontconfig/conf.avail/urw-standard-symbols-ps.conf 1b25219149bae6c06f1045a850a103e2
-46 Feb 29 2024 /etc/fonts/conf.d/61-urw-z003.conf -> /usr/share/fontconfig/conf.avail/urw-z003.conf b5737b357a30ef2954361d080a9b8587
-69 Apr 18 2024 /etc/fonts/conf.d/64-language-selector-cjk-prefer.conf -> /usr/share/fontconfig/conf.avail/64-language-selector-cjk-prefer.conf 8f03de846166a3083162857f3bee8d5b
-41 Feb 22 2021 /etc/fonts/conf.d/65-droid-sans-fallback.conf -> ../conf.avail/65-droid-sans-fallback.conf b53978fe17be3c725aa002da2496257c
-35 Mar 11 2022 /etc/fonts/conf.d/65-fonts-lmodern.conf -> ../conf.avail/65-fonts-lmodern.conf d747c3c8c33e2a6a712bf8ee27bd3c7c
-54 Mar 30 2024 /etc/fonts/conf.d/65-fonts-persian.conf -> /usr/share/fontconfig/conf.avail/65-fonts-persian.conf b04584ac948140f0c6af958b87f0a734
-35 Oct 24 2022 /etc/fonts/conf.d/65-fonts-texgyre.conf -> ../conf.avail/65-fonts-texgyre.conf 34f58143e3fafce3685a13e670076430
-40 Oct 24 2022 /etc/fonts/conf.d/65-fonts-texgyre-math.conf -> ../conf.avail/65-fonts-texgyre-math.conf 491e6647eb03654576819b5e4eaa27c2
-49 Mar 30 2024 /etc/fonts/conf.d/65-nonlatin.conf -> /usr/share/fontconfig/conf.avail/65-nonlatin.conf ff69c94438d017791d2e7fd9a0e63d2f
-61 Apr 18 2024 /etc/fonts/conf.d/69-language-selector-ja.conf -> /usr/share/fontconfig/conf.avail/69-language-selector-ja.conf 5e3ed378ccff2697a48b0521fdc8bd4d
-64 Apr 18 2024 /etc/fonts/conf.d/69-language-selector-zh-cn.conf -> /usr/share/fontconfig/conf.avail/69-language-selector-zh-cn.conf 213c5fccbf5f3ee348f993f085c8d99e
-64 Apr 18 2024 /etc/fonts/conf.d/69-language-selector-zh-hk.conf -> /usr/share/fontconfig/conf.avail/69-language-selector-zh-hk.conf 8c960c5bcfb26f6f058902bf0b07cf00
-64 Apr 18 2024 /etc/fonts/conf.d/69-language-selector-zh-mo.conf -> /usr/share/fontconfig/conf.avail/69-language-selector-zh-mo.conf ae322c10c54d609bc37bed17c11cd32b
-64 Apr 18 2024 /etc/fonts/conf.d/69-language-selector-zh-sg.conf -> /usr/share/fontconfig/conf.avail/69-language-selector-zh-sg.conf eb0cdda5f96e73c75446af7f8676d494
-64 Apr 18 2024 /etc/fonts/conf.d/69-language-selector-zh-tw.conf -> /usr/share/fontconfig/conf.avail/69-language-selector-zh-tw.conf a981e8a61314aeb753c11d6c72d80cd9
-48 Mar 30 2024 /etc/fonts/conf.d/69-unifont.conf -> /usr/share/fontconfig/conf.avail/69-unifont.conf 50c85de35a0dc211f7222ae974df7f3a
-55 Sep 4 2023 /etc/fonts/conf.d/70-fonts-noto-cjk.conf -> /usr/share/fontconfig/conf.avail/70-fonts-noto-cjk.conf a346ced250bd6aa7fa06bce4f0c94c99
-64 Mar 30 2024 /etc/fonts/conf.d/70-no-bitmaps-except-emoji.conf -> /usr/share/fontconfig/conf.avail/70-no-bitmaps-except-emoji.conf c5154b3dbb8815e1c2f9c5db42149218
-53 Mar 21 2024 /etc/fonts/conf.d/71-ubuntulegacy.conf -> /usr/share/fontconfig/conf.avail/71-ubuntulegacy.conf bcb7b94296cf6e0ba706c7e3a6ae0dfd
-50 Mar 30 2024 /etc/fonts/conf.d/80-delicious.conf -> /usr/share/fontconfig/conf.avail/80-delicious.conf bf3e2f77fdab77b46f9f793dcfa267f8
-50 Mar 30 2024 /etc/fonts/conf.d/90-synthetic.conf -> /usr/share/fontconfig/conf.avail/90-synthetic.conf 3202b57ed004b0828d6e2e70f56d951d
-61 Apr 18 2024 /etc/fonts/conf.d/99-language-selector-zh.conf -> /usr/share/fontconfig/conf.avail/99-language-selector-zh.conf bcbe0b7ba747248475e9413184103a2c
-2940 Mar 30 2024 /etc/fonts/fonts.conf 9632eb1c8b4d81e0e300cd733a4beefe
+3 May 5 21:25 copper.last_page 1709106f7c5dbb0539104f4ea3c17a7d
+67933 May 5 21:25 copper.log e5169609ce25cd31b1113443b7c7188b
+12688 May 5 21:25 copper.out 310401004cbffeb1cc929760470b13d6
+5231814 May 5 21:25 copper.pdf a4c9685eb8b05cf94e31dd0669dc8f9a
+206094 May 4 10:28 copper.tex 9bafab15f80075bcca99e86293913481
+5530 May 5 21:25 copper.toc 4c968dbf0c5c6250613c9b8aaf97bdc4
 47653 May 1 19:28 /home/documents/latex/bib/mjm_tr.bib 09e96b88f759eb7ee7592ea1ea5fad37
 47652 Apr 27 17:30 /home/documents/latex/bib/releases.bib b55e0fdbb5ac6754aa330834c117aaf2
 7331 Jan 24 2019 /home/documents/latex/pkg/fltpage.sty 73b3a2493ca297ef0d59d6c1b921684b
@@ -91,12 +27,23 @@
 4716 Jun 8 2024 /home/documents/latex/share/includes/mycommands.tex 4db8e7aaf06149a8a4e5067dc9daa805
 1022 Jan 16 13:17 /home/documents/latex/share/includes/myrevtexheaders.tex a4c8ff2edd2bc8fcd125b54b2a9e9607
 2919 Jun 9 2024 /home/documents/latex/share/includes/myskeletonpackages.tex 08a01c33af793bfeb936c6684d2e792c
+29313 Jan 27 2019 /home/documents/latex/share/includes/plainurl.bst dfacbfe6df173afc674ca07e6b8dad42
 1538 Aug 14 2021 /home/documents/latex/share/includes/recent_template.tex 49763d2c29f74e4b54fa53b25c2cc439
 7217 May 15 2023 /home/documents/latex/share/overrides/mol2chemfig.sty 5aa81c197d462c2153a794ccee9881ef
-10 May 12 06:22 /home/marchywka/.texlive2023/texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.lua 1c4ea6a62824028862df0f477b29eaa7
-88 May 12 06:22 /home/marchywka/.texlive2023/texmf-var/luatex-cache/generic/names/luaotfload-lookup-cache.luc 33c4f44b01b84608903b253be80339c1
-55812 May 12 06:22 /home/marchywka/.texlive2023/texmf-var/luatex-cache/generic/names/luaotfload-names.lua.gz e0ebcecfe0c1369cfa821c2303a1a353
-79971 May 12 06:22 /home/marchywka/.texlive2023/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz 96f677cd5502705e6e6d55d58b20b3c2
+77648 Oct 28 2023 /home/marchywka/.texlive2019/texmf-var/luatex-cache/generic-dev/fonts/otl/lmmono10-regular.luc 9781f5c8a34a4c0bc570a299d048fec7
+77690 May 20 2023 /home/marchywka/.texlive2019/texmf-var/luatex-cache/generic-dev/fonts/otl/lmmono9-regular.luc 96accec07e21c918c677d94556d7a487
+124213 May 20 2023 /home/marchywka/.texlive2019/texmf-var/luatex-cache/generic-dev/fonts/otl/lmroman10-bold.luc be24eb5b757919758e60aa4f6d6aeb1d
+132135 Oct 12 2023 /home/marchywka/.texlive2019/texmf-var/luatex-cache/generic-dev/fonts/otl/lmroman10-italic.luc 48267fd5932c239fb4bad361e29a6f1e
+123142 May 20 2023 /home/marchywka/.texlive2019/texmf-var/luatex-cache/generic-dev/fonts/otl/lmroman10-regular.luc d3b29489a8ffc91cd4e03357f67b2fc5
+124110 May 20 2023 /home/marchywka/.texlive2019/texmf-var/luatex-cache/generic-dev/fonts/otl/lmroman12-bold.luc 8287c14a46bbf501cc26dc995afe5943
+123481 May 20 2023 /home/marchywka/.texlive2019/texmf-var/luatex-cache/generic-dev/fonts/otl/lmroman12-regular.luc 43b95c7579b49c47160ac0c030902624
+121774 Sep 15 2023 /home/marchywka/.texlive2019/texmf-var/luatex-cache/generic-dev/fonts/otl/lmroman5-regular.luc c99e387d782447967e8d270ff980a91f
+124323 May 20 2023 /home/marchywka/.texlive2019/texmf-var/luatex-cache/generic-dev/fonts/otl/lmroman6-regular.luc 6f24b27a1b5aa4b0cc9bac3053577dc4
+124198 May 20 2023 /home/marchywka/.texlive2019/texmf-var/luatex-cache/generic-dev/fonts/otl/lmroman7-regular.luc 86fe133d3cae7b679738c113e6f1abb9
+123949 May 20 2023 /home/marchywka/.texlive2019/texmf-var/luatex-cache/generic-dev/fonts/otl/lmroman8-regular.luc 4c67e46bb33a79c15e883e91a392459c
+124254 May 20 2023 /home/marchywka/.texlive2019/texmf-var/luatex-cache/generic-dev/fonts/otl/lmroman9-bold.luc d65daa4f1bfa8d8116e83ffdbe58b835
+131665 May 20 2023 /home/marchywka/.texlive2019/texmf-var/luatex-cache/generic-dev/fonts/otl/lmroman9-italic.luc 75ae5c563908ddf015a78b6a6c60e1f7
+123771 May 20 2023 /home/marchywka/.texlive2019/texmf-var/luatex-cache/generic-dev/fonts/otl/lmroman9-regular.luc 389c904e3ac3a14fd699c9e66e0cad24
 62073 Apr 18 14:48 keep/annie_cu30.jpg 326bc08ca6ea143739cce007023a1cd5
 428861 May 9 2024 keep/annie.jpeg 13a4f3486683d7ae7ad27bd9e6e9a8fa
 58718 Oct 20 2024 keep/annie_swelling.jpg 0f059727d63694df3c637cce782e463f
@@ -130,21 +77,6 @@
 762281 May 2 2024 potusebib.bib 9d69c07c905fe1ea717d95d95c360c9b
 413 Apr 12 2024 releases.tex 56213b8bd7e164dd6e668b62f5acf868
 343782 May 9 2024 sbenzbib.bib 19b330e7dcd1259065d1957d6a3c5ba2
-33495 Jan 30 2023 /usr/share/texlive/texmf-dist/bibtex/bst/urlbst/plainurl.bst 46cfb45e24a877059f9f7e142c7fc61c
-15 May 11 18:04 /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map -> pdftex_dl14.map f177baa1c39a3ebd62c3096a43521a0d
-81819 May 12 06:20 /var/lib/texmf/luatex-cache/generic/fonts/otl/lmmono10-regular.luc c1a1831503f38fe92f18da76596f7b9d
-81857 May 12 06:20 /var/lib/texmf/luatex-cache/generic/fonts/otl/lmmono9-regular.luc a1a0b2e3f2eadd6006e9c5bf10a6a19b
-128392 May 12 06:19 /var/lib/texmf/luatex-cache/generic/fonts/otl/lmroman10-bold.luc cc9893d1631ce94f31c1896bb041be89
-136294 May 12 06:20 /var/lib/texmf/luatex-cache/generic/fonts/otl/lmroman10-italic.luc b20655adeff86618736b3a30e93973df
-127309 May 12 06:19 /var/lib/texmf/luatex-cache/generic/fonts/otl/lmroman10-regular.luc 677951b359b90ddbfa3eb54f696122f6
-128281 May 12 06:19 /var/lib/texmf/luatex-cache/generic/fonts/otl/lmroman12-bold.luc c6f80f39b6b4f903e4339f6819ec2ecc
-127652 May 12 06:19 /var/lib/texmf/luatex-cache/generic/fonts/otl/lmroman12-regular.luc a5bcc9609cb60f4b11aae93e79c7a0c6
-125949 May 12 06:20 /var/lib/texmf/luatex-cache/generic/fonts/otl/lmroman5-regular.luc 77481c3f38dbf8f1d1c3d431f8f2c5f7
-128498 May 12 06:19 /var/lib/texmf/luatex-cache/generic/fonts/otl/lmroman6-regular.luc 26b426622a050256c91d2d7aac6eb659
-128357 May 12 06:19 /var/lib/texmf/luatex-cache/generic/fonts/otl/lmroman7-regular.luc 7927b6e898300280eee1561ad78bd0e8
-128128 May 12 06:19 /var/lib/texmf/luatex-cache/generic/fonts/otl/lmroman8-regular.luc ca20734c6458fb2502cd84305b602bbe
-128433 May 12 06:19 /var/lib/texmf/luatex-cache/generic/fonts/otl/lmroman9-bold.luc ada2f0aef166db1841048c100b4d0267
-135820 May 12 06:19 /var/lib/texmf/luatex-cache/generic/fonts/otl/lmroman9-italic.luc 0f1cc6e74b438a496c23053bb5056468
-127942 May 12 06:19 /var/lib/texmf/luatex-cache/generic/fonts/otl/lmroman9-regular.luc 8773e750671a876188ce154763cc70e4
-12239248 May 11 18:05 /var/lib/texmf/web2c/luahbtex/lualatex.fmt a1e11d2fc7f63674e923d447a295885b
-5220176 May 12 06:23 copper.pdf e955cff4a057b740babec3ed3dfc797d
+15 May 20 2023 /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map -> pdftex_dl14.map f177baa1c39a3ebd62c3096a43521a0d
+2639651 Mar 16 2024 /var/lib/texmf/web2c/luatex/lualatex.fmt dc6e497e977effcd6b888a0f2c9952dc
+5231814 May 5 21:25 copper.pdf a4c9685eb8b05cf94e31dd0669dc8f9a

@@ -1,9 +1,6 @@
-%%% Modification of BibTeX style file /usr/local/texlive/2022/texmf-dist/bibtex/bst/base/plain.bst
-%%% ... by urlbst, version 0.9.1 (marked with "% urlbst")
-%%% See <https://purl.org/nxg/dist/urlbst> and repository <https://heptapod.host/nxg/urlbst>
-%%% Modifications Copyright 2002–23, Norman Gray,
-%%% and distributed under the terms of the LPPL; see README for discussion.
-%%%
+%%% Modification of BibTeX style file /usr/local/texlive/2007/texmf-dist/bibtex/bst/base/plain.bst
+%%% ... by urlbst, version 0.6-1 (marked with "% urlbst")
+%%% See <http://purl.org/nxg/dist/urlbst>
 %%% Added webpage entry type, and url and lastchecked fields.
 %%% Added eprint support.
 %%% Added DOI support.
@@ -12,14 +9,14 @@
 %%% Original headers follow...
 
 % BibTeX standard bibliography style `plain'
-   % Version 0.99b (8-Dec-10 release) for BibTeX versions 0.99a or later.
-   % Copyright (C) 1984, 1985, 1988, 2010 Howard Trickey and Oren Patashnik.
-   % Unlimited copying and redistribution of this file are permitted as long as
-   % it is unmodified.  Modifications (and redistribution of modified versions)
-   % are also permitted, but only if the resulting file is renamed to something
-   % besides btxbst.doc, plain.bst, unsrt.bst, alpha.bst, and abbrv.bst.
-   % This restriction helps ensure that all standard styles are identical.
-   % The file btxbst.doc has the documentation for this style.
+	% version 0.99a for BibTeX versions 0.99a or later, LaTeX version 2.09.
+	% Copyright (C) 1985, all rights reserved.
+	% Copying of this file is authorized only if either
+	% (1) you make absolutely no changes to your copy, including name, or
+	% (2) if you do make changes, you name it something other than
+	% btxbst.doc, plain.bst, unsrt.bst, alpha.bst, and abbrv.bst.
+	% This restriction helps ensure that all standard styles are identical.
+	% The file btxbst.doc has the documentation for this style.
 
 ENTRY
   { address
@@ -55,45 +52,29 @@ ENTRY
 
 INTEGERS { output.state before.all mid.sentence after.sentence after.block }
 
-% urlbst...
-% urlbst constants and state variables
-STRINGS { urlintro
-  eprinturl eprintprefix doiprefix doiurl pubmedprefix pubmedurl
-  citedstring onlinestring linktextstring
-  openinlinelink closeinlinelink }
-INTEGERS { hrefform doiform inlinelinks makeinlinelink
-  addeprints adddoi addpubmed }
+STRINGS { urlintro eprinturl eprintprefix doiprefix doiurl pubmedprefix pubmedurl openinlinelink closeinlinelink } % urlbst...
+INTEGERS { hrefform inlinelinks makeinlinelink addeprints adddoiresolver addpubmedresolver }
+% Following constants may be adjusted by hand, if desired
 FUNCTION {init.urlbst.variables}
 {
-  % The following constants may be adjusted by hand, if desired
-
-  % The first set allow you to enable or disable certain functionality.
-  #1 'adddoi :=	% 0=no DOI resolver; 1=include it
-  #0 'inlinelinks :=	% 0=URLs explicit; 1=URLs attached to titles
-  #2 'hrefform :=	% 0=no crossrefs; 1=hypertex hrefs; 2=hyperref hrefs
-  #1 'addeprints :=	% 0=no eprints; 1=include eprints
-  #0 'doiform :=	% 0=with href; 1=with \doi{}
-  #1 'addpubmed :=	% 0=no PUBMED resolver; 1=include it
-
-  % String constants, which you _might_ want to tweak.
-  "https://doi.org/" 'doiurl :=	% prefix to make URL from DOI
-  "arXiv:" 'eprintprefix :=	% text prefix printed before eprint ref
-  "online" 'onlinestring :=	% label that a resource is online
-  "URL: " 'urlintro :=	% text prefix before URL
-  "doi:" 'doiprefix :=	% printed text to introduce DOI
-  "http://www.ncbi.nlm.nih.gov/pubmed/" 'pubmedurl :=	% prefix to make URL from PUBMED
-  "[link]" 'linktextstring :=	% anonymous link text
-  "https://arxiv.org/abs/" 'eprinturl :=	% prefix to make URL from eprint ref
-  "PMID:" 'pubmedprefix :=	% text prefix printed before PUBMED ref
-  "cited " 'citedstring :=	% label in "lastchecked" remark
-
-  % The following are internal state variables, not configuration constants,
-  % so they shouldn't be fiddled with.
-  #0 'makeinlinelink :=     % state variable managed by possibly.setup.inlinelink
+  "Available from: " 'urlintro := % prefix before URL
+  "http://arxiv.org/abs/" 'eprinturl := % prefix to make URL from eprint ref
+  "arXiv:" 'eprintprefix := % text prefix printed before eprint ref
+  "http://dx.doi.org/" 'doiurl := % prefix to make URL from DOI
+  "doi:" 'doiprefix :=      % text prefix printed before DOI ref
+  "http://www.ncbi.nlm.nih.gov/pubmed/" 'pubmedurl := % prefix to make URL from PUBMED
+  "PMID:" 'pubmedprefix :=      % text prefix printed before PUBMED ref
+  #1 'addeprints :=         % 0=no eprints; 1=include eprints
+  #1 'adddoiresolver :=     % 0=no DOI resolver; 1=include it
+  #1 'addpubmedresolver :=     % 0=no PUBMED resolver; 1=include it
+  #2 'hrefform :=           % 0=no crossrefs; 1=hypertex xrefs; 2=hyperref refs
+  #0 'inlinelinks :=        % 0=URLs explicit; 1=URLs attached to titles
+  % the following are internal state variables, not config constants
+  #0 'makeinlinelink :=     % state variable managed by setup.inlinelink
   "" 'openinlinelink :=     % ditto
   "" 'closeinlinelink :=    % ditto
 }
-INTEGERS {
+INTEGERS { 
   bracket.state
   outside.brackets
   open.brackets
@@ -102,10 +83,10 @@ INTEGERS {
 }
 % ...urlbst to here
 FUNCTION {init.state.consts}
-{ #0 'outside.brackets := % urlbst...
+{ #0 'outside.brackets := % urlbst
   #1 'open.brackets :=
   #2 'within.brackets :=
-  #3 'close.brackets := % ...urlbst to here
+  #3 'close.brackets :=
 
   #0 'before.all :=
   #1 'mid.sentence :=
@@ -121,15 +102,15 @@ FUNCTION {output.nonnull.original}
   output.state mid.sentence =
     { ", " * write$ }
     { output.state after.block =
-        { add.period$ write$
-          newline$
-          "\newblock " write$
-        }
-        { output.state before.all =
-            'write$
-            { add.period$ " " * write$ }
-          if$
-        }
+	{ add.period$ write$
+	  newline$
+	  "\newblock " write$
+	}
+	{ output.state before.all =
+	    'write$
+	    { add.period$ " " * write$ }
+	  if$
+	}
       if$
       mid.sentence 'output.state :=
     }
@@ -138,19 +119,6 @@ FUNCTION {output.nonnull.original}
 }
 
 % urlbst...
-% Minimal DOI parsing.
-% Given a DOI on the stack, check whether it starts with 'doiurl' or not.
-% In either case, leave on the stack first a DOI with, and then a DOI without, the URL prefix.
-FUNCTION {parse.doi}
-{
-  #1 doiurl text.length$ substring$
-  doiurl =
-    { doi
-      doi doiurl text.length$ #1 + #999 substring$ }
-    { doiurl doi *
-      doi }
-  if$
-}
 % The following three functions are for handling inlinelink.  They wrap
 % a block of text which is potentially output with write$ by multiple
 % other functions, so we don't know the content a priori.
@@ -161,41 +129,24 @@ FUNCTION {parse.doi}
 % previously set makeinlinelink true, and the two ...end.inlinelink functions
 % will only do their stuff if start.inlinelink has previously set
 % closeinlinelink to be non-empty.
-% (thanks to 'ijvm' for suggested code here)
-FUNCTION {uand}
-{ 'skip$ { pop$ #0 } if$ } % 'and' (which isn't defined at this point in the file)
-FUNCTION {possibly.setup.inlinelink}
-{ makeinlinelink hrefform #0 > uand
-    { doi empty$ adddoi uand
-        { pubmed empty$ addpubmed uand
-            { eprint empty$ addeprints uand
-                { url empty$
-                    { "" }
-                    { url }
-                  if$ }
-                { eprinturl eprint * }
-              if$ }
-            { pubmedurl pubmed * }
-          if$ }
-%        { doiurl doi * }
-        { doi empty$
-            { "XXX" }
-            { doi parse.doi pop$ }
-          if$
+FUNCTION {setup.inlinelink}
+{ makeinlinelink
+    { hrefform #1 = % hypertex
+        { "\special {html:<a href=" quote$ * url * quote$ * "> }{" * 'openinlinelink :=
+          "\special {html:</a>}" 'closeinlinelink :=
+          }
+        { hrefform #2 = % hyperref
+            { "\href{" url * "}{" * 'openinlinelink :=
+              "}" 'closeinlinelink :=
+              }
+            'skip$
+          if$ % hrefform #2 =
         }
-      if$
-      % an appropriately-formatted URL is now on the stack
-      hrefform #1 = % hypertex
-        { "\special {html:<a href=" quote$ * swap$ * quote$ * "> }{" * 'openinlinelink :=
-          "\special {html:</a>}" 'closeinlinelink := }
-        { "\href {" swap$ * "} {" * 'openinlinelink := % hrefform=#2 -- hyperref
-          % the space between "} {" matters: a URL of just the right length can cause "\% newline em"
-          "}" 'closeinlinelink := }
-      if$
+      if$ % hrefform #1 =
       #0 'makeinlinelink :=
-      }
+    }
     'skip$
-  if$ % makeinlinelink
+ if$ % makeinlinelink
 }
 FUNCTION {add.inlinelink}
 { openinlinelink empty$
@@ -232,14 +183,14 @@ FUNCTION {output.nonnull}
       bracket.state open.brackets =
         { " [" * }
         { ", " * } % bracket.state will be within.brackets
-      if$
-      s *
+      if$ 
+      s * 
       close.brackets 'bracket.state :=
     }
   if$
 }
 
-% Call this function just before adding something which should be presented in
+% Call this function just before adding something which should be presented in 
 % brackets.  bracket.state is handled specially within output.nonnull.
 FUNCTION {inbrackets}
 { bracket.state close.brackets =
@@ -251,7 +202,7 @@ FUNCTION {inbrackets}
 FUNCTION {format.lastchecked}
 { lastchecked empty$
     { "" }
-    { inbrackets citedstring lastchecked * }
+    { inbrackets "cited " lastchecked * }
   if$
 }
 % ...urlbst to here
@@ -271,7 +222,7 @@ FUNCTION {output.check}
   if$
 }
 
-FUNCTION {output.bibitem.original} % urlbst (renamed from output.bibitem, so it can be wrapped below)
+FUNCTION {output.bibitem.original}
 { newline$
   "\bibitem{" write$
   cite$ write$
@@ -281,7 +232,7 @@ FUNCTION {output.bibitem.original} % urlbst (renamed from output.bibitem, so it 
   before.all 'output.state :=
 }
 
-FUNCTION {fin.entry.original} % urlbst (renamed from fin.entry, so it can be wrapped below)
+FUNCTION {fin.entry.original}
 { add.period$
   write$
   newline$
@@ -298,8 +249,8 @@ FUNCTION {new.sentence}
 { output.state after.block =
     'skip$
     { output.state before.all =
-        'skip$
-        { after.sentence 'output.state := }
+	'skip$
+	{ after.sentence 'output.state := }
       if$
     }
   if$
@@ -379,20 +330,20 @@ FUNCTION {format.names}
     { namesleft #0 > }
     { s nameptr "{ff~}{vv~}{ll}{, jj}" format.name$ 't :=
       nameptr #1 >
-        { namesleft #1 >
-            { ", " * t * }
-            { numnames #2 >
-                { "," * }
-                'skip$
-              if$
-              t "others" =
-                { " et~al." * }
-                { " and " * t * }
-              if$
-            }
-          if$
-        }
-        't
+	{ namesleft #1 >
+	    { ", " * t * }
+	    { numnames #2 >
+		{ "," * }
+		'skip$
+	      if$
+	      t "others" =
+		{ " et~al." * }
+		{ " and " * t * }
+	      if$
+	    }
+	  if$
+	}
+	't
       if$
       nameptr #1 + 'nameptr :=
       namesleft #1 - 'namesleft :=
@@ -412,8 +363,8 @@ FUNCTION {format.editors}
     { "" }
     { editor format.names
       editor num.names$ #1 >
-        { ", editors" * }
-        { ", editor" * }
+	{ ", editors" * }
+	{ ", editor" * }
       if$
     }
   if$
@@ -431,21 +382,21 @@ FUNCTION {n.dashify}
   ""
     { t empty$ not }
     { t #1 #1 substring$ "-" =
-        { t #1 #2 substring$ "--" = not
-            { "--" *
-              t #2 global.max$ substring$ 't :=
-            }
-            {   { t #1 #1 substring$ "-" = }
-                { "-" *
-                  t #2 global.max$ substring$ 't :=
-                }
-              while$
-            }
-          if$
-        }
-        { t #1 #1 substring$ *
-          t #2 global.max$ substring$ 't :=
-        }
+	{ t #1 #2 substring$ "--" = not
+	    { "--" *
+	      t #2 global.max$ substring$ 't :=
+	    }
+	    {   { t #1 #1 substring$ "-" = }
+		{ "-" *
+		  t #2 global.max$ substring$ 't :=
+		}
+	      while$
+	    }
+	  if$
+	}
+	{ t #1 #1 substring$ *
+	  t #2 global.max$ substring$ 't :=
+	}
       if$
     }
   while$
@@ -454,15 +405,15 @@ FUNCTION {n.dashify}
 FUNCTION {format.date}
 { year empty$
     { month empty$
-        { "" }
-        { "there's a month but no year in " cite$ * warning$
-          month
-        }
+	{ "" }
+	{ "there's a month but no year in " cite$ * warning$
+	  month
+	}
       if$
     }
     { month empty$
-        'year
-        { month " " * year * }
+	'year
+	{ month " " * year * }
       if$
     }
   if$
@@ -492,8 +443,8 @@ FUNCTION {format.bvolume}
     { "" }
     { "volume" volume tie.or.space.connect
       series empty$
-        'skip$
-        { " of " * series emphasize * }
+	'skip$
+	{ " of " * series emphasize * }
       if$
       "volume and number" number either.or.check
     }
@@ -503,17 +454,17 @@ FUNCTION {format.bvolume}
 FUNCTION {format.number.series}
 { volume empty$
     { number empty$
-        { series field.or.null }
-        { output.state mid.sentence =
-            { "number" }
-            { "Number" }
-          if$
-          number tie.or.space.connect
-          series empty$
-            { "there's a number but no series in " cite$ * warning$ }
-            { " in " * series * }
-          if$
-        }
+	{ series field.or.null }
+	{ output.state mid.sentence =
+	    { "number" }
+	    { "Number" }
+	  if$
+	  number tie.or.space.connect
+	  series empty$
+	    { "there's a number but no series in " cite$ * warning$ }
+	    { " in " * series * }
+	  if$
+	}
       if$
     }
     { "" }
@@ -524,8 +475,8 @@ FUNCTION {format.edition}
 { edition empty$
     { "" }
     { output.state mid.sentence =
-        { edition "l" change.case$ " edition" * }
-        { edition "t" change.case$ " edition" * }
+	{ edition "l" change.case$ " edition" * }
+	{ edition "t" change.case$ " edition" * }
       if$
     }
   if$
@@ -545,8 +496,8 @@ FUNCTION {multi.page.check}
       swap$ duplicate$ "," =
       swap$ "+" =
       or or
-        { #1 'multiresult := }
-        { t #2 global.max$ substring$ 't := }
+	{ #1 'multiresult := }
+	{ t #2 global.max$ substring$ 't := }
       if$
     }
   while$
@@ -557,8 +508,8 @@ FUNCTION {format.pages}
 { pages empty$
     { "" }
     { pages multi.page.check
-        { "pages" pages n.dashify tie.or.space.connect }
-        { "page" pages tie.or.space.connect }
+	{ "pages" pages n.dashify tie.or.space.connect }
+	{ "page" pages tie.or.space.connect }
       if$
     }
   if$
@@ -570,16 +521,16 @@ FUNCTION {format.vol.num.pages}
     'skip$
     { "(" number * ")" * *
       volume empty$
-        { "there's a number but no volume in " cite$ * warning$ }
-        'skip$
+	{ "there's a number but no volume in " cite$ * warning$ }
+	'skip$
       if$
     }
   if$
   pages empty$
     'skip$
     { duplicate$ empty$
-        { pop$ format.pages }
-        { ":" * pages n.dashify * }
+	{ pop$ format.pages }
+	{ ":" * pages n.dashify * }
       if$
     }
   if$
@@ -589,13 +540,13 @@ FUNCTION {format.chapter.pages}
 { chapter empty$
     'format.pages
     { type empty$
-        { "chapter" }
-        { type "l" change.case$ }
+	{ "chapter" }
+	{ type "l" change.case$ }
       if$
       chapter tie.or.space.connect
       pages empty$
-        'skip$
-        { ", " * format.pages * }
+	'skip$
+	{ ", " * format.pages * }
       if$
     }
   if$
@@ -605,8 +556,8 @@ FUNCTION {format.in.ed.booktitle}
 { booktitle empty$
     { "" }
     { editor empty$
-        { "In " booktitle emphasize * }
-        { "In " format.editors * ", " * booktitle emphasize * }
+	{ "In " booktitle emphasize * }
+	{ "In " format.editors * ", " * booktitle emphasize * }
       if$
     }
   if$
@@ -645,11 +596,11 @@ FUNCTION {format.tr.number}
 FUNCTION {format.article.crossref}
 { key empty$
     { journal empty$
-        { "need key or journal for " cite$ * " to crossref " * crossref *
-          warning$
-          ""
-        }
-        { "In {\em " journal * "\/}" * }
+	{ "need key or journal for " cite$ * " to crossref " * crossref *
+	  warning$
+	  ""
+	}
+	{ "In {\em " journal * "\/}" * }
       if$
     }
     { "In " key * }
@@ -663,12 +614,12 @@ FUNCTION {format.crossref.editor}
   #2 >
     { pop$ " et~al." * }
     { #2 <
-        'skip$
-        { editor #2 "{ff }{vv }{ll}{ jj}" format.name$ "others" =
-            { " et~al." * }
-            { " and " * editor #2 "{vv~}{ll}" format.name$ * }
-          if$
-        }
+	'skip$
+	{ editor #2 "{ff }{vv }{ll}{ jj}" format.name$ "others" =
+	    { " et~al." * }
+	    { " and " * editor #2 "{vv~}{ll}" format.name$ * }
+	  if$
+	}
       if$
     }
   if$
@@ -687,15 +638,15 @@ FUNCTION {format.book.crossref}
   editor field.or.null author field.or.null =
   or
     { key empty$
-        { series empty$
-            { "need editor, key, or series for " cite$ * " to crossref " *
-              crossref * warning$
-              "" *
-            }
-            { "{\em " * series * "\/}" * }
-          if$
-        }
-        { key * }
+	{ series empty$
+	    { "need editor, key, or series for " cite$ * " to crossref " *
+	      crossref * warning$
+	      "" *
+	    }
+	    { "{\em " * series * "\/}" * }
+	  if$
+	}
+	{ key * }
       if$
     }
     { format.crossref.editor * }
@@ -708,15 +659,15 @@ FUNCTION {format.incoll.inproc.crossref}
   editor field.or.null author field.or.null =
   or
     { key empty$
-        { booktitle empty$
-            { "need editor, key, or booktitle for " cite$ * " to crossref " *
-              crossref * warning$
-              ""
-            }
-            { "In {\em " booktitle * "\/}" * }
-          if$
-        }
-        { "In " key * }
+	{ booktitle empty$
+	    { "need editor, key, or booktitle for " cite$ * " to crossref " *
+	      crossref * warning$
+	      ""
+	    }
+	    { "In {\em " booktitle * "\/}" * }
+	  if$
+	}
+	{ "In " key * }
       if$
     }
     { "In " format.crossref.editor * }
@@ -735,14 +686,14 @@ FUNCTION {make.href.null}
 }
 % make hypertex specials
 FUNCTION {make.href.hypertex}
-{
+{ 
   "\special {html:<a href=" quote$ *
   swap$ * quote$ * "> }" * swap$ *
   "\special {html:</a>}" *
 }
 % make hyperref specials
 FUNCTION {make.href.hyperref}
-{
+{ 
   "\href {" swap$ * "} {\path{" * swap$ * "}}" *
 }
 FUNCTION {make.href}
@@ -769,6 +720,7 @@ FUNCTION {format.url}
    }
   if$
 }
+
 FUNCTION {format.eprint}
 { eprint empty$
     { "" }
@@ -779,13 +731,7 @@ FUNCTION {format.eprint}
 FUNCTION {format.doi}
 { doi empty$
     { "" }
-    { doi parse.doi % leaves "https://doi.org/DOI" DOI on the stack
-      's := 't :=
-      doiform #1 =
-        { "\doi{" s * "}" * }
-        { doiprefix s * t make.href }
-      if$
-    }
+    { doiprefix doi * doiurl doi * make.href }
   if$
 }
 
@@ -803,10 +749,10 @@ FUNCTION {format.pubmed}
 % the URL and the lastchecked in brackets.
 FUNCTION {output.url}
 { url empty$
-    'skip$
-    { new.block
+    'skip$ 
+    { new.block 
       format.url output
-      format.lastchecked output
+      format.lastchecked output 
     }
   if$
 }
@@ -814,33 +760,18 @@ FUNCTION {output.url}
 FUNCTION {output.web.refs}
 {
   new.block
-  inlinelinks
-    'skip$ % links were inline -- don't repeat them
-    { % If the generated DOI will be the same as the URL,
-      % then don't print the URL (thanks to Joseph Wright
-      % for (the original version of) this code,
-      % at http://tex.stackexchange.com/questions/5660)
-      adddoi
-          doi empty$ { "X" } { doi parse.doi pop$ } if$ % DOI URL to be generated
-          url empty$ { "Y" } { url } if$          % the URL, or "Y" if empty
-          =                                       % are the strings equal?
-          and
-        'skip$
-        { output.url }
-      if$
-      addeprints eprint empty$ not and
-        { format.eprint output.nonnull }
-        'skip$
-      if$
-      adddoi doi empty$ not and
-        { format.doi output.nonnull }
-        'skip$
-      if$
-      addpubmed pubmed empty$ not and
-        { format.pubmed output.nonnull }
-        'skip$
-      if$
-    }
+  output.url
+  addeprints eprint empty$ not and
+    { format.eprint output.nonnull }
+    'skip$
+  if$
+  adddoiresolver doi empty$ not and
+    { format.doi output.nonnull }
+    'skip$
+  if$
+  addpubmedresolver pubmed empty$ not and
+    { format.pubmed output.nonnull }
+    'skip$
   if$
 }
 
@@ -850,7 +781,7 @@ FUNCTION {output.web.refs}
 FUNCTION {output.bibitem}
 { outside.brackets 'bracket.state :=
   output.bibitem.original
-  inlinelinks url empty$ not doi empty$ not or pubmed empty$ not or eprint empty$ not or and
+  inlinelinks url empty$ not and
     { #1 'makeinlinelink := }
     { #0 'makeinlinelink := }
   if$
@@ -860,8 +791,8 @@ FUNCTION {output.bibitem}
 FUNCTION {fin.entry}
 { output.web.refs  % urlbst
   makeinlinelink       % ooops, it appears we didn't have a title for inlinelink
-    { possibly.setup.inlinelink % add some artificial link text here, as a fallback
-      linktextstring output.nonnull }
+    { setup.inlinelink % add some artificial link text here, as a fallback
+      "[link]" output.nonnull }
     'skip$
   if$
   bracket.state close.brackets = % urlbst
@@ -874,7 +805,7 @@ FUNCTION {fin.entry}
 % Webpage entry type.
 % Title and url fields required;
 % author, note, year, month, and lastchecked fields optional
-% See references
+% See references 
 %   ISO 690-2 http://www.nlc-bnc.ca/iso/tc46sc9/standard/690-2e.htm
 %   http://www.classroom.net/classroom/CitingNetResources.html
 %   http://neal.ctstateu.edu/history/cite.html
@@ -895,9 +826,9 @@ FUNCTION {webpage}
     }
   if$
   new.block
-  title empty$ 'skip$ 'possibly.setup.inlinelink if$
+  title empty$ 'skip$ 'setup.inlinelink if$
   format.title "title" output.check
-  inbrackets onlinestring output
+  inbrackets "online" output
   new.block
   year empty$
     'skip$
@@ -918,12 +849,12 @@ FUNCTION {article}
 { output.bibitem
   format.authors "author" output.check
   new.block
-  title empty$ 'skip$ 'possibly.setup.inlinelink if$ % urlbst
+  title empty$ 'skip$ 'setup.inlinelink if$ % urlbst
   format.title "title" output.check
   new.block
   crossref missing$
     { journal emphasize "journal" output.check
-      possibly.setup.inlinelink format.vol.num.pages output% urlbst
+      format.vol.num.pages output
       format.date "year" output.check
     }
     { format.article.crossref output.nonnull
@@ -941,13 +872,13 @@ FUNCTION {book}
     { format.editors "author and editor" output.check }
     { format.authors output.nonnull
       crossref missing$
-        { "author and editor" editor either.or.check }
-        'skip$
+	{ "author and editor" editor either.or.check }
+	'skip$
       if$
     }
   if$
   new.block
-  title empty$ 'skip$ 'possibly.setup.inlinelink if$ % urlbst
+  title empty$ 'skip$ 'setup.inlinelink if$ % urlbst
   format.btitle "title" output.check
   crossref missing$
     { format.bvolume output
@@ -972,7 +903,7 @@ FUNCTION {booklet}
 { output.bibitem
   format.authors output
   new.block
-  title empty$ 'skip$ 'possibly.setup.inlinelink if$ % urlbst
+  title empty$ 'skip$ 'setup.inlinelink if$ % urlbst
   format.title "title" output.check
   howpublished address new.block.checkb
   howpublished output
@@ -989,13 +920,13 @@ FUNCTION {inbook}
     { format.editors "author and editor" output.check }
     { format.authors output.nonnull
       crossref missing$
-        { "author and editor" editor either.or.check }
-        'skip$
+	{ "author and editor" editor either.or.check }
+	'skip$
       if$
     }
   if$
   new.block
-  title empty$ 'skip$ 'possibly.setup.inlinelink if$ % urlbst
+  title empty$ 'skip$ 'setup.inlinelink if$ % urlbst
   format.btitle "title" output.check
   crossref missing$
     { format.bvolume output
@@ -1022,7 +953,7 @@ FUNCTION {incollection}
 { output.bibitem
   format.authors "author" output.check
   new.block
-  title empty$ 'skip$ 'possibly.setup.inlinelink if$ % urlbst
+  title empty$ 'skip$ 'setup.inlinelink if$ % urlbst
   format.title "title" output.check
   new.block
   crossref missing$
@@ -1049,7 +980,7 @@ FUNCTION {inproceedings}
 { output.bibitem
   format.authors "author" output.check
   new.block
-  title empty$ 'skip$ 'possibly.setup.inlinelink if$ % urlbst
+  title empty$ 'skip$ 'setup.inlinelink if$ % urlbst
   format.title "title" output.check
   new.block
   crossref missing$
@@ -1058,17 +989,17 @@ FUNCTION {inproceedings}
       format.number.series output
       format.pages output
       address empty$
-        { organization publisher new.sentence.checkb
-          organization output
-          publisher output
-          format.date "year" output.check
-        }
-        { address output.nonnull
-          format.date "year" output.check
-          new.sentence
-          organization output
-          publisher output
-        }
+	{ organization publisher new.sentence.checkb
+	  organization output
+	  publisher output
+	  format.date "year" output.check
+	}
+	{ address output.nonnull
+	  format.date "year" output.check
+	  new.sentence
+	  organization output
+	  publisher output
+	}
       if$
     }
     { format.incoll.inproc.crossref output.nonnull
@@ -1086,23 +1017,23 @@ FUNCTION {manual}
 { output.bibitem
   author empty$
     { organization empty$
-        'skip$
-        { organization output.nonnull
-          address output
-        }
+	'skip$
+	{ organization output.nonnull
+	  address output
+	}
       if$
     }
     { format.authors output.nonnull }
   if$
   new.block
-  title empty$ 'skip$ 'possibly.setup.inlinelink if$ % urlbst
+  title empty$ 'skip$ 'setup.inlinelink if$ % urlbst
   format.btitle "title" output.check
   author empty$
     { organization empty$
-        { address new.block.checka
-          address output
-        }
-        'skip$
+	{ address new.block.checka
+	  address output
+	}
+	'skip$
       if$
     }
     { organization address new.block.checkb
@@ -1121,7 +1052,7 @@ FUNCTION {mastersthesis}
 { output.bibitem
   format.authors "author" output.check
   new.block
-  title empty$ 'skip$ 'possibly.setup.inlinelink if$ % urlbst
+  title empty$ 'skip$ 'setup.inlinelink if$ % urlbst
   format.title "title" output.check
   new.block
   "Master's thesis" format.thesis.type output.nonnull
@@ -1137,7 +1068,7 @@ FUNCTION {misc}
 { output.bibitem
   format.authors output
   title howpublished new.block.checkb
-  title empty$ 'skip$ 'possibly.setup.inlinelink if$ % urlbst
+  title empty$ 'skip$ 'setup.inlinelink if$ % urlbst
   format.title output
   howpublished new.block.checka
   howpublished output
@@ -1152,7 +1083,7 @@ FUNCTION {phdthesis}
 { output.bibitem
   format.authors "author" output.check
   new.block
-  title empty$ 'skip$ 'possibly.setup.inlinelink if$ % urlbst
+  title empty$ 'skip$ 'setup.inlinelink if$ % urlbst
   format.btitle "title" output.check
   new.block
   "PhD thesis" format.thesis.type output.nonnull
@@ -1171,16 +1102,16 @@ FUNCTION {proceedings}
     { format.editors output.nonnull }
   if$
   new.block
-  title empty$ 'skip$ 'possibly.setup.inlinelink if$ % urlbst
+  title empty$ 'skip$ 'setup.inlinelink if$ % urlbst
   format.btitle "title" output.check
   format.bvolume output
   format.number.series output
   address empty$
     { editor empty$
-        { publisher new.sentence.checka }
-        { organization publisher new.sentence.checkb
-          organization output
-        }
+	{ publisher new.sentence.checka }
+	{ organization publisher new.sentence.checkb
+	  organization output
+	}
       if$
       publisher output
       format.date "year" output.check
@@ -1189,8 +1120,8 @@ FUNCTION {proceedings}
       format.date "year" output.check
       new.sentence
       editor empty$
-        'skip$
-        { organization output }
+	'skip$
+	{ organization output }
       if$
       publisher output
     }
@@ -1204,7 +1135,7 @@ FUNCTION {techreport}
 { output.bibitem
   format.authors "author" output.check
   new.block
-  title empty$ 'skip$ 'possibly.setup.inlinelink if$ % urlbst
+  title empty$ 'skip$ 'setup.inlinelink if$ % urlbst
   format.title "title" output.check
   new.block
   format.tr.number output.nonnull
@@ -1220,7 +1151,7 @@ FUNCTION {unpublished}
 { output.bibitem
   format.authors "author" output.check
   new.block
-  title empty$ 'skip$ 'possibly.setup.inlinelink if$ % urlbst
+  title empty$ 'skip$ 'setup.inlinelink if$ % urlbst
   format.title "title" output.check
   new.block
   note "note" output.check
@@ -1321,13 +1252,13 @@ FUNCTION {sort.format.names}
   numnames 'namesleft :=
     { namesleft #0 > }
     { nameptr #1 >
-        { "   " * }
-        'skip$
+	{ "   " * }
+	'skip$
       if$
       s nameptr "{vv{ } }{ll{ }}{  ff{ }}{  jj{ }}" format.name$ 't :=
       nameptr numnames = t "others" = and
-        { "et al" * }
-        { t sortify * }
+	{ "et al" * }
+	{ t sortify * }
       if$
       nameptr #1 + 'nameptr :=
       namesleft #1 - 'namesleft :=
@@ -1349,10 +1280,10 @@ FUNCTION {sort.format.title}
 FUNCTION {author.sort}
 { author empty$
     { key empty$
-        { "to sort, need author or key in " cite$ * warning$
-          ""
-        }
-        { key sortify }
+	{ "to sort, need author or key in " cite$ * warning$
+	  ""
+	}
+	{ key sortify }
       if$
     }
     { author sort.format.names }
@@ -1362,14 +1293,14 @@ FUNCTION {author.sort}
 FUNCTION {author.editor.sort}
 { author empty$
     { editor empty$
-        { key empty$
-            { "to sort, need author, editor, or key in " cite$ * warning$
-              ""
-            }
-            { key sortify }
-          if$
-        }
-        { editor sort.format.names }
+	{ key empty$
+	    { "to sort, need author, editor, or key in " cite$ * warning$
+	      ""
+	    }
+	    { key sortify }
+	  if$
+	}
+	{ editor sort.format.names }
       if$
     }
     { author sort.format.names }
@@ -1379,14 +1310,14 @@ FUNCTION {author.editor.sort}
 FUNCTION {author.organization.sort}
 { author empty$
     { organization empty$
-        { key empty$
-            { "to sort, need author, organization, or key in " cite$ * warning$
-              ""
-            }
-            { key sortify }
-          if$
-        }
-        { "The " #4 organization chop.word sortify }
+	{ key empty$
+	    { "to sort, need author, organization, or key in " cite$ * warning$
+	      ""
+	    }
+	    { key sortify }
+	  if$
+	}
+	{ "The " #4 organization chop.word sortify }
       if$
     }
     { author sort.format.names }
@@ -1396,14 +1327,14 @@ FUNCTION {author.organization.sort}
 FUNCTION {editor.organization.sort}
 { editor empty$
     { organization empty$
-        { key empty$
-            { "to sort, need editor, organization, or key in " cite$ * warning$
-              ""
-            }
-            { key sortify }
-          if$
-        }
-        { "The " #4 organization chop.word sortify }
+	{ key empty$
+	    { "to sort, need editor, organization, or key in " cite$ * warning$
+	      ""
+	    }
+	    { key sortify }
+	  if$
+	}
+	{ "The " #4 organization chop.word sortify }
       if$
     }
     { editor sort.format.names }
@@ -1416,12 +1347,12 @@ FUNCTION {presort}
   or
     'author.editor.sort
     { type$ "proceedings" =
-        'editor.organization.sort
-        { type$ "manual" =
-            'author.organization.sort
-            'author.sort
-          if$
-        }
+	'editor.organization.sort
+	{ type$ "manual" =
+	    'author.organization.sort
+	    'author.sort
+	  if$
+	}
       if$
     }
   if$
@@ -1477,7 +1408,7 @@ FUNCTION {begin.bib}
 
 EXECUTE {begin.bib}
 
-EXECUTE {init.urlbst.variables} % urlbst
+EXECUTE {init.urlbst.variables}
 EXECUTE {init.state.consts}
 
 ITERATE {call.type$}

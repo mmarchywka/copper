@@ -1,15 +1,13 @@
-This is BibTeX, Version 0.99d (TeX Live 2023/Debian)
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: copper.aux
 The style file: plainurl.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
 Reallocated global_strs (elt_size=200001) to 20 items from 10.
 Reallocated glb_str_end (elt_size=4) to 20 items from 10.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
-Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated field_info (elt_size=4) to 16368 items from 5000.
-Database file #1: copperNotes.bib
-Database file #2: copper.bib
+Database file #1: copper.bib
 Warning--I'm ignoring Yu_Liou_Biggins_Copper_Deficiency_Liver_2019's extra "url" field
 --line 2846 of file copper.bib
 Reallocated str_pool (elt_size=1) to 130000 items from 65000.
@@ -24,10 +22,10 @@ Reallocated str_pool (elt_size=1) to 195000 items from 130000.
  : %CI = {(c) The Author(s) 2022. Published by Oxford University Press. All rights reserved.  For Permissions, please email: journals.permissions@oup.com.
  :                                                                                                                                                        },
 I'm skipping whatever remains of this entry
+Database file #2: mjm_tr.bib
+Database file #3: releases.bib
 Reallocated str_pool (elt_size=1) to 260000 items from 195000.
-Database file #3: mjm_tr.bib
-Database file #4: releases.bib
-Database file #5: potusebib.bib
+Database file #4: potusebib.bib
 Repeated entry---line 7042 of file potusebib.bib
  : @article{PMID11801334
  :                      ,
@@ -36,7 +34,7 @@ Repeated entry---line 9093 of file potusebib.bib
  : @article{PMID37833948
  :                      ,
 I'm skipping whatever remains of this entry
-Database file #6: ../casesum/casesum.bib
+Database file #5: ../casesum/casesum.bib
 Repeated entry---line 3523 of file ../casesum/casesum.bib
  :  @article{PMC4542191
  :                     ,
@@ -129,7 +127,7 @@ Repeated entry---line 7007 of file ../casesum/casesum.bib
  :  @article{PMID7825519
  :                      ,
 I'm skipping whatever remains of this entry
-Database file #7: sbenzbib.bib
+Database file #6: sbenzbib.bib
 Warning--empty year in PMC11260405
 Warning--empty year in PMC10733163
 Warning--can't use both author and editor fields in Johnson1988
@@ -142,44 +140,44 @@ Warning--empty year in HuberTLa
 Warning--empty year in Wang_Hydrogen_sulfide_microbiota_
 Warning--empty year in Yang_Noda_Kato_Elevated_Intestinal_Absorption_
 You've used 406 entries,
-            2943 wiz_defined-function locations,
-            3755 strings with 204163 characters,
-and the built_in function-call counts, 230932 in all, are:
-= -- 24236
-> -- 13144
+            2760 wiz_defined-function locations,
+            3724 strings with 204026 characters,
+and the built_in function-call counts, 217892 in all, are:
+= -- 23350
+> -- 12352
 < -- 80
-+ -- 4921
++ -- 4919
 - -- 4467
-* -- 16642
-:= -- 34436
+* -- 16680
+:= -- 34014
 add.period$ -- 1634
 call.type$ -- 406
 change.case$ -- 3447
 chr.to.int$ -- 0
 cite$ -- 417
-duplicate$ -- 5425
-empty$ -- 16930
+duplicate$ -- 5621
+empty$ -- 15488
 format.name$ -- 4467
-if$ -- 56809
+if$ -- 51273
 int.to.chr$ -- 0
 int.to.str$ -- 406
 missing$ -- 393
 newline$ -- 2448
 num.names$ -- 814
-pop$ -- 5103
+pop$ -- 4167
 preamble$ -- 1
 purify$ -- 3044
 quote$ -- 0
-skip$ -- 14669
+skip$ -- 12741
 stack$ -- 0
-substring$ -- 5435
+substring$ -- 4721
 swap$ -- 1796
-text.length$ -- 794
+text.length$ -- 80
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 1618
 warning$ -- 11
 while$ -- 1004
 width$ -- 409
-write$ -- 5526
+write$ -- 5624
 (There were 26 error messages)
