@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2024.3.16)  5 MAY 2025 21:25
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2024.3.16)  14 MAY 2025 07:09
  restricted system commands enabled.
  file:line:error style messages enabled.
 **copper.tex
@@ -1986,12 +1986,12 @@ Package rerunfilecheck Info: File `copper.out' has not changed.
 
 Here is how much of LuaTeX's memory you used:
  34411 strings out of 481365
- 745252,1373583 words of node,token memory allocated
+ 745225,1373583 words of node,token memory allocated
  2820 words of node memory still in use:
    6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 226 attribute, 81 glue_spe
 c, 226 attribute_list, 219 pdf_action nodes
-   avail lists: 2:9777,3:1066,4:271,5:21322,6:116,7:21826,8:251,9:42871,10:37,11
-:2276
+   avail lists: 1:1,2:9777,3:1066,4:271,5:21322,6:116,7:21826,8:251,9:42871,10:3
+7,11:2276
  49289 multiletter control sequences out of 65536+600000
  104 fonts using 9057347 bytes
  82i,20n,77p,749b,2479s stack positions out of 5000i,500n,10000p,200000b,100000s
@@ -2015,7 +2015,7 @@ e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmsy9.pfb>
-Output written on copper.pdf (76 pages, 5231814 bytes).
+Output written on copper.pdf (76 pages, 5231985 bytes).
 
 PDF statistics: 2923 PDF objects out of 2984 (max. 8388607)
  2743 compressed objects within 28 object streams
