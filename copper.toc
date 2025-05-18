@@ -47,17 +47,17 @@
 \contentsline {section}{\numberline {6}Limitations}{42}{section*.45}%
 \contentsline {section}{\numberline {7}Perspective : Copper in Past Civilizations }{43}{section*.46}%
 \contentsline {section}{\numberline {8}Conclusions}{43}{section*.47}%
-\contentsline {section}{\numberline {9}Supplemental Information}{44}{section*.48}%
-\contentsline {subsection}{\numberline {9.1}Computer Code}{44}{section*.49}%
-\contentsline {section}{\numberline {10}Bibliography}{44}{section*.50}%
-\contentsline {section}{\numberline {}References}{44}{section*.51}%
-\contentsline {section}{\numberline {}Acknowledgments}{66}{section*.52}%
+\contentsline {section}{\numberline {9}Supplemental Information}{45}{section*.48}%
+\contentsline {subsection}{\numberline {9.1}Computer Code}{45}{section*.49}%
+\contentsline {section}{\numberline {10}Bibliography}{45}{section*.50}%
+\contentsline {section}{\numberline {}References}{45}{section*.51}%
+\contentsline {section}{\numberline {}Acknowledgments}{67}{section*.52}%
 \appendix 
-\contentsline {section}{\numberline {A} Statement of Conflicts }{67}{section*.53}%
-\contentsline {section}{\numberline {B}About the Authors and Facility}{67}{section*.54}%
-\contentsline {section}{\numberline {C}Some Common Logical Fallacies and Misdirections}{67}{section*.55}%
-\contentsline {section}{\numberline {D}Background Diet Sumnary}{69}{section*.56}%
-\contentsline {section}{\numberline {E}Notable Food Components with Copper Interactions}{73}{section*.57}%
-\contentsline {section}{\numberline {F}Symbols, Abbreviations and Colloquialisms}{73}{section*.58}%
-\contentsline {section}{\numberline {G}General caveats and disclaimer }{73}{section*.59}%
-\contentsline {section}{\numberline {H}Citing this as a tech report or white paper }{73}{section*.60}%
+\contentsline {section}{\numberline {A} Statement of Conflicts }{68}{section*.53}%
+\contentsline {section}{\numberline {B}About the Authors and Facility}{68}{section*.54}%
+\contentsline {section}{\numberline {C}Some Common Logical Fallacies and Misdirections}{68}{section*.55}%
+\contentsline {section}{\numberline {D}Background Diet Sumnary}{70}{section*.56}%
+\contentsline {section}{\numberline {E}Notable Food Components with Copper Interactions}{74}{section*.57}%
+\contentsline {section}{\numberline {F}Symbols, Abbreviations and Colloquialisms}{74}{section*.58}%
+\contentsline {section}{\numberline {G}General caveats and disclaimer }{74}{section*.59}%
+\contentsline {section}{\numberline {H}Citing this as a tech report or white paper }{74}{section*.60}%

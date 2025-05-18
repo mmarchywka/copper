@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2024.3.16)  14 MAY 2025 07:09
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian)  (format=lualatex 2024.3.16)  18 MAY 2025 16:46
  restricted system commands enabled.
  file:line:error style messages enabled.
 **copper.tex
@@ -1418,67 +1418,67 @@ Overfull \hbox (5.0pt too wide) detected at line 49
 
 
 Overfull \hbox (5.0pt too wide) detected at line 50
- \TU/lmr/m/n/10 44
+ \TU/lmr/m/n/10 45
  []
 
 
 Overfull \hbox (5.0pt too wide) detected at line 51
- \TU/lmr/m/n/10 44
+ \TU/lmr/m/n/10 45
  []
 
 
 Overfull \hbox (5.0pt too wide) detected at line 52
- \TU/lmr/m/n/10 44
+ \TU/lmr/m/n/10 45
  []
 
 
 Overfull \hbox (5.0pt too wide) detected at line 53
- \TU/lmr/m/n/10 44
+ \TU/lmr/m/n/10 45
  []
 
 
 Overfull \hbox (5.0pt too wide) detected at line 54
- \TU/lmr/m/n/10 66
+ \TU/lmr/m/n/10 67
  []
 
 
 Overfull \hbox (5.0pt too wide) detected at line 56
- \TU/lmr/m/n/10 67
+ \TU/lmr/m/n/10 68
  []
 
 
 Overfull \hbox (5.0pt too wide) detected at line 57
- \TU/lmr/m/n/10 67
+ \TU/lmr/m/n/10 68
  []
 
 
 Overfull \hbox (5.0pt too wide) detected at line 58
- \TU/lmr/m/n/10 67
+ \TU/lmr/m/n/10 68
  []
 
 
 Overfull \hbox (5.0pt too wide) detected at line 59
- \TU/lmr/m/n/10 69
+ \TU/lmr/m/n/10 70
  []
 
 
 Overfull \hbox (5.0pt too wide) detected at line 60
- \TU/lmr/m/n/10 73
+ \TU/lmr/m/n/10 74
  []
 
 
 Overfull \hbox (5.0pt too wide) detected at line 61
- \TU/lmr/m/n/10 73
+ \TU/lmr/m/n/10 74
  []
 
 
 Overfull \hbox (5.0pt too wide) detected at line 62
- \TU/lmr/m/n/10 73
+ \TU/lmr/m/n/10 74
  []
 
 
 Overfull \hbox (5.0pt too wide) detected at line 63
- \TU/lmr/m/n/10 73
+ \TU/lmr/m/n/10 74
  []
 
 )
@@ -1845,16 +1845,31 @@ Underfull \hbox (badness 10000) in paragraph at lines 2--3
  []
 
 )
-Overfull \hbox (23.45999pt too wide) in paragraph at lines 4596--4597
+Overfull \hbox (23.45999pt too wide) in paragraph at lines 4614--4615
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 4596--4597
+Underfull \hbox (badness 10000) in paragraph at lines 4614--4615
 
  []
 
-[43] (./copper.bbl [44]
+
+Overfull \hbox (13.45999pt too wide) in paragraph at lines 4617--4633
+[]
+ []
+
+[43]
+Overfull \hbox (13.45999pt too wide) in paragraph at lines 4747--4758
+[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4747--4758
+
+ []
+
+[44] (./copper.bbl [45]
 Underfull \hbox (badness 2707) in paragraph at lines 96--104
 []\TU/lmr/m/n/9 Laura Amund-son, Brent Kirn, Erik Swens-son, Al-li-son Mil-li-c
 an, and George Fa-hey.  Cop-per metabolism
@@ -1874,13 +1889,13 @@ Underfull \hbox (badness 1112) in paragraph at lines 96--104
 -[]pdf/doi/10.1093/
  []
 
-[45]
+[46]
 Underfull \hbox (badness 2277) in paragraph at lines 318--329
 []\TU/lmr/m/n/9 Elina Bernts-son, Faraz Vosough, Teodor Svantes-son, Jonathan P
 an-sieri, Igor A. Iashchishyn, Lu-cija Os-to-
  []
 
-[46]
+[47]
 Underfull \hbox (badness 2529) in paragraph at lines 463--469
 \TU/lmr/m/it/9 ogy\TU/lmr/m/n/9 , 23, 02 2010.  Avail-able from: [][]$\TU/lmtt/
 m/n/9 https://www.researchgate.net/profile/George-[]Brewer-[]2/publication/
@@ -1892,69 +1907,75 @@ Underfull \hbox (badness 10000) in paragraph at lines 463--469
 s/links/5ce2ce1da6fdccc9ddbfe8bc/
  []
 
-[47] [48] [49] [50] [51] [52] [53] [54] [55]
+[48] [49] [50] [51] [52] [53] [54] [55] [56]
 Underfull \hbox (badness 3354) in paragraph at lines 2095--2102
 \TU/lmr/m/n/9 port MJM-2021-015, not in-sti-tu-tion-al-ized, in-de-pen-dent, 30
 6 Charles Cox , Can-ton GA 30115, 12 2021.
  []
 
 
-Underfull \hbox (badness 5316) in paragraph at lines 2167--2174
+Underfull \hbox (badness 10000) in paragraph at lines 2167--2176
+\TU/lmtt/m/n/9 Vitamin_K_Literature_in_the_Conext_of_a_non-[]Monotonic_Response
+_Curve_Local_vs_Global_Optima_and_other_
+ []
+
+
+Underfull \hbox (badness 5316) in paragraph at lines 2178--2185
 []\TU/lmr/m/n/9 M.J. Marchy-wka.  On the age dis-tri-bu-tion of sars-cov-2 pa-t
 ients.  Tech-ni-cal Re-port MJM-2020-002-
  []
 
 
-Underfull \hbox (badness 2600) in paragraph at lines 2167--2174
+Underfull \hbox (badness 2600) in paragraph at lines 2178--2185
 \TU/lmr/m/n/9 0.10, not in-sti-tu-tion-al-ized , in-de-pen-dent, 306 Charles Co
 x , Can-ton GA 30115, 7 2020.  Ver-sion 0.10
  []
 
 
-Underfull \hbox (badness 1748) in paragraph at lines 2167--2174
+Underfull \hbox (badness 1748) in paragraph at lines 2178--2185
 \TU/lmr/m/n/9 , may change sign-f-i-cantly if less than 1.00.  Avail-able from:
  [][]$\TU/lmtt/m/n/9 https://www.linkedin.com/posts/marchywka_
  []
 
-[56]
-Underfull \hbox (badness 4927) in paragraph at lines 2214--2222
+
+Underfull \hbox (badness 4927) in paragraph at lines 2225--2233
 []\TU/lmr/m/n/9 M.J. Marchy-wka.  Sup-ple-ment us-age in-clud-ing vi-ta-min k b
 y a heart-worm pos-i-tive preg-nant pit bull
  []
 
 
-Underfull \hbox (badness 2384) in paragraph at lines 2214--2222
+Underfull \hbox (badness 2384) in paragraph at lines 2225--2233
 \TU/lmr/m/n/9 and her pup-pies.  Tech-ni-cal Re-port MJM-2021-003, not in-sti-t
 u-tion-al-ized , in-de-pen-dent, 306 Charles Cox
  []
 
 
-Underfull \hbox (badness 4608) in paragraph at lines 2214--2222
+Underfull \hbox (badness 4608) in paragraph at lines 2225--2233
 \TU/lmr/m/n/9 , Can-ton GA 30115, 05 2021.  Ver-sion 0.50 , may change sign-f-i
 -cantly if less than 1.00.  Avail-
  []
 
-[57]
-Underfull \hbox (badness 1735) in paragraph at lines 2499--2505
+[57] [58]
+Underfull \hbox (badness 1735) in paragraph at lines 2510--2516
 \TU/lmr/m/n/9 able from: [][]$\TU/lmtt/m/n/9 https://store.newhope.comandhttps:
 //store.newhope.comandhttps://store.newhope.com/products/
  []
 
-[58] [59] [60]
-Underfull \hbox (badness 1152) in paragraph at lines 2985--2992
+[59] [60] [61]
+Underfull \hbox (badness 1152) in paragraph at lines 2996--3003
 \TU/lmr/m/n/9 per ex-trac-tion, 2011.  Avail-able from: [][]$\TU/lmtt/m/n/9 htt
 ps://doi.org/10.1016/b978-[]0-[]08-[]096789-[]9.10015-[]0$[][]\TU/lmr/m/n/9 , [
 ][]$\TU/lmtt/m/n/9 doi:10.1016/
  []
 
-[61] [62] [63] [64] [65]) [66] Including 'mdpicomment' comment.
+[62] [63] [64] [65] [66]) [67] Including 'mdpicomment' comment.
 \openout3 = comment.cut
 
 Straight input of comment.cut. (./comment.cut)
 Including 'mdpicomment' comment.
 \openout3 = comment.cut
  Straight input of comment.cut. (./comment.cut
-Excluding 'comment' comment. [67] (./keep/monthly.tex
+Excluding 'comment' comment. [68] (./keep/monthly.tex
 Overfull \hbox (32.57286pt too wide) in paragraph at lines 6--62
  []$[]$ 
  []
@@ -1964,9 +1985,9 @@ Overfull \hbox (36.92886pt too wide) in paragraph at lines 66--111
  []$[]$ 
  []
 
-[68] [69] [70]) [71] [72] Excluding 'comment' comment.
+[69] [70] [71]) [72] [73] Excluding 'comment' comment.
 (/home/documents/latex/share/includes/disclaimer-gaslight.tex)
-(/home/documents/latex/share/includes/disclaimer-status.tex) [73]
+(/home/documents/latex/share/includes/disclaimer-status.tex) [74]
 (./releases.tex)
 Overfull \hbox (10.0pt too wide) in paragraph at lines 147--152
 []$[]$ 
@@ -1974,27 +1995,27 @@ Overfull \hbox (10.0pt too wide) in paragraph at lines 147--152
 
 Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on in
 put line 160.
-(./copper.bundle_checksums [74] [75])) [76]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 4938.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 4938.
+(./copper.bundle_checksums [75] [76])) [77]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 5023.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 5023.
  (./copper.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 4938.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 4938.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 5023.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 5023.
 Package rerunfilecheck Info: File `copper.out' has not changed.
 (rerunfilecheck)             Checksum: 310401004CBFFEB1CC929760470B13D6;12688.
 )
 
 Here is how much of LuaTeX's memory you used:
- 34411 strings out of 481365
- 745225,1373583 words of node,token memory allocated
- 2820 words of node memory still in use:
-   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 226 attribute, 81 glue_spe
-c, 226 attribute_list, 219 pdf_action nodes
-   avail lists: 1:1,2:9777,3:1066,4:271,5:21322,6:116,7:21826,8:251,9:42871,10:3
+ 34415 strings out of 481365
+ 745252,1373583 words of node,token memory allocated
+ 2830 words of node memory still in use:
+   6 hlist, 2 vlist, 2 rule, 2 glue, 4 kern, 1 glyph, 227 attribute, 81 glue_spe
+c, 227 attribute_list, 220 pdf_action nodes
+   avail lists: 1:1,2:9777,3:1080,4:266,5:21322,6:116,7:21827,8:235,9:42871,10:3
 7,11:2276
- 49289 multiletter control sequences out of 65536+600000
+ 49291 multiletter control sequences out of 65536+600000
  104 fonts using 9057347 bytes
- 82i,20n,77p,749b,2479s stack positions out of 5000i,500n,10000p,200000b,100000s
+ 82i,20n,77p,749b,2503s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/share/texmf/fonts/opentype/public/lm/lmroman10-italic.otf></usr/share/texm
 f/fonts/opentype/public/lm/lmroman6-regular.otf></usr/share/texmf/fonts/opentype
 /public/lm/lmmono9-regular.otf></usr/share/texmf/fonts/opentype/public/lm/lmmono
@@ -2015,10 +2036,10 @@ e/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/amsfonts/cm/cmsy9.pfb>
-Output written on copper.pdf (76 pages, 5231985 bytes).
+Output written on copper.pdf (77 pages, 5236204 bytes).
 
-PDF statistics: 2923 PDF objects out of 2984 (max. 8388607)
- 2743 compressed objects within 28 object streams
- 707 named destinations out of 1000 (max. 131072)
+PDF statistics: 2927 PDF objects out of 2984 (max. 8388607)
+ 2746 compressed objects within 28 object streams
+ 709 named destinations out of 1000 (max. 131072)
  496 words of extra memory for PDF output out of 10000 (max. 100000000)
 
