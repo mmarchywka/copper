@@ -1082,15 +1082,6 @@ Erika Garay, Nils Schuth, Alessandra Barbanente, Carlos Tejeda-Guzm\'{a}n,
   \href {http://dx.doi.org/10.1073/pnas.2117807119}
   {\path{doi:10.1073/pnas.2117807119}}.
 
-\bibitem{Garrow_Clegg_Metzler_Influence_hypertension_1991}
-T~A Garrow, M~S Clegg, G~Metzler, and C~L Keen.
-\newblock Influence of hypertension and dietary copper on indexes of copper
-  status in rats.
-\newblock {\em Hypertension}, 17, 1991.
-\newblock Available from: \url{http://dx.doi.org/10.1161/01.hyp.17.6.793},
-  \href {http://dx.doi.org/10.1161/01.hyp.17.6.793}
-  {\path{doi:10.1161/01.hyp.17.6.793}}.
-
 \bibitem{Georgopoulos_Wang_Georgopoulos_Assessment_human_exposure_2006}
 Panos~G Georgopoulos, Sheng~Wei Wang, Ioannis~G Georgopoulos, Mary~Jean
   Yonone-Lioy, and Paul~J Lioy.
@@ -1914,16 +1905,6 @@ Weiping Lin, Liangliang Xu, and Gang Li.
   \url{https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7204390/}, \href
   {http://dx.doi.org/10.3389/fbioe.2020.00359}
   {\path{doi:10.3389/fbioe.2020.00359}}.
-
-\bibitem{Liu_Liao_Zhu_association_between_serum_2021}
-Changsong Liu, Yanfen Liao, Zongyuan Zhu, Lili Yang, Qin Zhang, and Li~Li.
-\newblock The association between serum copper concentrations and elevated
-  blood pressure in us children and adolescents: National health and nutrition
-  examination survey 2011-2016.
-\newblock {\em BMC Cardiovascular Disorders}, 21, 2021.
-\newblock Available from: \url{http://dx.doi.org/10.1186/s12872-021-01880-3},
-  \href {http://dx.doi.org/10.1186/s12872-021-01880-3}
-  {\path{doi:10.1186/s12872-021-01880-3}}.
 
 \bibitem{Liu_Sun_Wang_Dietary_tryptophan_supplementation_enhances_2023}
 Guangmang Liu, Weixiao Sun, Fang Wang, Gang Jia, Hua Zhao, Xiaoling Chen, Gang
@@ -3074,6 +3055,14 @@ Bernard~G. Schreurs, Carrie~A. Smith-Bell, Deya~S. Darwish, Desheng Wang,
 \newblock Available from: \url{https://doi.org/10.1016/j.bbr.2007.03.024},
   \href {http://dx.doi.org/10.1016/j.bbr.2007.03.024}
   {\path{doi:10.1016/j.bbr.2007.03.024}}.
+
+\bibitem{PMC4643214}
+Bernard~G Schreurs and D~Larry Sparks.
+\newblock Dietary high cholesterol and trace metals in the drinking water
+  increase levels of abca1 in the rabbit hippocampus and temporal cortex.
+\newblock {\em Journal of Alzheimer's disease : JAD}, pages 201--9, 2016.
+\newblock Available from: \url{https://pubmed.ncbi.nlm.nih.gov/26444796/},
+  \href {http://dx.doi.org/10.3233/JAD-150601} {\path{doi:10.3233/JAD-150601}}.
 
 \bibitem{Segna_Brusselaers_Glaus_Association_between_proton_pump_2021}
 Daniel Segna, Nele Brusselaers, Damian Glaus, Niklas Krupka, and Benjamin
