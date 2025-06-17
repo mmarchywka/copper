@@ -53,6 +53,7 @@ distracting symptoms.
 \myitem{false dichotomy}{ good and evil  }
 \myitem{non-monotonic curves }{ \mjmquote{ show me a monotonic dose response curve and I'll show you a fool } }
 \myitem{fix or remove }{ Often there are 2 approaches to getting the same result with a partially broken system.  }
+\myitem{a ratio is not a derivative }{ Associaion or fit parameters relating X to Y are averaged over an entire data set but the derivative at current state is what would be relevant to an intervention.   }
 \myitem{one extreme says nothing about the other  }{ Both invcreasing or decreasing some quantity may produce the same ( beneficial or evil ) effect.  }
 \myitem{presumed antagonists may work together  }{ One example cited osteoclast activation as not be the opposite osteogensis and in fact vigorous remodelling may be important for healthy bones.   }
 \myitem{hidden interaction }{ The observed result requires some interaction partners  }

@@ -6,26 +6,26 @@
 \contentsline {subsection}{\numberline {1.2} Hepatic copper excess needs context }{5}{section*.4}%
 \contentsline {subsection}{\numberline {1.3} Copper status is ambiguous in biochemisty and clinical outcomes }{7}{section*.5}%
 \contentsline {subsection}{\numberline {1.4} This kind of confusion is common for recurring reasons }{7}{section*.6}%
-\contentsline {subsection}{\numberline {1.5} Copper related outcomes depend on everything starting with GI tract }{8}{section*.7}%
+\contentsline {subsection}{\numberline {1.5} Copper related outcomes depend on everything starting with GI tract }{9}{section*.7}%
 \contentsline {subsection}{\numberline {1.6} Copper interacts with dietary sulfur in other animals }{10}{section*.8}%
-\contentsline {subsection}{\numberline {1.7} The overall diet may be important for copper distribution }{10}{section*.9}%
+\contentsline {subsection}{\numberline {1.7} The overall diet may be important for copper distribution }{11}{section*.9}%
 \contentsline {subsection}{\numberline {1.8} Copper interactions with WHY and Cu related clinical impact }{11}{section*.10}%
 \contentsline {subsection}{\numberline {1.9} Recent Similar Work }{11}{section*.11}%
-\contentsline {subsection}{\numberline {1.10} Copper rich diets for dogs and people are worth consideration }{11}{section*.12}%
+\contentsline {subsection}{\numberline {1.10} Copper rich diets for dogs and people are worth consideration }{12}{section*.12}%
 \contentsline {section}{\numberline {2} Diseases of Interest }{12}{section*.13}%
-\contentsline {subsection}{\numberline {2.1} Collapsed Trachea }{12}{section*.14}%
+\contentsline {subsection}{\numberline {2.1} Collapsed Trachea }{13}{section*.14}%
 \contentsline {subsection}{\numberline {2.2} Heart Problems : DCM/HCM}{14}{section*.15}%
 \contentsline {subsection}{\numberline {2.3} Infection and Microbiology }{15}{section*.16}%
 \contentsline {subsection}{\numberline {2.4} Hypothyroidism }{16}{section*.17}%
-\contentsline {subsection}{\numberline {2.5} Degenerative diseases AD, PD, ALS, Arthritis }{16}{section*.18}%
-\contentsline {subsection}{\numberline {2.6} Cancer }{17}{section*.19}%
+\contentsline {subsection}{\numberline {2.5} Degenerative diseases AD, PD, ALS, Arthritis }{17}{section*.18}%
+\contentsline {subsection}{\numberline {2.6} Cancer }{18}{section*.19}%
 \contentsline {section}{\numberline {3} Sites of Interest }{18}{section*.20}%
-\contentsline {subsection}{\numberline {3.1} Mito Complex IV ( was Cytochrome C Oxidase ) }{18}{section*.21}%
-\contentsline {subsubsection}{\numberline {3.1.1} Amino Acids and Confusion in Copper Regulation }{19}{section*.22}%
+\contentsline {subsection}{\numberline {3.1} Mito Complex IV ( was Cytochrome C Oxidase ) }{19}{section*.21}%
+\contentsline {subsubsection}{\numberline {3.1.1} Amino Acids and Confusion in Copper Regulation }{20}{section*.22}%
 \contentsline {subsubsection}{\numberline {3.1.2} Fats and energy regulation }{20}{section*.23}%
-\contentsline {subsection}{\numberline {3.2} Lysyl Oxidase }{20}{section*.24}%
+\contentsline {subsection}{\numberline {3.2} Lysyl Oxidase }{21}{section*.24}%
 \contentsline {subsection}{\numberline {3.3} Ceruloplasmin }{21}{section*.25}%
-\contentsline {subsection}{\numberline {3.4} Macrophage et al }{21}{section*.26}%
+\contentsline {subsection}{\numberline {3.4} Macrophage et al }{22}{section*.26}%
 \contentsline {subsection}{\numberline {3.5} Associated Entities - histidine and garlic etc }{22}{section*.27}%
 \contentsline {section}{\numberline {4}Cases and Observations}{22}{section*.28}%
 \contentsline {subsection}{\numberline {4.1}Hershey}{25}{section*.29}%
