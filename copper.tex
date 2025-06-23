@@ -346,11 +346,17 @@ not really excess of global deficiency
 
 \newcommand{\mjmresolve}
 {
+Its important to remember that all food components
+are chemicals and have interactions beyond their
+role such as a vitamin. As soon as they mix they can
+react during preparation, storage, or consumption.
+
+
 A couple of papers from 1964 illustrate the problem in simple
 terms. Initially turkeys were fed either a natural or purified
 diet with varying copper levels demonstrating toxicity in the
 purified diet but only minor issues combined with the natural diet
-\cite{Waibel_Snetsinger_Ball_Variation_Tolerance_1964}.ZZ
+\cite{Waibel_Snetsinger_Ball_Variation_Tolerance_1964}.
 A follow up work suggested the purified diet could be safe
 with copper but considered vitamin A, D, and zinc 
 additions and noted an off odor in high copper feed
@@ -696,26 +702,69 @@ pathological states resolve.
 } % \mjmambig
 
 
+\newcommand{\mjmecu}[2]{\item {\bf #1} { #2}}
+\newcommand{\mjmss}[1]{\subsubsection{ #1}}
+
 \newcommand{\mjmall}
 {
 One problem making reproducible statements about 
 copper supplementation may be the interaction
 of copper compounds with  almost everything else.
 Literature exists on some intreractions but the versaility
-of copper probably makes a copmlete list intractable.
-Some of the 'usual suspects" are listed in \mjmrefapp{interactions}
+of copper probably makes a complete list intractable.
+A starting point for a  'usual suspect" reaction participants list is 
+in \mjmrefapp{interactions}
 merely to indicate a lot of what is left out of the current analysis.
 
-Thie confusion begins in the GI tract with chemisty ranging from 
-the problems sorting and regulating metals  to the
-non-enzymatic reactions copper can undergo with a variety
-of organics in food. 
+Some of the issues include, 
+
+\begin{enumerate}
+\mjmecu{pH dependent solubility}{ An early low pH step such as in the stomach may be important for later absorption. }
+\mjmecu{reduction}{ Copper is normally divalent but can be reduced leading to both more reaction products and precipitates. }
+\mjmecu{insoluble precipitates}{Copper reacts with many things to form solids that may not be extractable from  GI tract. }
+\mjmecu{destruction of vitamins}{ A big concern is creation of anti-vitamins which can be more potent than the vitamin being antagonized making it difficult to fix with more vitamins. }
+\mjmecu{other reactions such as Fenton chemistry }{There is an ability to do a lot of oxidative damage. }
+\mjmecu{competition with other metals}{ This is most commonly considered in uptake and enzyme metallization. }
+
+\end{enumerate}
+
+Many of these may be a concern at each step of copper handling.
+
+\mjmss{ Food Preparation}
+
+\mjmresolve
+
+\mjmss{ Intestine }
+The initial important GI step is probably the stomach but
+the function of the stomach has to be considered in terms
+of achieving absorption in the intestines. 
+Past the stomach into the intestines,  the pH increases
+and mucin layers are thoought
+to actively participate in metal or "trace element" absorption
+\cite{Einhorn_Haase_Maares_Interaction_competition_2024}.
+Mucin quality may also depend on nutrition such as
+oral threonine
+\cite{Law_Bertolo_AdjiriAwere_Adequate_oral_threonine_2007}
+.  However, they 
+may not deal effectively with precipitates grown
+in the stomach. 
+
 The copper transporter Ctr1 is thought to be selective against
 most divalent metals as it transports Cu(I) but is inhibited
 by Ag \cite{PMC3689948}. 
-Enzymes may be subject to mis-metallization although
-there may be evolutionary pressure to use a variety
-to metals \cite{PMC8633580}.
+
+
+Dietary cholesterol appears to distrurb copper homeostasis 
+with atherosclerosis thought to involve copper dysregulation
+\cite{PMID33661473}
+and high fat diets in other species \cite{PMC5167165} are an issue.
+Fructose also inhibits relative copper absorption
+\cite{ODell_Fructose_mineral_metabolism_1993}
+\cite{PMID7825519}.
+
+
+
+\mjmss{ Stomach or similar }
 
 Once in the body, the ability to 
 distribute and use copper depends on other nutrients
@@ -754,18 +803,6 @@ on nutrition and micrbial populations
 with  Cu-Zn antagonism also observed in the digestive system 
 \cite{Pang_Applegate_Effects_Dietary_Copper_2007}.
 
-Past the stomach into the intestines,  the pH increases
-and mucin layers are thoought
-to actively participate in metal or "trace element" absorption
-\cite{Einhorn_Haase_Maares_Interaction_competition_2024}.
-Mucin quality may also depend on nutrition such as
-oral threonine
-\cite{Law_Bertolo_AdjiriAwere_Adequate_oral_threonine_2007}
-.  However, they 
-may not deal effectively with precipitates grown
-in the stomach. 
-
-
 % \mjmtol{ put somewhere }
 Some information about stomach pH variations may come
 from the large number of human PPI users.
@@ -773,6 +810,7 @@ PPI's  can raise stomach pH from 2 to 6 and produce "profound
 hypochlorhydria" \cite{PMC4254461}. The latter point may be
 important as Cl as much or more  than H may have impact on microbiome
 and gastric chemistry. 
+\mjmtol{ move to cancer section }
 There is  a conjectured tumor protective effect from PPI usage
 and  a suggestion
 that pH 6 encourages cancer progression
@@ -860,14 +898,11 @@ Since paradoxes are a concern here, its worth noting that pyridoxine
 is an inhibitor of PLP and high dosese result in functional B-6
 deficiency \cite{Vrolijk_Opperhuizen_Jansen_vitamin_paradox_2017}.
 }
+\mjmss{ Once intenralized   }
 
-Dietary cholesterol appears to distrurb copper homeostasis 
-with atherosclerosis thought to involve copper dysregulation
-\cite{PMID33661473}
-and high fat diets in other species \cite{PMC5167165} are an issue.
-Fructose also inhibits relative copper absorption
-\cite{ODell_Fructose_mineral_metabolism_1993}
-\cite{PMID7825519}.
+Enzymes may be subject to mis-metallization although
+there may be evolutionary pressure to use a variety
+to metals \cite{PMC8633580}.
 
 
 
@@ -3437,7 +3472,7 @@ context.
 \mjmconfuse
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\mjmguide{ Copper related outcomes depend on everything starting with GI tract   }
+\mjmguide{ Copper related outcomes depend on everything starting with food preparation   }
 
 \mjmall
 
@@ -3445,9 +3480,8 @@ context.
 
 \mjmsulfur
 
-\mjmguide{ The overall diet may be important for copper distribution  }
+%\mjmguide{ The overall diet may be important for copper distribution  }
 
-\mjmresolve
 
 \mjmguide{ Copper interactions with WHY  and Cu related clinical impact    }
 
