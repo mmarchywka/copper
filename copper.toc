@@ -10,7 +10,7 @@
 \contentsline {subsubsection}{\numberline {1.5.1} Food Preparation}{9}{section*.8}%
 \contentsline {subsubsection}{\numberline {1.5.2} Intestine }{9}{section*.9}%
 \contentsline {subsubsection}{\numberline {1.5.3} Stomach or similar }{10}{section*.10}%
-\contentsline {subsubsection}{\numberline {1.5.4} Once intenralized }{11}{section*.11}%
+\contentsline {subsubsection}{\numberline {1.5.4} The overall diet may be important for copper distribution }{11}{section*.11}%
 \contentsline {subsection}{\numberline {1.6} Copper interacts with dietary sulfur in other animals }{11}{section*.12}%
 \contentsline {subsection}{\numberline {1.7} Copper interactions with WHY and Cu related clinical impact }{12}{section*.13}%
 \contentsline {subsection}{\numberline {1.8} Recent Similar Work }{12}{section*.14}%
