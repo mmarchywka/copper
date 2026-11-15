@@ -1,0 +1,23 @@
+\contentsline {title}{ Home Based Dog Diet Results - its still the same old story, the fundamental things apply }{1}{section*.2}%
+\contentsline {abstract}{Abstract}{1}{section*.1}%
+\tocdepth@munge 
+\contentsline {section}{\numberline {}Contents}{1}{section*.3}%
+\tocdepth@restore 
+\contentsline {section}{\numberline {I}Introduction }{3}{section*.4}%
+\contentsline {section}{\numberline {II} Experimental Approach }{3}{section*.5}%
+\contentsline {section}{\numberline {III} Current "Best Diet" }{3}{section*.6}%
+\contentsline {section}{\numberline {IV} Considerations }{3}{section*.7}%
+\contentsline {section}{\numberline {V} Goitrogens and Thyroid }{3}{section*.8}%
+\contentsline {section}{\numberline {VI} Meal Chemistry and pH }{3}{section*.9}%
+\contentsline {section}{\numberline {VII}Conclusions}{3}{section*.10}%
+\contentsline {section}{\numberline {VIII}Supplemental Information}{3}{section*.11}%
+\contentsline {subsection}{\numberline {VIII.1}Computer Code}{3}{section*.12}%
+\contentsline {section}{\numberline {IX}Bibliography}{3}{section*.13}%
+\contentsline {section}{\numberline {}References}{3}{section*.14}%
+\contentsline {section}{\numberline {}Acknowledgments}{3}{section*.15}%
+\appendix 
+\contentsline {section}{\numberline {A} Statement of Conflicts }{5}{section*.16}%
+\contentsline {section}{\numberline {B}About the Authors and Facility}{5}{section*.17}%
+\contentsline {section}{\numberline {C}Symbols, Abbreviations and Colloquialisms}{5}{section*.18}%
+\contentsline {section}{\numberline {D}General caveats and disclaimer }{5}{section*.19}%
+\contentsline {section}{\numberline {E}Citing this as a tech report or white paper }{5}{section*.20}%
