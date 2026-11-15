@@ -1,0 +1,161 @@
+\section{About the Authors and Facility}
+This work was performed at a dog rescue run by Barbara Cade and
+housed in rural Georgia.  The author of this report
+,Mike Marchywka,
+has a background in electrical engineering and
+has done extensive research using free online literature sources.
+I hope to find additional people interested in critically
+examining the results and verify that they can be reproduced
+effectively to treat other dogs.
+
+\begin{comment}
+\begin{figure}[htb]
+\centering
+\mjmed{ picture commented out to save space in drafts...  }
+%\includegraphics[width=\picwidth]{me_on_brick.jpg}
+\caption{
+ }
+\end{figure}
+
+\end{comment}
+
+
+
+\section{Some Common Logical Fallacies and Misdirections}
+\label{appendix:errors}
+
+The analysis errors that confuse the problem with the
+solution may be catagorized in a number of way but
+consider the following possibilities. No attempt is made
+to organize, catagorize, or make entries "orthogonal"
+as its unclear how or why to do that right now.
+It seems the other sciences such as materials science are
+ahead of medicine in a number of ways. There is a lot to
+be learned from trying to synthesize a system similar to the
+one you want to fix. Much of the problem appears to be attacking
+quantities associated with a pathological state without understanding
+the cause and effect that mediates from treatable problem to
+distracting symptoms.
+
+
+\newcommand{\myitem}[2]{\item {\bf #1 : } #2 \par}
+\begin{enumerate}
+\myitem{first impressions last} { You see this even in physics. Once a mystery has been ( partially ) solved it becomes entrenched dogma. In some compression technologies its safe to assume the first thing you see is most common but that doesn't seem to work in science lol.  }
+\myitem{people over data} { Thjis comes up in essays on long lived metdical myths. Opinions, votes, don't determine natural laws }
+\myitem{X is a Y so it must do Z} {  There is no small molecule with only one function and even antibodies are proteins and may have off target targets and can be immunogenic. With copper this comes up with chelators but may also apply to anti-oxidants or even water.   }
+\myitem{X is a Y so it does Z   }{ Role confusion leads to more untested assumptions. A Rose by any other name would have a different billing code and label   }
+\myitem{local optimum } { Moving some quantity in one direction perturbs the system in a sort of beneficial way preventing anyone from looking the other way for a better result. }
+
+\myitem{supply v demand}{ An excess quantity is not inherently due to either supply or demand }
+\myitem{fraud and conspiracies}{ If following the data doesn't make sense follow the money ( no citation but something I saw on the internet ).  }
+
+\myitem{quantity may be due to a quality problem. }{ The feedback that produces inducible effectors may not go away until the job is done. If the effectors dont' work you will get more of them. Getting rid of them will not fix the original problem that may be important if this control system evolved well lol.  }
+\myitem{false dichotomy}{ good and evil  }
+\myitem{non-monotonic curves }{ \mjmquote{ show me a monotonic dose response curve and I'll show you a fool } }
+\myitem{fix or remove }{ Often there are 2 approaches to getting the same result with a partially broken system.  }
+\myitem{a ratio is not a derivative }{ Associaion or fit parameters relating X to Y are averaged over an entire data set but the derivative at current state is what would be relevant to an intervention.   }
+\myitem{one extreme says nothing about the other  }{ Both invcreasing or decreasing some quantity may produce the same ( beneficial or evil ) effect.  }
+\myitem{presumed antagonists may work together  }{ One example cited osteoclast activation as not be the opposite osteogensis and in fact vigorous remodelling may be important for healthy bones.   }
+\myitem{hidden interaction }{ The observed result requires some interaction partners  }
+\myitem{local optimum  }{ prohibits consideration of global optimum over rugged parameter space with bad figure of merit.  }
+\myitem{rabbit trail  }{  Successive approcimations, even as advocated in this seris of works, can lead a strategy down the wrong path.  }
+\myitem{platitudes  }{ better to be safe than sorry lol   }
+\myitem{philosophy over dynamics  }{ feedback can be complicated and commonly observed associations misleading    }
+\myitem{equations  }{ consider spherical horse linear approx   }
+\myitem{proxies   }{ Almost only counts in horseshoes and handgrenades   }
+\myitem{models   }{ This usually means cause and effect is tossed out and the premise of the work has nothing to do with the premise of the real disease and that is often not even known well.   }
+\myitem{only relies on  empirical obervations  }{ no cuase and effect stablished   }
+\myitem{ignoring empirical obervations  }{ "sanity  check " Theory based on incomplete system topology needs to be consistent with empirical observations  }
+\myitem{ignoring  empirical obervations  }{ Theory based on incomplete system topology needs to be consistent with empirical observations  }
+\myitem{other state variables }{ Hidden variables include a limting nutrient that is needed to beneficially use the entity under test.   }
+\myitem{regulatory landscape }{ As life is generally robust control systems have evolved but may have non-obvious failure modes. }
+\myitem{trying harder  }{ If a prefered response is frustrated in attaining a survival relevant goal, there may be signals to try a less orderly response more vigorously. The disorganized response can be suppressed by enabling the effective one.  }
+\myitem{narrow corridor }{  Given host-other evolution, you could expect dose response curves with many features but more likely a tight tolerance means that the approach is missing something more robust.  }
+\end{enumerate}
+
+
+
+
+
+\section{Background Diet Sumnary}
+
+\input{keep/monthly.tex}
+
+
+\section{Notable Food Components with Copper Interactions}
+
+\label{appendix:interactions}
+\mjmhuntcu
+
+\section{Symbols, Abbreviations and Colloquialisms}
+
+\begin{comment}
+% grep "[A-Z][A-Z]" paradox.tex | sed -e 's/[^A-Z]/\n/g' | grep "[A-Z]" | sort | uniq -c
+% cat  paradox.tex | sed -e 's/  */\n/g' | grep "[A-Z][A-Z]"  | grep -v "[^A-Z]" | sort | uniq  |awk '{print $0" &   \\\\"; }'
+\end{comment}
+
+
+%\abbreviations{The following abbreviations are used in this manuscript:\\
+%\begin{table}
+\noindent
+\begin{tabular}{@{}ll}
+%SMVT & Sodium dependent Multi-Vitamin Transporter\\
+TERM & definition and meaning   \\
+\hline
+%TLA & Three letter acronym\\
+%LD & linear dichroism
+\end{tabular} % }
+%\end{table}
+
+% https://tex.stackexchange.com/questions/5957/bibtex-entry-for-white-papers-and-technical-reports
+
+\section{General caveats and disclaimer }
+\label{appendix:caveats}
+
+%\input{disclaimer-informal.tex}
+\input{disclaimer-gaslight.tex}
+\input{disclaimer-status.tex}
+
+\section{Citing this as a tech report or white paper }
+\label{appendix:citing}
+
+Note: This is mostly manually entered and not assured to be error free.
+
+This is tech report \mjmtrno.
+
+\begin{table}[H] \centering
+\begin{tabular}{r|r|c|r}
+Version & Date & Comments  &  \\
+0.01 & \mjmmakedate  &  Create from empty.tex template  &  \\
+-  & \today & version  \mjmversion { }   \mjmtrno  &  \\
+1.0 & 20xx-xx-xx & First revision for distribution &  \\
+\end{tabular}
+\end{table}
+
+Released versions,
+
+build script needs to include empty releases.tex
+\begin{table}[H] \centering
+\begin{tabular}{|r|r|l|}
+Version & Date & URL    \\
+\hline
+\expandableinput{releases.tex}
+%\input{releases.tex}
+\hline
+\end{tabular}
+\end{table}
+
+\begin{minipage}{\linewidth}
+%\input{bibtex2.txt}
+%\input{bibtex3.txt}
+\mjmshowbib
+\end{minipage}
+
+\vspace{1cm}
+Supporting files. Note that some dates,sizes, and md5's will change as this is
+rebuilt.
+
+This really needs to include the data analysis code
+but right now it is auto generated picking up things from prior
+build in many cases
+\lstinputlisting{\mjmbasename.bundle_checksums}
